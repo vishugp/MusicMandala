@@ -1,4 +1,5 @@
 d3.csv("data/All_Details.csv").then(function(songData) {
+    // Normalize data
     const normalizedData = songData.map(row => ({
         Producer: row["Producer"]?.trim(),
         Album_Name: row["Album_Name"]?.trim(),
@@ -7,16 +8,20 @@ d3.csv("data/All_Details.csv").then(function(songData) {
 
     const width = window.innerWidth;
     const height = window.innerHeight;
+    const defaultZoomScale = 0.5; // Initial zoom level
+    const defaultTranslateX = width / 5; // Centering the view horizontally
+    const defaultTranslateY = height / 10; // Centering the view vertically
 
     const svg = d3.select("#network")
         .attr("width", width)
         .attr("height", height)
         .call(d3.zoom().scaleExtent([0, 5]).on("zoom", (event) => g.attr("transform", event.transform)));
 
-    const g = svg.append("g");
+    const g = svg.append("g")
+        .attr("transform", `translate(${defaultTranslateX}, ${defaultTranslateY}) scale(${defaultZoomScale})`); // Initial transform
+
     const colorScale = d3.scaleOrdinal(d3.schemeCategory10);
 
-    // Add a color legend for node types
     const legendData = [
         { label: "Producer", color: colorScale(1) },
         { label: "Album", color: colorScale(2) },
@@ -47,9 +52,12 @@ d3.csv("data/All_Details.csv").then(function(songData) {
         .style("font-size", "14px")
         .attr("alignment-baseline", "middle");
 
-    function createForceDirectedTree(clusterBy) {
-        const clusters = d3.group(normalizedData, d => d[clusterBy], d => d.Album_Name);
-        const rootData = { name: "Root", children: [] };
+    // Function to create the force-directed tree
+    function createForceDirectedTree(clusterBy, topX) {
+        // Limit data to top X songs based on parameter
+        const limitedData = normalizedData.slice(0, topX);
+        const clusters = d3.group(limitedData, d => d[clusterBy], d => d.Album_Name);
+        const rootData = { name: "Arijit Singh", children: [] };
 
         clusters.forEach((albums, producer) => {
             const producerNode = { 
@@ -109,10 +117,10 @@ d3.csv("data/All_Details.csv").then(function(songData) {
             .attr("class", "node")
             .call(drag(simulation));
 
-            node.append("circle")
+        node.append("circle")
             .attr("r", d => d.depth === 1 ? 20 : d.depth === 2 ? 15 : 8)
             .attr("fill", d => colorScale(d.depth))
-            .each(function(d) { d.originalColor = colorScale(d.depth); })  // Store the original color at the beginning
+            .each(function(d) { d.originalColor = colorScale(d.depth); })  // Store original color
             .on("mouseover", function(event, d) {
                 let tooltipText = '';
                 if (d.depth === 1) {
@@ -134,17 +142,16 @@ d3.csv("data/All_Details.csv").then(function(songData) {
             })
             .on("mouseout", function(event, d) {
                 d3.select(this)
-                    .attr("fill", d.originalColor)  // Revert to the original color
+                    .attr("fill", d.originalColor)  // Revert to original color
                     .attr("r", d.depth === 1 ? 20 : d.depth === 2 ? 15 : 8);
                 
                 tooltip.transition().duration(500).style("opacity", 0);
             });
-        
 
         node.filter(d => d.depth !== 3).append("text")
             .text(d => d.data.name)
-            .attr("x", 10)
-            .attr("y", 3);
+            .attr("x", -10)
+            .attr("y", -18);
 
         const tooltip = d3.select("body").append("div")
             .attr("class", "tooltip")
@@ -185,13 +192,12 @@ d3.csv("data/All_Details.csv").then(function(songData) {
         }
     }
 
-    d3.select("#loading").style("display", "none");
-    createForceDirectedTree("Producer");
-
-    d3.select("#clustering").on("change", function() {
-        const selectedCluster = d3.select(this).property("value");
-        createForceDirectedTree(selectedCluster);
+    d3.select("#updateButton").on("click", function() {
+        const topX = +d3.select("#topSongs").property("value");
+        createForceDirectedTree("Producer", topX);
     });
+
+    createForceDirectedTree("Producer", 27);  // Default to top 27 songs
 
     window.addEventListener("resize", () => {
         svg.attr("width", window.innerWidth).attr("height", window.innerHeight);

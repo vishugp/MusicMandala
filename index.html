@@ -9,7 +9,12 @@
 
 </head>
 <body>
-    <h1>Arijit Singh Song Map</h1>
+    <u><h2>Arijit Singh Song Map</u> - Visualizing his top songs (based on Spotify Hits)</h2>
+    <div class="control-panel">
+        <label for="topSongs">Top N Songs:</label>
+        <input type="number" id="topSongs" value="27" min="1" max="600">
+        <button id="updateButton">Update</button>
+    </div>
     <svg id="network"></svg>
     <div id="loading">Loading...</div>
     <script src="js/tree_script.js"></script>
