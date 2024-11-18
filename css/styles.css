@@ -124,5 +124,16 @@ h2 {
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.15);
-    font-size: 12px;
+    font-size: 10px;
 }
+
+#lyricsTab {
+    font-family: Arial, sans-serif;
+    transition: transform 0.3s ease;
+    max-height: 93vh; 
+    font-size: 15px;
+  }
+  
+  #lyricsTab.show {
+    display: block;
+  }

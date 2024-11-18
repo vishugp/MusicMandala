@@ -1,9 +1,10 @@
-d3.csv("data/All_Details.csv").then(function(songData) {
+d3.csv("data/All_Details_with_Lyrics.csv").then(function(songData) {
     // Normalize data
     const normalizedData = songData.map(row => ({
         Producer: row["Producer"]?.trim(),
         Album_Name: row["Album_Name"]?.trim(),
-        Track_Name: row["Track_Name"]?.trim()
+        Track_Name: row["Track_Name"]?.trim(),
+        Lyrics: row["Lyrics"]?.trim() // Add Lyrics field
     }));
 
     const width = window.innerWidth;
@@ -60,11 +61,7 @@ d3.csv("data/All_Details.csv").then(function(songData) {
         const rootData = { name: "Arijit Singh", children: [] };
 
         clusters.forEach((albums, producer) => {
-            const producerNode = { 
-                name: producer, 
-                children: [], 
-                albumCount: albums.size 
-            };
+            const producerNode = { name: producer, children: [], albumCount: albums.size };
 
             albums.forEach((songs, albumName) => {
                 const albumNode = { name: albumName, children: [] };
@@ -75,7 +72,8 @@ d3.csv("data/All_Details.csv").then(function(songData) {
                         data: {
                             Producer: song.Producer,
                             Album_Name: song.Album_Name,
-                            Track_Name: song.Track_Name
+                            Track_Name: song.Track_Name,
+                            Lyrics: song.Lyrics
                         }
                     });
                 });
@@ -130,11 +128,11 @@ d3.csv("data/All_Details.csv").then(function(songData) {
                 } else if (d.depth === 3) {
                     tooltipText = `Song: ${d.data.data.Track_Name}<br>Album: ${d.parent.data.name}<br>Producer: ${d.parent.parent.data.name}`;
                 }
-        
+
                 d3.select(this)
                     .attr("fill", "yellow")
                     .attr("r", d.depth === 1 ? 24 : d.depth === 2 ? 18 : 10);
-                
+
                 tooltip.transition().duration(200).style("opacity", .9);
                 tooltip.html(tooltipText)
                     .style("left", (event.pageX + 5) + "px")
@@ -144,14 +142,39 @@ d3.csv("data/All_Details.csv").then(function(songData) {
                 d3.select(this)
                     .attr("fill", d.originalColor)  // Revert to original color
                     .attr("r", d.depth === 1 ? 20 : d.depth === 2 ? 15 : 8);
-                
+
                 tooltip.transition().duration(500).style("opacity", 0);
+            })
+            .on("click", function(event, d) {
+                if (d.depth === 3) {
+                    // Extract Track Name and Lyrics
+                    const trackName = d.data.data.Track_Name;
+                    const lyrics = d.data.data.Lyrics;
+
+                    // Populate the sidebar
+                    trackTitle.textContent = trackName || "Unknown Track";
+                    
+                    lyricsContent.textContent = lyrics || "Lyrics not available.";
+
+                    lyricsContent.innerHTML = lyrics.replace(/\n/g, '<br>'); // Replace \n with <br>
+
+                    // Show the sidebar
+                    lyricsTab.style.display = 'block';
+                }
             });
 
         node.filter(d => d.depth !== 3).append("text")
             .text(d => d.data.name)
             .attr("x", -10)
             .attr("y", -18);
+
+        node.filter(d => d.depth === 3).append("text")
+            .text((d, i) => i + 1) // Use the dataset order as the rank
+            .attr("dy", "0.3em")
+            .style("font-size", "10px")
+            .style("text-anchor", "middle")
+            .style("pointer-events", "none")
+            .style("fill", "#fff");
 
         const tooltip = d3.select("body").append("div")
             .attr("class", "tooltip")
@@ -205,3 +228,23 @@ d3.csv("data/All_Details.csv").then(function(songData) {
 }).catch(function(error) {
     console.error("Error loading the data: ", error);
 });
+
+// Sidebar handling
+const lyricsTab = document.getElementById('lyricsTab');
+const closeTab = document.getElementById('closeTab');
+const trackTitle = document.getElementById('trackTitle');
+const lyricsContent = document.getElementById('lyricsContent');
+
+document.addEventListener('DOMContentLoaded', function () {
+    const lyricsTab = document.getElementById('lyricsTab');
+    const closeTab = document.getElementById('closeTab');
+
+    if (closeTab) {
+        closeTab.addEventListener('click', function() {
+            lyricsTab.style.display = 'none'; // Hide the sidebar
+        });
+    } else {
+        console.error("Close tab button not found.");
+    }
+});
+

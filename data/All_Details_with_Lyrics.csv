@@ -1,0 +1,3400 @@
+Track_Artists,duration_ms,id,Track_Name,Album_ID,total_tracks,Album_Name,release_date,Album_Artists,Producer,Producer_ID,_merge,Lyrics
+"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6'}, 'href': 'https://api.spotify.com/v1/artists/09UmIX92EUH9hAK4bxvHx6', 'id': '09UmIX92EUH9hAK4bxvHx6', 'name': 'Mithoon', 'type': 'artist', 'uri': 'spotify:artist:09UmIX92EUH9hAK4bxvHx6'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw'}, 'href': 'https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw', 'id': '4YRxDV8wJFPHPTeXepOstw', 'name': 'Arijit Singh', 'type': 'artist', 'uri': 'spotify:artist:4YRxDV8wJFPHPTeXepOstw'}]",261974,56zZ48jdyY2oDXHVnwg5Di,Tum Hi Ho,0Rkv5iqjF2uenfL0OVB8hg,12,Aashiqui 2,2013-04-06,"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6'}, 'href': 'https://api.spotify.com/v1/artists/09UmIX92EUH9hAK4bxvHx6', 'id': '09UmIX92EUH9hAK4bxvHx6', 'name': 'Mithoon', 'type': 'artist', 'uri': 'spotify:artist:09UmIX92EUH9hAK4bxvHx6'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB'}, 'href': 'https://api.spotify.com/v1/artists/0E02VcvA5p1ndkLdqWD5JB', 'id': '0E02VcvA5p1ndkLdqWD5JB', 'name': 'Ankit Tiwari', 'type': 'artist', 'uri': 'spotify:artist:0E02VcvA5p1ndkLdqWD5JB'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/2kkQthS9OLpK4UqNWYqoVl'}, 'href': 'https://api.spotify.com/v1/artists/2kkQthS9OLpK4UqNWYqoVl', 'id': '2kkQthS9OLpK4UqNWYqoVl', 'name': 'Jeet Gannguli', 'type': 'artist', 'uri': 'spotify:artist:2kkQthS9OLpK4UqNWYqoVl'}]",Mithoon,09UmIX92EUH9hAK4bxvHx6,both,"[Verse 1]
+Hum tere bin ab reh nahi sakte
+Tere bina kya wajood mera?
+Hum tere bin ab reh nahi sakte
+Tere bina kya wajood mera?
+Tujhse juda gar ho jayenge
+To khudse hi ho jayenge juda
+
+[Chorus]
+Kyunki tum hi ho, ab tum hi ho
+Zindagi, ab tum hi ho
+Chain bhi, mera dard bhi
+Meri aashiqui, ab tum hi ho
+
+[Verse 2]
+Tera mera rishta hai kaisa
+Ek pal dur gawara nahi
+Tere liye har roz hai jeete
+Tujhko diya mera waqt sabhi
+Koi lamha mera na ho tere bina
+Har saans pe naam tera
+
+[Chorus]
+Kyunki tum hi ho, ab tum hi ho
+Zindagi, ab tum hi ho
+Chain bhi, mera dard bhi
+Meri aashiqui, ab tum hi ho
+You might also like[Refrain]
+Tum hi ho
+Tum hi ho
+
+[Verse 3]
+Tere liye hi jiya main
+Khudko jo yun de diya hai
+Teri wafa ne mujhko sambhala
+Sare ghamon ko dil se nikala
+Tere saath mera hai naseeb juda
+Tujhe paake aadura na raha
+
+[Chorus]
+Kyunki tum hi ho, ab tum hi ho
+Zindagi, ab tum hi ho
+Chain bhi, mera dard bhi
+Meri aashiqui, ab tum hi ho
+
+Kyunki tum hi ho, ab tum hi ho
+Zindagi, ab tum hi ho
+Chain bhi, mera dard bhi
+Meri aashiqui, ab tum hi hoEmbed"
+"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr'}, 'href': 'https://api.spotify.com/v1/artists/3yMmYEklQ7gLOZXEFNd3xr', 'id': '3yMmYEklQ7gLOZXEFNd3xr', 'name': 'Palak Muchhal', 'type': 'artist', 'uri': 'spotify:artist:3yMmYEklQ7gLOZXEFNd3xr'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw'}, 'href': 'https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw', 'id': '4YRxDV8wJFPHPTeXepOstw', 'name': 'Arijit Singh', 'type': 'artist', 'uri': 'spotify:artist:4YRxDV8wJFPHPTeXepOstw'}]",304899,6UgcN95w7vQxkR8sEFmwHG,Chahun Main Ya Naa,0Rkv5iqjF2uenfL0OVB8hg,12,Aashiqui 2,2013-04-06,"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6'}, 'href': 'https://api.spotify.com/v1/artists/09UmIX92EUH9hAK4bxvHx6', 'id': '09UmIX92EUH9hAK4bxvHx6', 'name': 'Mithoon', 'type': 'artist', 'uri': 'spotify:artist:09UmIX92EUH9hAK4bxvHx6'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB'}, 'href': 'https://api.spotify.com/v1/artists/0E02VcvA5p1ndkLdqWD5JB', 'id': '0E02VcvA5p1ndkLdqWD5JB', 'name': 'Ankit Tiwari', 'type': 'artist', 'uri': 'spotify:artist:0E02VcvA5p1ndkLdqWD5JB'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/2kkQthS9OLpK4UqNWYqoVl'}, 'href': 'https://api.spotify.com/v1/artists/2kkQthS9OLpK4UqNWYqoVl', 'id': '2kkQthS9OLpK4UqNWYqoVl', 'name': 'Jeet Gannguli', 'type': 'artist', 'uri': 'spotify:artist:2kkQthS9OLpK4UqNWYqoVl'}]",Mithoon,09UmIX92EUH9hAK4bxvHx6,both,"[Chorus : Arijit Singh and Palak Muchhal]
+Tu hi ye mujhko bata de
+Chahun main ya naa
+Apne tu dil ka pata de
+Chahun main ya naa
+Tu hi ye mujhko bata de
+Chahun main ya naa
+Apne tu dil ka pata de
+Chahun main ya naa
+
+[Verse 1: Arijit Singh]
+Itna bata doon tujhko
+Chaahat pe apni mujhko
+Yun tto nahi ikhtiyaar
+Phir bhi yeh socha dil ne
+Ab jo laga hoon milne
+Poochhu tujhe ek baar
+
+[Chorus:  Arijit Singh & Palak Muchhal]
+Tu hi ye mujhko bata de
+Chahun main ya naa
+Apne tu dil ka pata de
+Chahun main ya naa
+
+[Verse 2: Arijit Singh]
+Aisi kabhi pehle hui naa thi khwaahishein
+Oh. kisi se bhi milne ki
+Naa ki thi koshishein
+Uljhan meri suljha de
+Chaahun main ya naa
+Aankhon aankhon mein jataa de
+Chaahun main ya naa
+You might also like[Instrumental Break]
+
+[Bridge: Palak Muchhal]
+Mere chhote chhote khwaab hain
+Khwabon mein geet hain
+Geeton mein zindagi hai
+Chaahat hai, preet hai
+Abhi main na dekhoon khwaab woo
+Jin mein na tu mile
+Le khole honth maine
+Ab tak the jo sile
+
+[Verse 3: Palak Muchhal]
+Mujhko na jitna mujh pe
+Utna iss dil ko tujh pe
+Hone laga aitbaar
+Tanha lamhon mein apne
+Bunti hoon tere sapne
+Tujhse hua mujhko pyaar (oh, oh)
+Poochungi tujhko kabhi naa
+Chaahun main ya naa
+Tere khaabon mein ab jeena
+Chaahun main kyun naa!
+
+[Chorus/Outro: Arijit Singh]
+Tu hi yeh mujhko bata de
+Chahun main ya naa
+Apne tu dil ka pata de
+Chahun main ya naaEmbed"
+"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1'}, 'href': 'https://api.spotify.com/v1/artists/0T1CMVkqffHlqEk4BcAph1', 'id': '0T1CMVkqffHlqEk4BcAph1', 'name': 'Tulsi Kumar', 'type': 'artist', 'uri': 'spotify:artist:0T1CMVkqffHlqEk4BcAph1'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw'}, 'href': 'https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw', 'id': '4YRxDV8wJFPHPTeXepOstw', 'name': 'Arijit Singh', 'type': 'artist', 'uri': 'spotify:artist:4YRxDV8wJFPHPTeXepOstw'}]",306511,55eUtE9v3uatR0y0NijM6N,Hum Mar Jayenge,0Rkv5iqjF2uenfL0OVB8hg,12,Aashiqui 2,2013-04-06,"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6'}, 'href': 'https://api.spotify.com/v1/artists/09UmIX92EUH9hAK4bxvHx6', 'id': '09UmIX92EUH9hAK4bxvHx6', 'name': 'Mithoon', 'type': 'artist', 'uri': 'spotify:artist:09UmIX92EUH9hAK4bxvHx6'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB'}, 'href': 'https://api.spotify.com/v1/artists/0E02VcvA5p1ndkLdqWD5JB', 'id': '0E02VcvA5p1ndkLdqWD5JB', 'name': 'Ankit Tiwari', 'type': 'artist', 'uri': 'spotify:artist:0E02VcvA5p1ndkLdqWD5JB'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/2kkQthS9OLpK4UqNWYqoVl'}, 'href': 'https://api.spotify.com/v1/artists/2kkQthS9OLpK4UqNWYqoVl', 'id': '2kkQthS9OLpK4UqNWYqoVl', 'name': 'Jeet Gannguli', 'type': 'artist', 'uri': 'spotify:artist:2kkQthS9OLpK4UqNWYqoVl'}]",Mithoon,09UmIX92EUH9hAK4bxvHx6,both,"[Intro: Tulsi Kumar]
+apanI A.NkheM khAlI kara de
+kAsha tU merI A.NkheM bhara de
+kAsha tU merI A.NkheM bhara de
+
+[Verse 1: Tulsi Kumar]
+mere yArA, tere Gama agara pAe.Nge
+hameM terI hai qasama, hama sa.Nvara jAe.Nge
+ho, mere yArA, tere Gama agara pAe.Nge
+hameM terI hai qasama, hama sa.Nvara jAe.Nge
+
+do ye saugAta tuma to zamAne kI hama
+do ye saugAta tuma to zamAne kI hama
+hara khushI se mukara jAe.Nge
+hama mara jAe.Nge, ho o o, hama mara jAe.Nge
+
+[Chorus: Tulsi Kumar]
+mere yArA, tere Gama agara pAe.Nge
+hameM terI hai qasama, hama sa.Nvara jAe.Nge
+
+[Verse 2: Tulsi Kumar]
+tere kA.Ndhe se hI laga ke yArA, bIte umara sArI
+socho kaisI hogI qismata huA yU.N to phira hamArI
+sAre A.NsU to hoM tere aura A.NkheM hoM hamArI
+
+tere darda hameM jo mile pyAra meM
+tere darda hameM jo mile pyAra meM
+hama khushI se yU.N bhara jAe.Nge
+hama mara jAe.Nge, ho o o, hama mara jAe.Nge
+You might also like[Chorus: Tulsi Kumar]
+mere yArA, tere Gama agara pAe.Nge
+hameM terI hai qasama, hama sa.Nvara jAe.Nge
+
+[Verse 3: Arjit Singh]
+chAhe dukha ho, chAhe sukha ho, dila ne tujhako hI pukArA
+tUne hamako hai banAyA, tUne hamako hai sa.NvArA
+jahA.N ko to raba kA hai, hameM terA hai sahArA
+
+basa terA sAtha ho, chAhe jo bAta ho
+basa terA sAtha ho, chAhe jo bAta ho
+tere kahane se kara jAe.Nge
+hama mara jAe.Nge, o o o, hama mara jAe.Nge
+
+[Chorus:Arjit Singh & Tulsi Kumar]
+mere yArA, tere Gama agara pAe.Nge
+hameM terI hai qasama, hama sa.Nvara jAe.Nge
+mere yArA, tere Gama agara pAe.Nge
+hameM terI hai qasama, hama sa.Nvara jAe.NgeEmbed"
+"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr'}, 'href': 'https://api.spotify.com/v1/artists/3yMmYEklQ7gLOZXEFNd3xr', 'id': '3yMmYEklQ7gLOZXEFNd3xr', 'name': 'Palak Muchhal', 'type': 'artist', 'uri': 'spotify:artist:3yMmYEklQ7gLOZXEFNd3xr'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw'}, 'href': 'https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw', 'id': '4YRxDV8wJFPHPTeXepOstw', 'name': 'Arijit Singh', 'type': 'artist', 'uri': 'spotify:artist:4YRxDV8wJFPHPTeXepOstw'}]",266069,3E9ryvrKP3hUWX79PAakH2,Meri Aashiqui,0Rkv5iqjF2uenfL0OVB8hg,12,Aashiqui 2,2013-04-06,"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6'}, 'href': 'https://api.spotify.com/v1/artists/09UmIX92EUH9hAK4bxvHx6', 'id': '09UmIX92EUH9hAK4bxvHx6', 'name': 'Mithoon', 'type': 'artist', 'uri': 'spotify:artist:09UmIX92EUH9hAK4bxvHx6'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB'}, 'href': 'https://api.spotify.com/v1/artists/0E02VcvA5p1ndkLdqWD5JB', 'id': '0E02VcvA5p1ndkLdqWD5JB', 'name': 'Ankit Tiwari', 'type': 'artist', 'uri': 'spotify:artist:0E02VcvA5p1ndkLdqWD5JB'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/2kkQthS9OLpK4UqNWYqoVl'}, 'href': 'https://api.spotify.com/v1/artists/2kkQthS9OLpK4UqNWYqoVl', 'id': '2kkQthS9OLpK4UqNWYqoVl', 'name': 'Jeet Gannguli', 'type': 'artist', 'uri': 'spotify:artist:2kkQthS9OLpK4UqNWYqoVl'}]",Mithoon,09UmIX92EUH9hAK4bxvHx6,both,"Tu mujhe chhod jaaye
+Ye nahi ho sakta, saathiya
+
+Meri baaton mein tera zikr sada
+Meri yaad mein teri fikr sada
+Main jo bhi hoon tum hi to ho
+Mujhe tum se mili apni ada
+
+Kyunki tum hi ho, ab tum hi ho
+Zindagi ab tum hi ho...
+Chain bhi, mera dard bhi
+Meri aashiqui ab tum hi ho
+
+Tum hi ho, tum hi ho
+Arz bhi, mera marz bhi
+Chain bhi, mera dard bhi
+Meri aashiqui ab tum hi ho
+
+Tere liye hi jiya main
+Khud ko jo yun de diya hai
+Teri wafa ne mujhko sambhala
+Saare ghamon ko dil se nikaala
+Main jo mit bhi gaya toh wajood mera
+Sada tujh mein rahe zinda
+
+Kyunki tum hi ho, ab tum hi ho
+Zindagi ab tum hi ho.. Woh O..
+Chain bhi, mera dard bhi
+Meri aashiqui ab tum hi ho
+You might also likeTum hi ho, tum hi ho
+Zindagi ab tum hi ho
+Chain bhi, mera dard bhi
+Meri aashiqui ab tum hi ho1Embed"
+"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw'}, 'href': 'https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw', 'id': '4YRxDV8wJFPHPTeXepOstw', 'name': 'Arijit Singh', 'type': 'artist', 'uri': 'spotify:artist:4YRxDV8wJFPHPTeXepOstw'}]",214470,06zJUeKU5KFy50Cho6pDcr,Aasan Nahin Yahan,0Rkv5iqjF2uenfL0OVB8hg,12,Aashiqui 2,2013-04-06,"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6'}, 'href': 'https://api.spotify.com/v1/artists/09UmIX92EUH9hAK4bxvHx6', 'id': '09UmIX92EUH9hAK4bxvHx6', 'name': 'Mithoon', 'type': 'artist', 'uri': 'spotify:artist:09UmIX92EUH9hAK4bxvHx6'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB'}, 'href': 'https://api.spotify.com/v1/artists/0E02VcvA5p1ndkLdqWD5JB', 'id': '0E02VcvA5p1ndkLdqWD5JB', 'name': 'Ankit Tiwari', 'type': 'artist', 'uri': 'spotify:artist:0E02VcvA5p1ndkLdqWD5JB'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/2kkQthS9OLpK4UqNWYqoVl'}, 'href': 'https://api.spotify.com/v1/artists/2kkQthS9OLpK4UqNWYqoVl', 'id': '2kkQthS9OLpK4UqNWYqoVl', 'name': 'Jeet Gannguli', 'type': 'artist', 'uri': 'spotify:artist:2kkQthS9OLpK4UqNWYqoVl'}]",Mithoon,09UmIX92EUH9hAK4bxvHx6,both,"[Intro]
+Aasaan nahi yahaan aashiq ho jaana
+Palkon pe kaanton ko sajaana
+Aashiq ko milti hai gham ki saugaatein
+Sabko naa milta yeh khajaana
+
+[Bridge]
+Baaton se aage, waadon se aage
+Dekho zara tum kabhi ho o..
+Yeh to hai shola, yeh hai chingari
+Yeh hai jawaag bhi
+
+[Outro]
+Jismon ke peechhe bhaage ho phirte
+Utro kabhi rooh mein ho..
+Hota kya aashiq, kya aashiqhi hai
+Hogi khabar tab tumheinYou might also likeEmbed"
+"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw'}, 'href': 'https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw', 'id': '4YRxDV8wJFPHPTeXepOstw', 'name': 'Arijit Singh', 'type': 'artist', 'uri': 'spotify:artist:4YRxDV8wJFPHPTeXepOstw'}]",295798,2iGnFW7m517taq3AJIE6DK,Milne Hai Mujhse Aayi,0Rkv5iqjF2uenfL0OVB8hg,12,Aashiqui 2,2013-04-06,"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6'}, 'href': 'https://api.spotify.com/v1/artists/09UmIX92EUH9hAK4bxvHx6', 'id': '09UmIX92EUH9hAK4bxvHx6', 'name': 'Mithoon', 'type': 'artist', 'uri': 'spotify:artist:09UmIX92EUH9hAK4bxvHx6'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB'}, 'href': 'https://api.spotify.com/v1/artists/0E02VcvA5p1ndkLdqWD5JB', 'id': '0E02VcvA5p1ndkLdqWD5JB', 'name': 'Ankit Tiwari', 'type': 'artist', 'uri': 'spotify:artist:0E02VcvA5p1ndkLdqWD5JB'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/2kkQthS9OLpK4UqNWYqoVl'}, 'href': 'https://api.spotify.com/v1/artists/2kkQthS9OLpK4UqNWYqoVl', 'id': '2kkQthS9OLpK4UqNWYqoVl', 'name': 'Jeet Gannguli', 'type': 'artist', 'uri': 'spotify:artist:2kkQthS9OLpK4UqNWYqoVl'}]",Mithoon,09UmIX92EUH9hAK4bxvHx6,both,"Milne hai mujhse aayi
+Phir jaane kyun tanhaai
+Kis mod pe hai laayi aashiqui
+O, khudse hai ya Khuda se, iss pal meri ladaai
+Kis mod pe hai laayi aashiqui
+
+Aashiqui baazi hai taash ki
+Tootte-bante vishwaas ki
+O, Milne hai mujhse aayi
+Phir jaane kyun tanhaai
+Kis mod pe hai laayi aashiqui
+
+Jaane kyun main sochta hoon
+Khaali sa main, ek raasta hoon
+Tune mujhe kahin kho diya hai
+Yaa main kahin khud laapata hoon
+Aa dhoond le tu phir mujhe
+Kasamein bhi doon to kya tujhe
+
+Aashiqui baazi hai taash ki
+Tootte-bante vishwaas ki
+O, Milne hai mujhse aayi
+Phir jaane kyun tanhaai
+Kis mod pe hai laayi aashiqui
+
+Toota hua saaz hoon main
+Khudse hi naaraz hoon main
+Seene mein jo kahin pe dabi hai
+Aisi koi aawaaz hoon main
+Sun le mujhe tu bin kahe
+Kab tak khaamoshi dil sahe
+You might also likeAashiqui baazi hai taash ki
+Tootte-bante vishwaas ki
+Aashiqui baazi hai taash ki
+Tootte-bante vishwaas ki
+
+O, milne hai mujhse aayi
+Phir jaane kyun tanhaai
+Kis mod pe hai laayi aashiqui
+O, Khudse hai ya Khuda se, iss pal meri ladaai
+Kis mod pe hai laayi aashiqui
+
+Aashiqui baazi hai taash ki
+Tootte-bante vishwaas ki2Embed"
+"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU'}, 'href': 'https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU', 'id': '1wRPtKGflJrBx9BmLsSwlU', 'name': 'Pritam', 'type': 'artist', 'uri': 'spotify:artist:1wRPtKGflJrBx9BmLsSwlU'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw'}, 'href': 'https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw', 'id': '4YRxDV8wJFPHPTeXepOstw', 'name': 'Arijit Singh', 'type': 'artist', 'uri': 'spotify:artist:4YRxDV8wJFPHPTeXepOstw'}]",228982,5cgKosPPj5Cs9a2JQufUc1,Ilahi,2Lxoc72vRTGdQfMvj7Ovi1,9,Yeh Jawaani Hai Deewani,2013-03-30,"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU'}, 'href': 'https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU', 'id': '1wRPtKGflJrBx9BmLsSwlU', 'name': 'Pritam', 'type': 'artist', 'uri': 'spotify:artist:1wRPtKGflJrBx9BmLsSwlU'}]",Pritam,1wRPtKGflJrBx9BmLsSwlU,both,"Korean
+
+[Verse 1]
+힘든 놈들 힘들게 살게 놔둬
+난 몰라 신경 꺼, me no Jay Park, me no Jay Park
+내 일이 아니면 관심 안 가져
+알아도 신경 꺼, me no Jay Park, me no Jay Park
+AOMG는 Jay 빨, 그 다음은 Loco, GRAY 빨
+작년엔 나랑 꽤 차이 나는 두께의 paper
+Ugly Duck 말고 또 다른 덕은 나야, lame duck
+같이 시작할 때만 좀 봤지, 나의 name 덕
+Style 다른 둘, 한 명은 늘 확실한 계획이 있어
+정규 타이틀도 'Worldwide', 1년의 반을 비행기 속
+한 놈은 진지만 빨고 늘어진 lazy son
+Overlook에 갇힌 jack같이 갈수록 wreck-it mode
+점점 기울어지는 책임감의 무게
+Hit 몇 개로 재탕하는 양심 없는 나의 무대
+그딴 걸 보러 와준 팬들에겐 고맙고 미안
+변이나 늘어놓을 이런 big shit 코 막어 일단
+쇼미는 솔직히 회사에게 보여주기식
+사장으로서 do somethin', do somethin'
+실적 올리기 위해 언행도 불일치
+인터뷰에선 그럴싸한 핑계들을 주섬주섬
+무엇보다 늦어지는 comeback에 가장 문제인 건
+내 자신한테 받아내기 힘든 okay cut
+I said again and again, 계속 take one
+욕심은 깊어져, deeper than rap, 진짜 좆돼 이건
+리더로서의 내 자질, 딱 잘라내면 난 fake thug
+추억의 IK도 무감각해진 pathos
+끝까지 shout-out 해준 건 J-Tong
+함께하는 누구든 나는 불화다
+누가 내 옆에 있어? 됐고
+You might also like[Hook]
+일해라 정기석 일해, 일해라 정기석 일해
+일해라 정기석 일해, 일해라 정기석 일해
+Simon D this Simon D that
+Simon D this Simon D that
+다 이래라저래라 지랄, 이래라저래라 지랄
+일해라 정기석 일해, 일해라 정기석 일해
+일해라 정기석 일해, 일해라 정기석 일해
+Simon D this Simon D that
+Simon D this Simon D that
+다 이래라저래라 지랄, 이래라저래라 지랄
+
+[Verse 2]
+I can’t do Jay Park, AOMG의 주가
+상승을 시킨 다음, H1GHR MUSIC까지
+밥 먹듯 해외 출장, 결과는 ROC 계약 도장 쾅
+HOVA와 찍은 셀피 보다가
+부러운 맘에 속없는 새끼처럼 누른 like
+새 시계를 사느냐 건물 살 돈을 쟁여두느냐
+다 무의미야, 진짜 한심해 보여
+올해는 딱 하나, 내 자존심의 회복
+I don’t do Jay Park, 일개미에 배짱도 두둑
+Hater들 눈에 난 존나 베짱이 수준
+Studio에만 주둔, me vs myself
+승패는 매번 you lose
+모든 걸 져버린 간지로 돌아왔네, 두둥
+누군 아이돌로 시작해서 얻어낸 R-E-S-P-E-C-T
+누군 가사 한 줄 땜에 술자리에서 빙시짓
+재능은 질보다는 양, 부정해온 난 비시즌
+그런 날 부정하듯 Park의 삶이 말해 this is it
+2년 연속 prize motherfucker In 한대음
+그 사이에 늘어난 압박감에 좆밥 다 된 후
+난 야망을 낮게 둬 실력보다 밑에 밑에
+작업 방식도 다시 08’ 믹테 믹테
+다들 관심 좀 중대 발표 일생일대
+총을 머리에 lock and load, 그런 느낌 비슷해 이제
+사장님 대표님 소리도 징그럽게 들려
+난 Park의 속도를 따라가는 게 힘들었네 그저
+지금 사임서를 작성 중, 이 노래가 그거
+Me no down gradin', 나한테는 무조건 up
+I’ll be humble as a mumble in the jungle
+내가 이걸로 끝내겠어? 걍 멋 부리는 정도로
+오직 래퍼일 때 나는 나답지, 그때만 믿음이 가지
+내가 가진 이름이 다지, 그 이상도 이하도 아님
+마음은 이미 싸인한 몸이지, 사임한 Simon Dominic
+농담 아님, 회사는 고민의 사이즈가 커지지
+주식도 내놓게 AOMG한테 첫 번째
+Pumkin형은 변호사와 CJ 빨리 만나 문제없게
+대신 형이 사장 배지 달고 나를 끌어내려 을로
+서둘러 내 생각 못 바꾸게 언론 플레이도 얼른
+여전히 바닥인 credit 좆까고 되돌아가려 해
+되돌아봤네 매일 껍데기만 대표로 살아왔네
+절실함 부족, 절실함 부족
+결핍은 나의 힘, I’m ma take it back again
+며칠 안으로
+Romanization
+
+[Verse 1]
+Himdeun nomdeul himdeulge salge nwadwo
+Nan molla singyeong kkeo
+Me No Jay Park Me No Jay Park
+Nae il-i animyeon
+Gwansim an gajyeo al-ado singyeong kkeo
+Me No Jay Park Me No Jay Park
+AOMGneun jei ppal
+Geu da-eum-eun lokko geulei ppal
+Jagnyeon-en nalang kkwae
+Chai naneun dukke-ui peipeo
+Eogeulli deog malgo
+Tto daleun deog-eun naya leimdeog
+Gat-i sijaghal ttaeman jom bwassji
+Naui neim deog
+Seutail daleun dul
+Han myeong-eun neul hwagsilhan gyehoeg-i iss-eo
+Jeong-gyu taiteuldo worldwide
+1nyeon-ui ban-eul bihaeng-gi sog
+Han nom-eun jinjiman ppalgo
+Neul-eojin lazy son
+Overlook-e gadhin jackgat-i
+Galsulog wreck-it mode
+Jeomjeom giul-eojineun chaeg-imgam-ui muge
+Hiteu myeoch gaelo jaetanghaneun
+Yangsim eobsneun naui mudae
+Geuttan geol boleo wajun
+Paendeul-egen gomabgo mian
+Byeon-ina neul-eonoh-eul
+Ileon big shit ko mag-eo ildan
+Syomineun soljighi hoesa-ege boyeojugisig
+Sajang-euloseo do somethin'
+Do somethin'
+Siljeog olligi wihae eonhaengdo bul-ilchi
+Inteobyueseon geuleolssahan
+Ping-gyedeul-eul juseomjuseom
+Mueosboda neuj-eojineun
+Keombaeg-e gajang munjein geon
+Nae jasinhante bad-anaegi himdeun
+Okei keos
+I said again and again
+Gyesog take 1
+Yogsim-eun gip-eojyeo deeper than rap
+Jinjja jojdwae igeon
+Lideoloseoui nae jajil
+Ttag jallanaemyeon nan fake thug
+Chueog-ui ikdo mugamgaghaejin pathos
+Kkeutkkaji syalaus haejun geon jeitong
+Hamkkehaneun nugudeun naneun bulhwada
+Nuga nae yeop-e iss-eo
+Dwaessgo
+[Hook]
+Ilhaela jeong-giseog ilhae
+Ilhaela jeong-giseog ilhae
+Ilhaela jeong-giseog ilhae
+Ilhaela jeong-giseog ilhae
+Simon d this simon d that
+Simon d this simon d that
+Da
+Ilaelajeolaela jilal
+Ilaelajeolaela jilal
+Ilhaela jeong-giseog ilhae
+Ilhaela jeong-giseog ilhae
+Ilhaela jeong-giseog ilhae
+Ilhaela jeong-giseog ilhae
+Simon d this simon d that
+Simon d this simon d that
+Da
+Ilaelajeolaela jilal
+Ilaelajeolaela jilal
+
+[Verse 2]
+I can’t do Jay Park
+Aomgeuui juga sangseung-eul sikin da-eum
+H1ghr musickkaji
+Bab meogdeus haeoe chuljang
+Gyeolgwaneun ROC gyeyag dojang kwang
+HOVAwa jjig-eun selpi bodaga
+Buleoun mam-e sog-eobsneun
+Saekkicheoleom nuleun laikeu
+Sae sigyeleul saneunya
+Geonmul sal don-eul jaeng-yeoduneunya
+Da muuimiya jinjja hansimhae boyeo
+Olhaeneun ttag hana
+Nae jajonsim-ui hoebog
+I don’t do Jay Park
+Ilgaemie baejjangdo dudug
+Heiteodeul nun-e nan jonna bejjang-i sujun
+Seutyudio-eman judun
+Me vs myself
+Seungpaeneun maebeon you lose
+Modeun geol jyeobeolin
+Ganjilo dol-awassne dudung
+Nugun aidollo sijaghaeseo
+Eod-eonaen r-e-s-p-e-c-t
+Nugun gasa han jul ttaem-e
+Suljalieseo bingsijis
+Jaeneung-eun jilbodaneun yang
+Bujeonghaeon nan bisijeun
+Geuleon nal bujeonghadeus
+Parkui salm-i malhae this is it
+2nyeon yeonsog prize motherfucker
+In handaeeum
+Geusaie neul-eonan abbaggam-e
+Jojbab da doen hu
+Nan yamang-eul najge dwo
+Sillyeogboda mit-e mit-e
+Jag-eob bangsigdo dasi 08’ migte migte
+Dadeul gwansim jom
+Jungdae balpyo ilsaeng-ildae
+Chong-eul meolie lock & load
+Geuleon neukkim biseushae ije
+Sajangnim daepyonim solido
+Jing-geuleobge deullyeo
+Nan Parkui sogdoleul ttalaganeun ge
+Himdeul-eossne geujeo
+Jigeum saimseoleul jagseong jung
+I nolaega geugeo
+Me no down gradin'
+Nahanteneun mujogeon eob
+I’ll be humble
+As a mumble in the jungle
+Naega igeollo kkeutnaegess-eo
+Gyang meos bulineun jeongdolo
+Ojig laepeoil ttae naneun nadabji
+Geuttaeman mid-eum-i gaji
+Naega gajin ileum-i daji
+Geu isangdo ihado anim
+Ma-eum-eun imi ssainhan mom-iji
+Saimhan saimeon dominig
+Nongdam anim hoesaneun
+Gomin-ui saijeuga keojiji
+Jusigdo naenohge AOMGhante cheos beonjjae
+Peomkinhyeong-eun byeonhosawa
+CJ ppalli manna munjeeobsge
+Daesin hyeong-i sajang baeji dalgo
+Naleul kkeul-eonaelyeo eullo
+Seodulleo nae saeng-gag mos bakkuge
+Eonlon peulleido eolleun
+Yeojeonhi badag-in credit
+Jojkkago doedol-agalyeo hae
+Doedol-abwassne maeil kkeobdegiman
+Daepyolo sal-awassne
+Jeolsilham bujog jeolsilham bujog
+Gyeolpib-eun naui him
+I’m ma take it back again
+Myeochil an-euloEmbed"
+"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU'}, 'href': 'https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU', 'id': '1wRPtKGflJrBx9BmLsSwlU', 'name': 'Pritam', 'type': 'artist', 'uri': 'spotify:artist:1wRPtKGflJrBx9BmLsSwlU'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw'}, 'href': 'https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw', 'id': '4YRxDV8wJFPHPTeXepOstw', 'name': 'Arijit Singh', 'type': 'artist', 'uri': 'spotify:artist:4YRxDV8wJFPHPTeXepOstw'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v'}, 'href': 'https://api.spotify.com/v1/artists/3eDT9fwXKuHWFvgZaaYC5v', 'id': '3eDT9fwXKuHWFvgZaaYC5v', 'name': 'Sunidhi Chauhan', 'type': 'artist', 'uri': 'spotify:artist:3eDT9fwXKuHWFvgZaaYC5v'}]",260552,3W1XPf7mvuQcWQB7U7MbTM,Dilliwaali Girlfriend,2Lxoc72vRTGdQfMvj7Ovi1,9,Yeh Jawaani Hai Deewani,2013-03-30,"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU'}, 'href': 'https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU', 'id': '1wRPtKGflJrBx9BmLsSwlU', 'name': 'Pritam', 'type': 'artist', 'uri': 'spotify:artist:1wRPtKGflJrBx9BmLsSwlU'}]",Pritam,1wRPtKGflJrBx9BmLsSwlU,both,"[Intro]
+Yeah
+ਓ, what a look! What a grace! ਤੈਨੂੰ ਹੀ ਕਰਾਂ ਮੈਂ chase
+What a naqsha! What a naina! dila terA ho gayA fan
+What a smile! What a style! lUTe nIMdoM kI ye file
+kabhI soft, kabhI rude, killer terA attitude
+
+[Chorus: Arijit Singh]
+tere lie hI to signal to.Da-tA.Da ke
+AyA dillI vAlI girlfriend Cho.Da-ChA.Da ke (ke-ke-ke-ke-ke)
+ho, tere lie hI to signal to.Da-tA.Da ke
+AyA dillI vAlI girlfriend Cho.Da-ChA.Da ke
+
+[Post Chorus: Sunidhi Chauhan & Arijit Singh]
+ਹੋ, ਤੇਰੀ ਅੱਖ ਦਾ ਇਸ਼ਾਰਾ ਮੁਝੇ fraud ਲਗੇ
+tU to majanU.N AvArA by God lage
+o, qasmeM-vAde khA ke, apanI pocket money bachA ke
+AyA tere lie paise-vaise jo.Da-jA.Da ke
+
+[Chorus: Arijit Singh]
+ghara vAloM ko bhI bye-shye bola-bAla ke
+AyA dillI vAlI girlfriend Cho.Da-ChA.Da ke
+tere lie hI to signal to.Da-tA.Da ke
+AyA dillI vAlI girlfriend Cho.Da-ChA.Da ke
+
+[Verse 1: Arijit Singh & Sunidhi Chauhan]
+terI galI meM bhI AnA start kara diyA
+eka tere nAma apanA heart kara diyA
+karane lagA A.Nkha-maTakkA, aba to Ashiqa bana gayA pakkA
+You might also likeAja abhI maiMne terA boycott kara diyA
+terI sArI harakateM maiM to note karU.N
+tujhe thAne meM le jA ke maiM report karU.N, oya
+
+[Pre-Chorus: Arijit Singh]
+tU nA kara aise fight, terA mood karU.N maiM light
+tujhe scene maiM dikhA ke film Golmaal ke
+
+[Chorus: Arijit Singh]
+nAma terA hI likhAyA maiMne wedding card pe
+AyA dillI vAlI girlfriend Cho.Da-ChA.Da ke
+tere lie hI to signal to.Da-tA.Da ke
+AyA dillI vAlI girlfriend Cho.Da-ChA.Da
+
+[Post-Chorus]
+ਤੂੰ, ਤੂੰ, ਤੂੰ, ਤੂੰ, ਪੰਜਾਬਣ look ਵਾਲੀ
+ਹੂੰ, ਹੂੰ, ਹੂੰ, ਹੂੰ, ਤੇਰੇ 'ਤੇ ਮੈਂ ਤਾਂ flat ਨੀ
+Zoom, zoom, zoom, zoom
+Eyes tujha pe DAlI to dila mAre tAlI
+ਕੁੜੀਏ, you know that ਨੀ
+Okay, bye
+
+[Verse 2: Sunidhi Chauhan & Arijit Singh]
+ye to ishqa meM, dekho, bada-tamIza ho gayA
+binA bAta ke hI mujha pe ye freeze ho gayA
+Refuse kiyA 100 bArI, phira bhI karanA chAhe yArI
+Passion tere lie merA increase ho gayA
+tU hI day lage, mujhe merI night lage
+mujhe future merA tere saMga bright lage
+
+[Pre-Chorus: Sunidhi Chauhan]
+ਤੁਝਸੇ ਭੀ ਜ਼ਿਆਦਾ ਸੋਹਣਾ, ਕੋਈ handsome ਮੁੰਡਾ ਹੋਣਾ
+leke jAegA sone meM tola-tAla ke, oya
+
+[Chorus: Arijit Singh & Sunidhi Chauhan]
+o, tere lie Aja ਗੱਡੀ maiM to mo.Da-mA.Da ke
+AyA dillI vAlI girlfriend Cho.Da-ChA.Da ke
+chala jhUThA, mere lie hI to signal to.Da-tA.Da ke
+AyA dillI vAlI girlfriend Cho.Da-ChA.Da ke
+
+ghara vAloM ko bhI bye-shye bola-bAla ke
+AyA dillI vAlI girlfriend Cho.Da-ChA.Da ke
+tere lie hI to signal to.Da-tA.Da ke
+AyA dillI vAlI girlfriend Cho.Da-ChA.Da ke
+
+[Outro]
+ਓ, what a look! What a grace! ਤੈਨੂੰ ਹੀ ਕਰਾਂ ਮੈਂ chase
+What a naqsha! What a naina! dila terA ho gayA fan
+What a smile! What a style! lUTe nIMdoM kI ye file
+kabhI soft, kabhI rude, killer terA attitudeEmbed"
+"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU'}, 'href': 'https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU', 'id': '1wRPtKGflJrBx9BmLsSwlU', 'name': 'Pritam', 'type': 'artist', 'uri': 'spotify:artist:1wRPtKGflJrBx9BmLsSwlU'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz'}, 'href': 'https://api.spotify.com/v1/artists/3xU8YsNNkmWSPewlB18NUz', 'id': '3xU8YsNNkmWSPewlB18NUz', 'name': 'Harshdeep Kaur', 'type': 'artist', 'uri': 'spotify:artist:3xU8YsNNkmWSPewlB18NUz'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw'}, 'href': 'https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw', 'id': '4YRxDV8wJFPHPTeXepOstw', 'name': 'Arijit Singh', 'type': 'artist', 'uri': 'spotify:artist:4YRxDV8wJFPHPTeXepOstw'}]",270438,3jJ5HgLRNydtLRghjWVaCG,Kabira (Encore),2Lxoc72vRTGdQfMvj7Ovi1,9,Yeh Jawaani Hai Deewani,2013-03-30,"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU'}, 'href': 'https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU', 'id': '1wRPtKGflJrBx9BmLsSwlU', 'name': 'Pritam', 'type': 'artist', 'uri': 'spotify:artist:1wRPtKGflJrBx9BmLsSwlU'}]",Pritam,1wRPtKGflJrBx9BmLsSwlU,both,"[Pre-Chorus]
+banno-re-banno merI chalI sasurAla ko
+akhiyoM meM pAnI de gaI
+duA meM mIThI gu.DadhAnI le gaI
+
+hAya, banno-re-banno merI chalI sasurAla ko
+akhiyoM meM pAnI de gaI
+duA meM mIThI gu.DadhAnI le gaI
+
+[Chorus]
+re kabIrA, mAna jA, re faqIrA, yU.N nA jA
+AjA, tujhako pukAreM terI paraChAiyA.N
+re kabIrA, mAna jA, re faqIrA, yU.N nA jA
+kaisA tU hai nirmohI, kaisA harajAiyA
+
+[Post-Chorus]
+re kabIrA, re kabIrA
+re faqIrA, re faqIrA
+re kabIrA, re kabIrA
+re kabIrA, re kabIrA
+
+[Verse]
+TUTI chArapAI vo hI, ThaMDI puravAI rastA dekhe
+dUdhoM kI malAI vo hI, miTTI kI surAhI rastA dekhe
+TUTI chArapAI vo hI, ThaMDI puravAI rastA dekhe
+ho, dUdhoM kI malAI vo hI, miTTI kI surAhI rastA dekhe
+You might also like[Pre-Chorus]
+gu.DiyA-rI-gu.DiyA, terA guDDA paradesiyA
+jo.DI AsamAnI ho gaI
+shaguna pe dekho shAdamAnI ho gaI
+
+hAya, gu.DiyA-rI-gu.DiyA, terA guDDA paradesiyA
+jo.DI AsamAnI ho gaI
+shaguna pe dekho shAdamAnI ho gaI
+
+[Chorus]
+re kabIrA, mAna jA, re faqIrA, yU.N nA jA
+AjA, tujhako pukAreM terI paraChAiyA.N
+re kabIrA, mAna jA, re faqIrA, yU.N nA jA
+kaisA tU hai nirmohI, kaisA harajAiyA
+
+[Post-Chorus]
+re kabIrA, re kabIrA
+re faqIrA, re faqIrA
+re kabIrA, re kabIrA
+re kabIrA, re kabIrA
+
+[Outro]
+saMga tere hai saverA, re faqIrA, re faqIrA
+saMga tere hai saverA, re kabIrA, re kabIrA
+re kabIrA, re kabIrA, re faqIrA, re faqIrA
+re kabIrA, re kabIrA, re kabIrA, re kabIrA
+saMga tere hai saverA, re faqIrA, re faqIrA
+saMga tere hai saverA, re kabIrA, re kabIrAEmbed"
+"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw'}, 'href': 'https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw', 'id': '4YRxDV8wJFPHPTeXepOstw', 'name': 'Arijit Singh', 'type': 'artist', 'uri': 'spotify:artist:4YRxDV8wJFPHPTeXepOstw'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/5o36rLQd78Zh8CaT8rn59d'}, 'href': 'https://api.spotify.com/v1/artists/5o36rLQd78Zh8CaT8rn59d', 'id': '5o36rLQd78Zh8CaT8rn59d', 'name': 'Shreyas Puranik', 'type': 'artist', 'uri': 'spotify:artist:5o36rLQd78Zh8CaT8rn59d'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/6k6TIai4KyKG1DeIMftSmJ'}, 'href': 'https://api.spotify.com/v1/artists/6k6TIai4KyKG1DeIMftSmJ', 'id': '6k6TIai4KyKG1DeIMftSmJ', 'name': 'Siddharth - Garima', 'type': 'artist', 'uri': 'spotify:artist:6k6TIai4KyKG1DeIMftSmJ'}]",271169,0rHlfhO0oh1klqPfr7ZUd2,Satranga,0a183xiCHiC1GQd8ou7WXO,8,ANIMAL,2023-11-24,"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh'}, 'href': 'https://api.spotify.com/v1/artists/3pQ4aA7dkolyjUAMrVScgh', 'id': '3pQ4aA7dkolyjUAMrVScgh', 'name': 'Manan Bhardwaj', 'type': 'artist', 'uri': 'spotify:artist:3pQ4aA7dkolyjUAMrVScgh'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507'}, 'href': 'https://api.spotify.com/v1/artists/5wJ1H6ud777odtZl5gG507', 'id': '5wJ1H6ud777odtZl5gG507', 'name': 'Vishal Mishra', 'type': 'artist', 'uri': 'spotify:artist:5wJ1H6ud777odtZl5gG507'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT'}, 'href': 'https://api.spotify.com/v1/artists/5gZhfbckaWo89OzDSk3gdT', 'id': '5gZhfbckaWo89OzDSk3gdT', 'name': 'Jaani', 'type': 'artist', 'uri': 'spotify:artist:5gZhfbckaWo89OzDSk3gdT'}]",Manan Bhardwaj,3pQ4aA7dkolyjUAMrVScgh,both,"Aadha tera ishq aadha mera
+Aise ho pura chandrama
+Ho taara tera ik taara mera
+Baki andhera aasman
+
+[PRE-Chorus]
+Na tere sang lage
+Bandhe jo pipal pe dhaage
+Ye surme ke dhare
+Behte hai nazre bacha ke
+
+[Chorus]
+Badrang mein satranga hai
+Ye ishq re
+Jogi main aur ganga hai
+Ye ishq re
+
+Badrang mein satranga hai
+Ye ishq re
+Jogi main aur ganga hai
+Ye ishq re
+
+[VERSE 1]
+Mathe se laga lu hath
+Chhu ke main pair tere
+Ho rakh lu main tan pe zakham
+Bana sare bair tere
+You might also likeRukna ni tu hun rusna ni main
+Tera ni reha te na khud da vi main
+Duniya tu hi hai meri
+Par na aana ab na aana
+Main ni aana shehar tere
+
+[PRE-Chorus]
+Jo fere sang lage
+Rakhte wo humko jala ke
+Wo waade jhoothe waade
+Le ja tu kasme laga ke
+
+[Chorus]
+Rag rag mein
+Malanga hai ye ishq re
+Kyu lahu mein hi
+Ranga hai yeh ishq re
+
+Ho badrang mein satranga hai
+Ye ishq re
+Jogi main aur ganga hai
+Ye ishq re
+
+[PRE-Chorus]
+Tu meri sari yaade
+Pani mein aaj baha de
+Ye teri bheegi aankhen
+Rakh lu labon se laga ke
+[Chorus]
+Main samandar parinda hai
+Ye ishq re
+Mann maatam aur zinda hai
+Ye ishq re
+
+Ho badrang mein satranga hai
+Ye ishq re
+Jogi main aur ganga hai
+Ye ishq reEmbed"
+"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1'}, 'href': 'https://api.spotify.com/v1/artists/0y59o4v8uw5crbN9M3JiL1', 'id': '0y59o4v8uw5crbN9M3JiL1', 'name': 'Badshah', 'type': 'artist', 'uri': 'spotify:artist:0y59o4v8uw5crbN9M3JiL1'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw'}, 'href': 'https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw', 'id': '4YRxDV8wJFPHPTeXepOstw', 'name': 'Arijit Singh', 'type': 'artist', 'uri': 'spotify:artist:4YRxDV8wJFPHPTeXepOstw'}]",213599,1tf2iody5iRLYYPDSBpzRc,Soulmate,0LcyzKKw3RjFKL6ygISTeU,16,Ek Tha Raja,2024-03-18,"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1'}, 'href': 'https://api.spotify.com/v1/artists/0y59o4v8uw5crbN9M3JiL1', 'id': '0y59o4v8uw5crbN9M3JiL1', 'name': 'Badshah', 'type': 'artist', 'uri': 'spotify:artist:0y59o4v8uw5crbN9M3JiL1'}]",Badshah,0y59o4v8uw5crbN9M3JiL1,both,"[Intro: Arijit Singh]
+""Din"" ko ""raat"" kahegi toh main ""raat"" kahoon
+Tera dil dukha de jo, aisi na baat karoon
+Ek shikan bhi maathe pe na aaye, meri jaan
+Le loonga teri saari balaayein meri jaan
+
+[Chorus: Arijit Singh]
+Teri aayi, main marjavaan, zindagi naam tere kar javaan
+Sohneya, o sohneya
+Teri aayi, main marjavaan, zindagi naam tere kar javaan
+Sohneya, o sohneya
+
+[Verse 1: Badshah]
+Kya vo mohabbat, jiska hisaab lag jaaye
+Bole vo toh lage ke rabba bachaaye
+Lad marenge log, aag lag jaaye
+Chehre se tere jo naqaab hat jaaye
+Ho sawaal koi bhi, tu jawaab lage
+Bachpan ki kahani, tu koi khwaab lage
+Tera dil jo dukhaaye, use paap lage
+Pyari itni tu mujhe Punjab lage
+Vo faraaz ki kitaab padhti hai, vo titliyaan saath rakti hai
+Meri duniya aabaad lagti hai, jab kandhe par mere vo haath rakti hai
+Is pyaar ko khone nahin doonga, tujhe khud se juda main kabhi hone nahin doonga
+Khushi ke aansu aur baat hai lekin tujhko main waise kabhi rone nahin doonga
+You might also like[Verse 2: Arijit Singh]
+Tujhse pehle na kuch tha, na baad tere
+Chahiye kakh bhi nahin, jo tu hai saath mere
+Mere haathon mein lakeerein naam ki teri
+Bin tere zindagi ye kis kaam ki meri?
+
+[Chorus: Arijit Singh]
+Teri aayi, main marjavaan, zindagi naam tere kar javaan
+Sohniya, o sohniya
+Teri aayi, main marjavaan, zindagi naam tere kar javaan
+Sohneya, o sohneya
+Teri aayi, main marjavaan, zindagi naam tere kar javaan
+Sohneya, o sohneya
+Teri aayi, main marjavaan, zindagi naam tere kar javaan
+Sohneya, o sohneya
+
+[Outro: Badshah]
+Ho sawaal koi bhi, tu jawaab lage
+Bachpan ki kahani, tu koi khwaab lage
+Tera dil jo dukhaaye, use paap lage
+Pyari itni tu mujhe Punjab lageEmbed"
+"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/2kkQthS9OLpK4UqNWYqoVl'}, 'href': 'https://api.spotify.com/v1/artists/2kkQthS9OLpK4UqNWYqoVl', 'id': '2kkQthS9OLpK4UqNWYqoVl', 'name': 'Jeet Gannguli', 'type': 'artist', 'uri': 'spotify:artist:2kkQthS9OLpK4UqNWYqoVl'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw'}, 'href': 'https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw', 'id': '4YRxDV8wJFPHPTeXepOstw', 'name': 'Arijit Singh', 'type': 'artist', 'uri': 'spotify:artist:4YRxDV8wJFPHPTeXepOstw'}]",398799,3HiobOOpSpMsi95WBKPBYk,Hamari Adhuri Kahani (Title Track),7sVzilmsqYcLMYw2gtvoZM,6,Hamari Adhuri Kahani ,2015-05-21,"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/2kkQthS9OLpK4UqNWYqoVl'}, 'href': 'https://api.spotify.com/v1/artists/2kkQthS9OLpK4UqNWYqoVl', 'id': '2kkQthS9OLpK4UqNWYqoVl', 'name': 'Jeet Gannguli', 'type': 'artist', 'uri': 'spotify:artist:2kkQthS9OLpK4UqNWYqoVl'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6'}, 'href': 'https://api.spotify.com/v1/artists/09UmIX92EUH9hAK4bxvHx6', 'id': '09UmIX92EUH9hAK4bxvHx6', 'name': 'Mithoon', 'type': 'artist', 'uri': 'spotify:artist:09UmIX92EUH9hAK4bxvHx6'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/5ugsiK49gIkIVh8U93EO0z'}, 'href': 'https://api.spotify.com/v1/artists/5ugsiK49gIkIVh8U93EO0z', 'id': '5ugsiK49gIkIVh8U93EO0z', 'name': 'Ami Mishra', 'type': 'artist', 'uri': 'spotify:artist:5ugsiK49gIkIVh8U93EO0z'}]",Jeet Gannguli,2kkQthS9OLpK4UqNWYqoVl,both,"[Verse 1]
+Pass aaye, duriyaan phir bhi kaam naa hui
+Ek adhuri si hamari kahani rahi
+Aasmaan ko zameen ye jaruri nahi jaa mile, jaa mile
+Ishq sacha wohi jisko milti nahi manzilein, manzilein
+
+Rang the, noor tha, jab kareeb tu tha
+Ek jannat sa tha, ye jahan
+Waqt ki ret pe kuch mere naam sa
+Likh ke choor gaya, tu kahan?
+
+[Chorus]
+Hamari adhuri kahani
+Hamari adhuri kahani
+Hamari adhuri kahani
+Hamari adhuri kahani
+
+[Verse 2]
+Khusbuon se teri yunhi takra gaye
+Chalte-chalte dekho naa, hum kahan aa gaye
+Janntein agar yahi, tu dihkhe kyun nahi
+Chand suraj sabhi hai yahan
+Intezaar tera sadiyon se kar raha
+Pyaasi behti hai kab se yahaan
+
+[Chorus]
+Hamari adhuri kahani
+Hamari adhuri kahani
+Hamari adhuri kahani
+Hamari adhuri kahani
+You might also like[Verse 3]
+Pyaas ka ye safar kahatam ho jayega
+Kuch adhura sa jo tha pura ho jayega
+Jhuk gaya aasmaan, mil gaye do jaahan
+Har taraf hai milan ka sama
+Doliyan hai saji, khusbuyein kar kahin
+Padhne aaya khuda khud yahan
+
+[Chorus]
+Hamari adhuri kahani
+Hamari adhuri kahani
+Hamari adhuri kahaniEmbed"
+"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw'}, 'href': 'https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw', 'id': '4YRxDV8wJFPHPTeXepOstw', 'name': 'Arijit Singh', 'type': 'artist', 'uri': 'spotify:artist:4YRxDV8wJFPHPTeXepOstw'}]",284779,5QtEFRYavs5S3GHtFEq7A4,Tujhe Kitna Chahne Lage,3uuu6u13U0KeVQsZ3CZKK4,9,Kabir Singh,2019-06-14,"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25'}, 'href': 'https://api.spotify.com/v1/artists/1SyKki7JI1AZNKwgNMkn25', 'id': '1SyKki7JI1AZNKwgNMkn25', 'name': 'Sachet-Parampara', 'type': 'artist', 'uri': 'spotify:artist:1SyKki7JI1AZNKwgNMkn25'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507'}, 'href': 'https://api.spotify.com/v1/artists/5wJ1H6ud777odtZl5gG507', 'id': '5wJ1H6ud777odtZl5gG507', 'name': 'Vishal Mishra', 'type': 'artist', 'uri': 'spotify:artist:5wJ1H6ud777odtZl5gG507'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6'}, 'href': 'https://api.spotify.com/v1/artists/09UmIX92EUH9hAK4bxvHx6', 'id': '09UmIX92EUH9hAK4bxvHx6', 'name': 'Mithoon', 'type': 'artist', 'uri': 'spotify:artist:09UmIX92EUH9hAK4bxvHx6'}]",Sachet-Parampara,1SyKki7JI1AZNKwgNMkn25,both,"[Verse 1]
+Dil ka dariya beh hi gaya
+Ishq ibadat ban hi gaya
+Khud ko mujhe tu saunp de
+Meri zaroorat tu ban gaya
+
+[Pre/Post-Chorus]
+Baat dil ki nazron ne ki
+Sach keh raha, teri kasam
+
+[Chorus]
+Tere bin ab na lenge ek bhi dam
+Tujhe kitna chahne lage hum
+Tere bin ab na lenge ek bhi dam
+Tujhe kitna chahne lage hum
+Tere saath ho jayenge khatam
+Tujhe kitna chahne lage hum
+
+[Pre/Post-Chorus]
+Baat dil ki nazron ne ki
+Sach keh raha, teri kasam
+
+[Chorus]
+Tere bin ab na lenge ek bhi dam
+Tujhe kitna chahne lage hum
+Tere saath ho jayenge khatam
+Tujhe kitna chahne lage hum
+Tujhe kitna chahne lage hum
+You might also like[Verse 2]
+Iss jagah aa gayi chahatein ab meri
+Chheen loonga tumhe saare duniya se hi
+Tere ishq pe haan haq mera hi toh hai
+Keh diya hai ye maine mere Rabb se bhi
+Jis raaste tu na mile
+Us pe na ho mere kadam
+
+[Chorus]
+Tere bin ab na lenge ek bhi dam
+Tujhe kitna chahne lage hum
+Tere saath ho jayenge khatam
+Tujhe kitna chahne lage hum
+Tujhe kitna chahne lage hum
+Tujhe kitna chahne lage humEmbed"
+"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw'}, 'href': 'https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw', 'id': '4YRxDV8wJFPHPTeXepOstw', 'name': 'Arijit Singh', 'type': 'artist', 'uri': 'spotify:artist:4YRxDV8wJFPHPTeXepOstw'}]",370444,47Il9B5GJ2FEkiwiIH3xX0,Bekhayali (Arijit Singh Version),3uuu6u13U0KeVQsZ3CZKK4,9,Kabir Singh,2019-06-14,"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25'}, 'href': 'https://api.spotify.com/v1/artists/1SyKki7JI1AZNKwgNMkn25', 'id': '1SyKki7JI1AZNKwgNMkn25', 'name': 'Sachet-Parampara', 'type': 'artist', 'uri': 'spotify:artist:1SyKki7JI1AZNKwgNMkn25'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507'}, 'href': 'https://api.spotify.com/v1/artists/5wJ1H6ud777odtZl5gG507', 'id': '5wJ1H6ud777odtZl5gG507', 'name': 'Vishal Mishra', 'type': 'artist', 'uri': 'spotify:artist:5wJ1H6ud777odtZl5gG507'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6'}, 'href': 'https://api.spotify.com/v1/artists/09UmIX92EUH9hAK4bxvHx6', 'id': '09UmIX92EUH9hAK4bxvHx6', 'name': 'Mithoon', 'type': 'artist', 'uri': 'spotify:artist:09UmIX92EUH9hAK4bxvHx6'}]",Sachet-Parampara,1SyKki7JI1AZNKwgNMkn25,both,"[Chorus]
+Bekhayali mein bhi tera hi khayal aaye
+""Kyun bichadna hai zaruri?"" ye sawaal aaye
+Teri nazdeekiyon ki khushi behisaab thi
+Hisse mein faasle bhi tere bemisaal aaye
+
+[Bridge]
+Main jo tumhse door hoon, kyun door main rahoon?
+Tera guroor hoon
+Aa tu faasla mita, tu khwaab sa mila
+Kyun khwaab tod doon?
+
+[Chorus]
+Bekhayali mein bhi tera hi khayal aaye
+""Kyun bichadna hai zaruri?"" ye sawaal aaye
+Teri nazdeekiyon ki khushi behisaab thi
+Hisse mein faasle bhi tere bemisaal aaye
+
+[Verse 1]
+Hai ye tadpan, hai ye uljhan
+Kaise jee loon bina tere?
+Meri ab sab se hai annban
+Bante kyun ye Khuda merе?
+
+Ye jo log-baag hain, jungle ki aag hain
+Kyun aag mein jalun?
+Yе nakaam pyaar mein, khush hain ye haar mein
+Inn jaisa kyun banun?
+You might also like[Refrain]
+Raatein dengi bata, neendon me teri hi baat hain
+Bhoolun kaise tujhe? Tu to khayalon mein saath hai
+
+[Chorus]
+Bekhayali mein bhi tera hi khayal aaye
+""Kyun bichadna hai zaruri?"" ye sawaal aaye
+
+[Verse 2]
+Nazron ke aage har ek manzar
+Ret ki tarah bikhar raha hai
+Dard tumhara badan me mere
+Zeher ki tarah utar raha hai
+
+Nazron ke aage har ek manzar
+Ret ki tarah bikhar raha hai
+Dard tumhara badan me mere
+Zeher ki tarah utar raha hai
+
+[Outro]
+Aa zamaane aazmaale roothta nahi
+Faaslon se hausla ye tootta nahi
+Naa hai wo bewafa aur naa main hoon bewafaa
+Wo meri aadaton ki tarah chhootta nahiEmbed"
+"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU'}, 'href': 'https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU', 'id': '1wRPtKGflJrBx9BmLsSwlU', 'name': 'Pritam', 'type': 'artist', 'uri': 'spotify:artist:1wRPtKGflJrBx9BmLsSwlU'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw'}, 'href': 'https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw', 'id': '4YRxDV8wJFPHPTeXepOstw', 'name': 'Arijit Singh', 'type': 'artist', 'uri': 'spotify:artist:4YRxDV8wJFPHPTeXepOstw'}]",269032,1UWacd8x8tPPwmrPB1MoBI,Ae Dil Hai Mushkil Title Track,5xjaz957o6YGSXmlfd2tex,9,Ae Dil Hai Mushkil  [Deluxe Edition],2016-10-26,"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU'}, 'href': 'https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU', 'id': '1wRPtKGflJrBx9BmLsSwlU', 'name': 'Pritam', 'type': 'artist', 'uri': 'spotify:artist:1wRPtKGflJrBx9BmLsSwlU'}]",Pritam,1wRPtKGflJrBx9BmLsSwlU,both,"[Verse 1]
+Tu safar mera, hai tu hi meri manzil
+Tere bina guzara, Ae dil hai mushkil
+Tu mera khuda, Tu hi duaa main shaamil
+Tere bina guzara, Ae dil hai mushkil
+Mujhe azmaati hai teri kami
+Meri har kami ko hai tu laazmi
+
+[Chorus]
+Junoon hai mera, Banu main tere kaabil
+Tere bina guzaara, Ae dil hai mushkil
+
+[Verse 2]
+Ye rooh bhi meri, Ye jism bhi mera
+Utna mera nahi, Jitna hua tera
+Tune diya hai jo, Wo dard hi sahi
+Tujhse mila hai to inaam hai mera
+Mera aasmaan dhoondhe teri zameen
+Meri har kami ko hai tu laazmi
+
+[Chorus]
+Zameen pe na sahi, To aasmaan mein aa mil
+Tere bina guzaara, Ae dil hai mushkil
+
+[Verse 3]
+Maana ki teri maujoodgi se
+Yeh zindagani mehroom hai
+Jeene ka koi dooja tareeka
+Na mere dil ko maloom hai
+Tujhko main kitni shiddat se chaahun
+Chahe toh rehna tu bekhabar
+Mohtaj manzil ka toh nahi hai
+Yeh ek tarfa mera safar safar
+Khoobsurat hain manzil se bhi
+You might also like[Chorus]
+Meri har kami ko hai tu laazmi
+Adhoora hoke bhi hai ishq mera kaamil
+Tere bina guzara ae dil hai mushkilEmbed"
+"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU'}, 'href': 'https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU', 'id': '1wRPtKGflJrBx9BmLsSwlU', 'name': 'Pritam', 'type': 'artist', 'uri': 'spotify:artist:1wRPtKGflJrBx9BmLsSwlU'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw'}, 'href': 'https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw', 'id': '4YRxDV8wJFPHPTeXepOstw', 'name': 'Arijit Singh', 'type': 'artist', 'uri': 'spotify:artist:4YRxDV8wJFPHPTeXepOstw'}]",289333,0H2iJVgorRR0ZFgRqGUjUM,Channa Mereya,5xjaz957o6YGSXmlfd2tex,9,Ae Dil Hai Mushkil  [Deluxe Edition],2016-10-26,"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU'}, 'href': 'https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU', 'id': '1wRPtKGflJrBx9BmLsSwlU', 'name': 'Pritam', 'type': 'artist', 'uri': 'spotify:artist:1wRPtKGflJrBx9BmLsSwlU'}]",Pritam,1wRPtKGflJrBx9BmLsSwlU,both,"[Verse 1]
+Aaccha chalta hoon
+Duaaon mein yaad rakhna
+Mere zikr ka zubaan pe suaad rakhana
+Aacha chalta hoon
+Duaaon main yaad rakhna
+Mere zikr ka zubaan pe suaad rakhana
+
+Dil ke sandookon mein
+Mere acche kaam rakhna
+Chitthi taaron mein bhi
+Mera tu salaam rakhna
+
+[Pre-Chorus]
+Andhera tera, maine le liya
+Mera ujla sitaara tere naam kiya
+
+[Chorus]
+Channa mereya mereya
+Channa mereya mereya
+Channa mereya mereya behliya
+O piya...
+Channa mereya mereya
+Channa mereya mereya
+Channa mеreya mereya bеhliya
+O piya...
+You might also like[Verse 2]
+Mehfil mein teri
+Hum na rahein jo
+Gum to nahi hai
+Gum to nahi hai
+Quisse humari nazdeekiyon ke
+Kum to nahi hain
+Kum to nahi hain
+
+[Pre-Chorus]
+Kitni dafaa, subha ko meri
+Tere aangan mein baithe
+Maine shaam kiya
+
+[Chorus]
+Channa mereya mereya
+Channa mereya mereya
+Channa mereya mereya behliya
+O piya...
+Channa mereya mereya
+Channa mereya mereya
+Channa mereya mereya behliya
+O piya...
+Channa mereya mereya
+Channa mereya mereya
+Channa mereya mereya
+O piya...
+Channa mereya mereya
+Channa mereya mereya
+Channa mereya mereya
+O piya...
+[Bridge]
+Tere rukh se apna raasta
+Mod ke chala
+Chandan hoon mein
+Apni khushboo chhod ke chala...
+
+Maan ki maya rakh ke
+Tere takiya tale
+Bairaagi, bairaagi ka sooti chola
+Odh ke chala...
+
+[Chorus]
+Channa mereya mereya
+Channa mereya mereya
+Channa mereya mereya behliya
+O piya...
+O piya...Embed"
+"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU'}, 'href': 'https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU', 'id': '1wRPtKGflJrBx9BmLsSwlU', 'name': 'Pritam', 'type': 'artist', 'uri': 'spotify:artist:1wRPtKGflJrBx9BmLsSwlU'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw'}, 'href': 'https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw', 'id': '4YRxDV8wJFPHPTeXepOstw', 'name': 'Arijit Singh', 'type': 'artist', 'uri': 'spotify:artist:4YRxDV8wJFPHPTeXepOstw'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1'}, 'href': 'https://api.spotify.com/v1/artists/0y59o4v8uw5crbN9M3JiL1', 'id': '0y59o4v8uw5crbN9M3JiL1', 'name': 'Badshah', 'type': 'artist', 'uri': 'spotify:artist:0y59o4v8uw5crbN9M3JiL1'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU'}, 'href': 'https://api.spotify.com/v1/artists/00sCATpEvwH48ays7PlQFU', 'id': '00sCATpEvwH48ays7PlQFU', 'name': 'Jonita Gandhi', 'type': 'artist', 'uri': 'spotify:artist:00sCATpEvwH48ays7PlQFU'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB'}, 'href': 'https://api.spotify.com/v1/artists/4kq8z3vydHjPDggxb16ErB', 'id': '4kq8z3vydHjPDggxb16ErB', 'name': 'Nakash Aziz', 'type': 'artist', 'uri': 'spotify:artist:4kq8z3vydHjPDggxb16ErB'}]",252631,5FihcmME7NlwW8KbYOaHVH,The Breakup Song,5xjaz957o6YGSXmlfd2tex,9,Ae Dil Hai Mushkil  [Deluxe Edition],2016-10-26,"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU'}, 'href': 'https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU', 'id': '1wRPtKGflJrBx9BmLsSwlU', 'name': 'Pritam', 'type': 'artist', 'uri': 'spotify:artist:1wRPtKGflJrBx9BmLsSwlU'}]",Pritam,1wRPtKGflJrBx9BmLsSwlU,both,"[Intro]
+Breakup song, breakup song
+Karde dil ki feeling strong
+Saade chaar minute long
+Breakup song, breakup song
+Break break B B.. Breakup song
+Break break B B.. Breakup song
+
+[Verse 1: Jonita Gandhi]
+Angrezi chidiya ki khaatir
+Desi dil mera tod diya
+Maine chhod diya, Usse chhod diya
+Uski kaali kartooton ne
+Uska bhaanda phod diya
+Maine chhod diya, Usse chhod diya
+
+[Pre-Chorus: Jonita Gandhi]
+Dil pe patthar rakh ke
+Munh pe makeup kar liya
+Oh dil pe patthar rakh ke
+Munh pe makeup kar liya
+
+[Chorus: Jonita Gandhi]
+Mere saiyyan ji se aaj
+Maine breakup kar liya
+Mere saiyyan ji se aaj
+Maine breakup kar liya
+Subah savere uth ke maine
+Ye sab kar liya
+Mere saiyyan ji se aaj
+Maine breakup kar liya
+You might also like[Pre-Chorus: Arijit Singh]
+Humko bin bataye tune ye kab kar liya?
+Are, humko bin bataye tune ye kab kar liya?
+
+[Chorus: Arijit Singh & Jonita Gandhi]
+O, tere saiyyan ji se kaahe tune break up kar liya
+Tere saiyyan ji se kaahe tune breakup kar liya
+Subah savere uth ke maine ye sab kar liya
+Tere saiyyan ji se kaahe tune breakup kar liya
+तूने ब्रेकअप कर लिया
+(B-B-Breakup song)
+
+[Verse 2: Jonita Gandhi]
+Kuch din to rona dhona bumper kiya
+Aur phir delete uska number kiya
+Aansu jo sookhe seedha parlour gayi
+Parlour mein jaake shampoo jamkar kiya
+
+[Pre-Chorus: Jonita Gandhi]
+College ki saheliyon se catch-up kar liya
+Arey college ki saheliyon se catch-up kar liya
+Jinko mill na paayi unko whatsapp kar diya
+
+[Chorus: Jonita Gandhi]
+Mere saiyyan ji se aaj maine breakup kar liya
+Subah savere uth ke maine ye sab kar liya
+Mere saiyyan ji se aaj maine breakup kar liya
+[Verse 3: Badshah]
+Look, baby mujhe lagta hai ki
+Jo bhi tune kiya hai wo very very right hai
+Bhoot-kaal ko bhool ja ab tu
+Aane wala future very very bright hai
+Main hoon na baby saath tere
+Party sharty honi poori night hai
+Mind na karna jo thoda zyada bol doon
+Kyunki banda very very tight hai
+Usse phone mila aur gaali de
+Photo jala ke karde raakh
+Saale teri maa ki aankh!
+
+[Verse 4: Arijit Singh]
+Kalti hua jo saiyan stupid tera
+Jeevit hua hai phir se cupid tera
+Baasi relationship ka label hata
+Duniya ko tu hai available bata
+
+[Pre-Chorus: Arijit Singh]
+Are mere soye armaano ko wake up kar diya
+Are mere soye armaano ko wake up kar diya
+Ke tere saiyan ji se (aaha!)
+Tune breakup kar liya
+
+[Chorus: Arijit Singh]
+Tere saiyyan ji se kaahe tune..
+O, tere saiyyan ji se kaahe tune breakup kar liya
+Tere saiyyan ji se kaahe tune breakup kar liya
+[Outro]
+B-B-Breakup song
+Karde dil ki feeling strongEmbed"
+"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU'}, 'href': 'https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU', 'id': '1wRPtKGflJrBx9BmLsSwlU', 'name': 'Pritam', 'type': 'artist', 'uri': 'spotify:artist:1wRPtKGflJrBx9BmLsSwlU'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw'}, 'href': 'https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw', 'id': '4YRxDV8wJFPHPTeXepOstw', 'name': 'Arijit Singh', 'type': 'artist', 'uri': 'spotify:artist:4YRxDV8wJFPHPTeXepOstw'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/1cfG7UM0OD4O1II1nd15Qo'}, 'href': 'https://api.spotify.com/v1/artists/1cfG7UM0OD4O1II1nd15Qo', 'id': '1cfG7UM0OD4O1II1nd15Qo', 'name': 'Ash King', 'type': 'artist', 'uri': 'spotify:artist:1cfG7UM0OD4O1II1nd15Qo'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh'}, 'href': 'https://api.spotify.com/v1/artists/6iv4lysB1yHXoZJ2gfqTdh', 'id': '6iv4lysB1yHXoZJ2gfqTdh', 'name': 'Shashwat Singh', 'type': 'artist', 'uri': 'spotify:artist:6iv4lysB1yHXoZJ2gfqTdh'}]",282272,3w9EgtkQgMTrlSwuQEFdR0,Alizeh,5xjaz957o6YGSXmlfd2tex,9,Ae Dil Hai Mushkil  [Deluxe Edition],2016-10-26,"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU'}, 'href': 'https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU', 'id': '1wRPtKGflJrBx9BmLsSwlU', 'name': 'Pritam', 'type': 'artist', 'uri': 'spotify:artist:1wRPtKGflJrBx9BmLsSwlU'}]",Pritam,1wRPtKGflJrBx9BmLsSwlU,both,"[Verse 1]
+Pyaar maine jo nibhaya
+Tere rehte, tere saath bhi
+Sach kahun toh, uss se zyada
+Chaha tujhko, tere baad bhi
+
+[Pre-Chorus]
+Hmm, main dard hoon, Tu dava hai na
+Main aag hoon, Tu hawa hai na
+
+[Chorus]
+Ali, Ali, Ali, Alizeh
+Ali, Ali, Ali, Alizeh
+Kahaan hain tu, mere dil mein hai na
+Ali, Ali, Ali, Alizeh
+Ali, Ali, Ali, Alizeh
+Tera hoon main, tujhe yaad hai na
+
+Ali, Ali, Ali, Alizeh
+Ali, Ali, Ali, Alizeh
+Kahaan hain tu, mere dil mein hai na
+Ali, Ali, Ali, Alizeh
+Ali, Ali, Ali, Alizeh
+Tera hoon main, tujhe yaad hai na
+
+[Verse 2]
+Sooraj dhale toh lagta hai jaise
+Kaandhe pe mere sar hai tera
+Mera thikana chahe jahaan ho
+Yaadon mein meri ghar hai tera
+You might also likeSooraj dhale toh lagta hai jaise
+Kaandhе pe mere sar hai tеra
+Mera thikana chahe jahaan ho
+Yaadon mein meri ghar hai tera
+
+[Pre-Chorus]
+Main hoon jahaan, tu wahaan hai na
+Main aag hoon, tu hawa hai na
+
+[Chorus]
+Ali, Ali, Ali, Alizeh
+Ali, Ali, Ali, Alizeh
+Kahaan hain tu, mere dil mein hai na
+Ali, Ali, Ali, Alizeh
+Ali, Ali, Ali, Alizeh
+Tera hoon main, tujhe yaad hai na
+
+Ali, Ali, Ali, Alizeh
+Ali, Ali, Ali, Alizeh
+Kahaan hain tu, mere dil mein hai na
+Ali, Ali, Ali, Alizeh
+Ali, Ali, Ali, Alizeh
+Tera hoon main, tujhe yaad hai na
+
+[Verse 3]
+In the darkness
+You help me find a spark
+The sweetest soul with the kindest heart
+If only you could see you the way I do
+You’d see the sunshine and it’s beautiful
+Yeah! and all you have to do is smile
+I give anything to be there just to see it now
+To lay with you in the warmth of the summers night
+And watch the moon and stars come to life
+Can’t begin to explain just what you did for me
+Yeah there was something in your energy
+Close my eyes and I still feel you in every breeze
+That’s how I know you’re still with me
+
+I’ve died a thousand times for you
+Walked a million miles for you
+I’d live and still be dead, you see
+If you’d be living without meEmbed"
+"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU'}, 'href': 'https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU', 'id': '1wRPtKGflJrBx9BmLsSwlU', 'name': 'Pritam', 'type': 'artist', 'uri': 'spotify:artist:1wRPtKGflJrBx9BmLsSwlU'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw'}, 'href': 'https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw', 'id': '4YRxDV8wJFPHPTeXepOstw', 'name': 'Arijit Singh', 'type': 'artist', 'uri': 'spotify:artist:4YRxDV8wJFPHPTeXepOstw'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB'}, 'href': 'https://api.spotify.com/v1/artists/19LIHDDSHBD5NyYHI3gpzB', 'id': '19LIHDDSHBD5NyYHI3gpzB', 'name': 'Shilpa Rao', 'type': 'artist', 'uri': 'spotify:artist:19LIHDDSHBD5NyYHI3gpzB'}]",348965,0FeJltV3BtqpyQZ0hv49oi,Bulleya - Reprise,5xjaz957o6YGSXmlfd2tex,9,Ae Dil Hai Mushkil  [Deluxe Edition],2016-10-26,"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU'}, 'href': 'https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU', 'id': '1wRPtKGflJrBx9BmLsSwlU', 'name': 'Pritam', 'type': 'artist', 'uri': 'spotify:artist:1wRPtKGflJrBx9BmLsSwlU'}]",Pritam,1wRPtKGflJrBx9BmLsSwlU,both,"[Verse 1: Arijit Singh]
+Meri rooh ka parinda phadphadaaye
+Lekin sukoon ka jazeera mil na paaye
+Ve ki karan? ve ki karan?
+
+Ik baar ko tajalli toh dikha de
+Jhoothi sahi magar tasalli toh dila de
+Ve ki karan? ve ki karan?
+
+[Chorus: Arijit Singh]
+Ranjhan de yaar Bulleya, Sun le pukaar Bulleya
+Tu hi to yaar Bulleya, Murshid mera (Murshid mera)
+Tera mukaam kamle sarhad ke paar Bulleya
+Parvardigar Bulleya, Hafiz tera (Murshid mera)
+
+Ranjhan de yaar Bulleya, Sun le pukaar Bulleya
+Tu hi to yaar Bulleya, Murshid mera (Murshid mera)
+Tera mukaam kamle sarhad ke paar Bulleya
+Parvardigar Bulleya, Hafiz tera, Murshid mera
+
+[Verse 2: Arijit Singh]
+Main taan gul se lipti titli ki tarah muhajir hoon
+Ek pal ko thehrun, pal mein udd jaun
+Ve main ta hoon pagdandi
+Labhdi ae jo raah jannat di
+Tu mude jahaan main saath mud jaun
+You might also likeTere kaarwa mein shaamil hona chahun
+Kamiyan tarash ke main kaabil hona chahun
+Ve ki karan? ve ki karan?
+
+[Chorus: Arijit Singh]
+Ranjhan de yaar Bulleya, Sun le pukaar Bulleya
+Tu hi to yaar Bulleya, Murshid mera (Murshid mera)
+Tera mukaam kamle sarhad ke paar Bulleya
+Parvardigar Bulleya, Hafiz tera (Murshid mera)
+
+[Verse 3: Shilpa Rao]
+(Ranjhana ve.. ranjhana ve..)
+Jis din se aashna se do ajnabi huwe hai
+Tanhayion ke lamhein sab multavi huwe hai
+Kyun aaj main mohabbat phir ek baar karna chahun
+
+Ye dil toh dhoondta hai inkaar ke bahane
+Lekin ye jism koi pabandiyan na maane
+Milke tujhe baghawat, Khudse hi yaar karna chaahun
+Mujhme agan hai baaki aazma le
+Le kar rahi hun khud ko main tere hawale
+Ve ranjhana.. ve ranjhana..
+
+[Chorus: Arijit Singh]
+Ranjhan de yaar Bulleya, Sun le pukaar Bulleya
+Tu hi to yaar Bulleya, Murshid mera (Murshid mera)
+Tera mukaam kamle sarhad ke paar Bulleya
+Parvardigar Bulleya, Hafiz tera (Murshid mera)
+Ranjhan de yaar Bulleya, Sun le pukaar Bulleya
+Tu hi to yaar Bulleya, Murshid mera (Murshid mera)
+Tera mukaam kamle sarhad ke paar Bulleya
+Parvardigar Bulleya, Hafiz tera, Murshid mera
+
+[Outro: Arijit Singh]
+Murshid mera, Murshid mera, Murshad meraEmbed"
+"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU'}, 'href': 'https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU', 'id': '1wRPtKGflJrBx9BmLsSwlU', 'name': 'Pritam', 'type': 'artist', 'uri': 'spotify:artist:1wRPtKGflJrBx9BmLsSwlU'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw'}, 'href': 'https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw', 'id': '4YRxDV8wJFPHPTeXepOstw', 'name': 'Arijit Singh', 'type': 'artist', 'uri': 'spotify:artist:4YRxDV8wJFPHPTeXepOstw'}]",165333,0xHvmWCpz9Pnn1sDvRehAs,Channa Mereya - Unplugged,5xjaz957o6YGSXmlfd2tex,9,Ae Dil Hai Mushkil  [Deluxe Edition],2016-10-26,"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU'}, 'href': 'https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU', 'id': '1wRPtKGflJrBx9BmLsSwlU', 'name': 'Pritam', 'type': 'artist', 'uri': 'spotify:artist:1wRPtKGflJrBx9BmLsSwlU'}]",Pritam,1wRPtKGflJrBx9BmLsSwlU,both,"[Verse 1]
+Mehfil mein teri hum na rahein jo
+Gum to nahi hai, Gum to nahi hai
+Quisse humari nazdeekiyon ke
+Kum to nahi hain, Kum to nahi hain
+
+[Pre-Chorus]
+Kitni dafaa, subha ko meri
+Tere aangan mein baithe
+Maine shaam kiya
+
+[Chorus]
+Channa mereya mereya, Channa mereya mereya
+Channa mereya mereya beliya
+O piya...
+Channa mereya mereya, Channa mereya mereya
+Channa mereya mereya beliya
+O piya...
+
+[Outro]
+O piya, O piya
+O piya(hmm)
+Ae (hmm, ah)
+O piyaYou might also likeEmbed"
+"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU'}, 'href': 'https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU', 'id': '1wRPtKGflJrBx9BmLsSwlU', 'name': 'Pritam', 'type': 'artist', 'uri': 'spotify:artist:1wRPtKGflJrBx9BmLsSwlU'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw'}, 'href': 'https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw', 'id': '4YRxDV8wJFPHPTeXepOstw', 'name': 'Arijit Singh', 'type': 'artist', 'uri': 'spotify:artist:4YRxDV8wJFPHPTeXepOstw'}]",247941,1smFN2CLqGROu0J0UyvDfL,Shayad,6IXfWhC7omotM4lt0ROmEr,11,Love Aaj Kal ,2020-02-14,"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU'}, 'href': 'https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU', 'id': '1wRPtKGflJrBx9BmLsSwlU', 'name': 'Pritam', 'type': 'artist', 'uri': 'spotify:artist:1wRPtKGflJrBx9BmLsSwlU'}]",Pritam,1wRPtKGflJrBx9BmLsSwlU,both,"[Verse 1]
+Shayad kabhi na kehe saku main tum ko
+Kahe bina samjhlo tum shayad
+Shayad mere khayalo mein tum ek din
+Milo mujhe kahin pe ghum sahayad
+
+[Chorus]
+Jo tum na ho, rahenge hum nahi
+Jo tum na ho, rahenge hum nahi
+Nachahiye kuch tumse zyada, tum se kam nahi
+Jo tum na ho, toh hum bhi hum nahi
+Jo tum na ho, toh hum bhi hum nahi
+Nachahiye kuch tumse zyada, tum se kam nahi
+
+[Verse 2]
+Ankho ko khwab dena, khud hi sawal karke
+Khud hi jawab dena, teri taraf se
+Bin kam-kam karna
+Jana kahin ho chahe, har bar hi guzarna
+Teri taraf se
+Yeh kosise toh honge kam nahi
+Yeh kosise toh honge kam nahi
+
+[Chorus]
+Nachahiye kuch tumse zyada, tum se kam nahi
+Jo tum na ho, rahenge hum nahi
+Jo tum na ho, toh hum bhi hum nahi
+Nachahiye kuch tumse zyada, tum se kam nahi
+Jo tum na ho, jo tum na ho
+Jo tum na ho, jo tum na hoYou might also likeEmbed"
+"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU'}, 'href': 'https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU', 'id': '1wRPtKGflJrBx9BmLsSwlU', 'name': 'Pritam', 'type': 'artist', 'uri': 'spotify:artist:1wRPtKGflJrBx9BmLsSwlU'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw'}, 'href': 'https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw', 'id': '4YRxDV8wJFPHPTeXepOstw', 'name': 'Arijit Singh', 'type': 'artist', 'uri': 'spotify:artist:4YRxDV8wJFPHPTeXepOstw'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh'}, 'href': 'https://api.spotify.com/v1/artists/6iv4lysB1yHXoZJ2gfqTdh', 'id': '6iv4lysB1yHXoZJ2gfqTdh', 'name': 'Shashwat Singh', 'type': 'artist', 'uri': 'spotify:artist:6iv4lysB1yHXoZJ2gfqTdh'}]",218644,0MLZAgKQKHbPsJ12qHS860,Haan Main Galat,6IXfWhC7omotM4lt0ROmEr,11,Love Aaj Kal ,2020-02-14,"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU'}, 'href': 'https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU', 'id': '1wRPtKGflJrBx9BmLsSwlU', 'name': 'Pritam', 'type': 'artist', 'uri': 'spotify:artist:1wRPtKGflJrBx9BmLsSwlU'}]",Pritam,1wRPtKGflJrBx9BmLsSwlU,both,"[Hook: GIRIBOY]
+Carnival, carnival. 외제차 너희 이야기
+넌 남이야, 남이야. 나는 널 떠나가지 (슝)
+Party야, party야. 세진아 홍대까지
+홍대서 club까지 범퍼로 뚫고 가지 (슝)
+Carnival, carnival
+Carnival, carnival
+Carnival, carnival
+Carnival, carnival
+Carnival, carnival
+Carnival, carnival
+Carnival, carnival
+Carnival, carnival
+
+[Verse 1: C Jamm]
+In the morning, 벨소리
+매니저 형이 let's get the money
+여기저기에 스피커 볼륨 36에다 놓고 달려
+매니저 형들 다 riders
+서울, 대전, 대구, 제주는 날어
+내 고향친구, 여자친구도 함성
+Ay, hol’up, 우회전
+Hol’up, 좌회전
+Hol’up, hol’up, u-turn
+Pull up, Arena
+Pull up, Hotel
+Pull up, 신세계, 롯데
+Pull up, 인천 airport에
+Hol’up, 또 봐 Korea
+You might also like[Verse 2: BILL STAX]
+키로 수만큼 늘어나는 은행잔고, man
+쉬지 말고 밟아, 요즘 가지 않아 방송국엔
+서울, 대전, 대구, 부산 찍고 다시 서울행
+AC 만땅 틀면 버벅거려 뜨거운 여름엔
+진호 hit the gas, 낭비해, 낭비해줘 날 위해
+섭이 자기 전에 시간 땡겨서 내려줘 날 집에
+성영 hit the gas, 다신 하지 말아줘요 역주행 (Skrt)
+섭이 장가 가는 거만 보고 나서 사라져줄게요
+앵꼬내요, 만땅채워, 앵꼬내요, 다시 만땅채워, uh
+아랫배가 빵빵해요, 가장 가까운 갓길로 잠깐 세워, uh
+시동 걸어, heat it up. 세진아 다시 hit the gas
+우리가 가는 길이 길이야. 형을 믿어 길 없을 땐
+
+[Post-Hook: Genius Nochang]
+나래가 전화를 받지요
+그럼 carnival이 가지요
+네비는 두 개가 기본
+선입금하면 낮이고 밤이고 가지요
+나래가 전화를 받지요
+그럼 carnival이 가지요
+네비는 두 개가 기본
+선입금하면 낮이고 밤이고 가지요
+부릉부릉
+
+[Verse 3: Black Nut]
+붕붕붕 밖에 왠 소리가 들려서 나갔더니
+널 끌고 온 매니저 성영이
+오랜만에 본 니 뒷태가 꼴려서 살짝 걸쳐봤지 내 엉덩이
+갑자기 날 밀어내는 성영이
+""넌 이제 스케줄 없잖아, 이 퇴물새끼
+니 행사 잡히면 그때 너 태워줄게. 가서 작업해, 이 백수새끼""
+Carnival, carnival. 이 썅년아, 어디 가, 가지마
+어디를 가든지 항상 니가 함께 한다 맹세를 했잖아
+난 널 인간처럼 대했는데, 오히려 난 차였어 너에게
+그렇게 좋으냐 C Jamm이? (시발 Show Me The Money)
+잘 가라 행복해 bad bitch (Skrt)
+[Verse 4: GORETEXX]
+Carnival gang, JM의 tank
+가시밭길 후진 따윈 우리 관심 밖에
+이 차는 니가 던진 돌을 부시는 방패
+너네 대장이 전혀 두렵지 않은 상태, ay
+I'm still in my car
+Pull the fuck up outside of bank I need a guap
+백만분의 일을 떼서 빼놔 기름값
+다시 길을 달리다 떨어지면
+Feed him up, feed him up, feed him up
+연기처럼 전부 다 태우고 없어지지 난
+My vision too clear like water in crystal
+내 시야는 계속 더 맑아지지
+All my managers go, Michael Schumacher
+내가 느끼는 이 속도는 마하
+Your shit doesn't matter at all you know
+Carnival gang, 고속도로 위로
+
+[Hook: GIRIBOY]
+Carnival, carnival. 외제차 너희 이야기
+넌 남이야, 남이야. 나는 널 떠나가지 (슝)
+Party야, party야. 세진아 홍대까지
+홍대서 club까지 범퍼로 뚫고 가지 (슝)
+Carnival, carnival
+Carnival, carnival
+Carnival, carnival
+Carnival, carnival
+Carnival, carnival
+Carnival, carnival
+Carnival, carnival
+Carnival, carnival
+[Verse 5: Swings]
+난 인생의 절반을 carnival에서 보내. 우린 차 안에서 노네
+IPhone에서 구경하는 Gomez Selena보단 Jessica, oh-yeah
+처음 시작할 땐 나래뿐, 그러다 조금씩 잘 되기 시작했구
+망가진 Starex 다 같이 탔네. 몇 달 뒤에는 carnival 한 대
+그러다 carnival 세 대, 회사 네 배 될 때 car dealer가 될래
+내 피분 하얘, 차 유린 까매. 안은 안 보여, 단 둘이 탈래?
+다영이는 이런 가살 싫어하지만 사장님이라서 아무 말 안 해
+전철 타고 다녔던 건 어제 일이지
+2년 뒤 하늘 봐 with that 헬기 shit
+
+[Post-Hook: Genius Nochang & GIRIBOY]
+나래가 전화를 받지요
+그럼 carnival이 가지요
+네비는 두 개가 기본
+선입금하면 낮이고 밤이고 가지요
+나래가 전화를 받지요 (Carnival, carnival)
+그럼 carnival이 가지요 (Carnival, carnival)
+네비는 두 개가 기본 (Carnival, carnival)
+선입금하면 낮이고 밤이고 가지요 (Carnival, carnival)
+부릉부릉
+
+
+
+Romanization
+
+[Bridge: GIRIBOY]
+Kanibal kanibal
+Oejecha neohui iyagi
+Neon nam-iya nam-iya
+Naneun neol tteonagaji syung
+Partyya Partyya
+Sejin-a hongdaekkaji
+Hongdaeseo keulleobkkaji
+Beompeolo ttulhgo gaji
+
+[Hook: GIRIBOY]
+Kanibal kanibal
+Kanibal kanibal
+Kanibal kanibal
+Kanibal kanibal
+Kanibal kanibal
+Kanibal kanibal
+Kanibal kanibal
+Kanibal kanibal
+
+[Verse 1: C JAMM]
+In the morning
+Belsoli
+Maenijeohyeong-i
+Lets get the money
+Yeogijeogie seupikeobollyum
+36eda nohgo dallyeo
+Maenijeohyeongdeul da Riders
+Seouldaejeondaegu jejuneun nal-eo
+Nae gohyangchingu yeojachingudo hamseong
+Hol’up uhoejeon
+Hol’up jwahoejeon
+Hol’up hol’up u-turn
+Pull up arena
+Pull up hotel
+Pull up sinsegye losde
+Pull up incheon airporte
+Hol’up tto bwa korea
+
+[Verse 2: BILL STAX (Vasco)]
+Kilo sumankeum neul-eonaneun eunhaengjango man
+Swiji malgo balb-a yojeum gaji anh-a bangsong-gug-en
+Seoul daejeon daegu busan jjiggo dasi seoulhaeng
+Acmanttang teulmyeon beobeoggeolyeo tteugeoun yeoleum-en
+Jinho hit the gas
+Nangbihae nangbihaejwo nal wihae
+Seob-i jagi jeon-e sigan ttaeng-gyeoseo naelyeojwo nal jib-e
+Seong-yeong hit the gas
+Dasin haji mal-ajwoyo yeogjuhaeng SKRT
+Seob-i jang-gaganeun geoman bogo naseo salajyeojulgeyo
+Aengkkonaeyo manttangchaewo aengkkonaeyo dasi manttangchaewo
+Alaesbaega ppangppanghaeyo gajang gakkaun gasgillo jamkkan sewo
+Sidong geol-eo heat it up sejin-a dasi hit the gas
+Uliga ganeun gil-i gil-iya
+Hyeong-eul mid-eo gil eobs-eul ttaen
+
+[Hook 2: Genius Nochang]
+Nalaega jeonhwaleul badjiyo
+Geuleom kanibal-i gajiyo
+Nebineun du gaega gibon
+Seon-ibgeumhamyeon naj-igo bam-igo gajiyo
+Nalaega jeonhwaleul badjiyo
+Geuleom kanibal-i gajiyo
+Nebineun du gaega gibon
+Seon-ibgeumhamyeon naj-igo bam-igo gajiyo
+Buleungbuleung
+
+[Verse 3: Black Nut]
+Bungbungbung
+Bakk-e waen soliga deullyeoseo nagassdeoni
+Neol kkeulgo on maenijeo seong-yeong-i
+Olaenman-e bon ni dwistaega kkollyeoseo
+Saljjag geolchyeobwassji nae eongdeong-i
+Gabjagi nal mil-eonaeneun seong-yeong-i
+Neon ije seukejul eobsjanh-a i toemulsaekki
+Ni haengsa jabhimyeon geu ttae neo taewojulge
+Gaseo jag-eobhae i baegsusaekki
+Kanibal kanibal
+I ssyangnyeon-a eodiga gajima
+Eodileul gadeunji hangsang niga
+Hamkke handa maengseleul haessjanh-a
+Nan neol ingancheoleom daehaessneunde
+Ohilyeo nan chayeoss-eo neoege
+Geuleohge joh-eunya ssijaem-i
+Jal gala haengboghae bad bitch
+
+[Verse 4: GORETEXX]
+Kanibal gaeng JMui taengkeu
+Gasibatgil hujin ttawin uli gwansimbakk-e
+I chaneun niga deonjin dol-eul busineun bangpae
+Neone daejang-i jeonhyeo dulyeobji anh-eun sangtae Ay
+Im Still in my car
+Pull the fuck up outside of bank I need a guap
+Baegmanbun-ui il-eul tteseo ppaenwa gileumgabs
+Dasi gil-eul dallida tteol-eojimyeon
+Feed him up feed him up feed him up
+Yeongicheoleom jeonbu da taeugo eobs-eojiji nan
+My vision too clear like water in crystal
+Nae siyaneun gyesog deo malg-ajiji
+All my managers go michael Schumacher
+Naega neukkineun i sogdoneun maha
+Your Shit doesnt matter at all you know
+Kanibal gaeng gosogdolo wilo
+
+[Bridge: GIRIBOY]
+Kanibal kanibal
+Oejecha neohui iyagi
+Neon nam-iya nam-iya
+Naneun neol tteonagaji syung
+Partyya Partyya
+Sejin-a hongdaekkaji
+Hongdaeseo keulleobkkaji
+Beompeolo ttulhgogaji
+
+[Hook: GIRIBOY]
+Kanibal kanibal
+Kanibal kanibal
+Kanibal kanibal
+Kanibal kanibal
+Kanibal kanibal
+Kanibal kanibal
+Kanibal kanibal
+Kanibal kanibal
+
+[Verse 5: Swings]
+Nan insaeng-ui jeolban-eul kanibal-eseo bonae
+Ulin cha an-eseo none
+Aipon-eseo gugyeonghaneun gomejeu
+Sellinabodan jesika oye
+Cheoeum sijaghal ttaen nalaeppun
+Geuleoda jogeumssig jal doegi sijaghaessgu
+Mang-gajin seutalegseu da gat-i tassne
+Myeoch dal dwieneun kanibal han dae
+Geuleoda kanibal se dae
+Hoesa ne bae doel ttae ka dilleoga doellae
+Nae pibun hayae cha yulin kkamae
+An-eun an boyeo dan dul-i tallae
+Dayeong-ineun ileon gasal silh-eohajiman
+Sajangnim-ilaseo amu mal an hae
+Jeoncheol tago danyeossdeon geon eoje il-iji
+2nyeon dwi haneul bwa with that helgi shit
+
+[Hook 2: Genius Nochang]
+Nalaega jeonhwaleul badjiyo
+Geuleom kanibal-i gajiyo
+Nebineun du gaega gibon
+Seon-ibgeumhamyeon naj-igo bam-igo gajiyo
+Nalaega jeonhwaleul badjiyo
+Geuleom kanibal-i gajiyo
+Nebineun du gaega gibon
+Seon-ibgeumhamyeon naj-igo bam-igo gajiyo
+BuleungbuleungEmbed"
+"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU'}, 'href': 'https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU', 'id': '1wRPtKGflJrBx9BmLsSwlU', 'name': 'Pritam', 'type': 'artist', 'uri': 'spotify:artist:1wRPtKGflJrBx9BmLsSwlU'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw'}, 'href': 'https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw', 'id': '4YRxDV8wJFPHPTeXepOstw', 'name': 'Arijit Singh', 'type': 'artist', 'uri': 'spotify:artist:4YRxDV8wJFPHPTeXepOstw'}]",252382,2X72RoxsswQEfzOWYDSBWD,Rahogi Meri,6IXfWhC7omotM4lt0ROmEr,11,Love Aaj Kal ,2020-02-14,"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU'}, 'href': 'https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU', 'id': '1wRPtKGflJrBx9BmLsSwlU', 'name': 'Pritam', 'type': 'artist', 'uri': 'spotify:artist:1wRPtKGflJrBx9BmLsSwlU'}]",Pritam,1wRPtKGflJrBx9BmLsSwlU,both,"[Chorus]
+hA.N tuma ho, nA tuma ho
+tuma ho KAmoshI merI
+chAhe bolo yA nA bolo
+tuma to rahogI merI
+tuma to rahogI merI
+tuma to rahogI merI
+
+[Verse 1]
+mere rAste ko tuma churA ke
+aba rAha meM apanI milA do
+jahA.N mila sake sAyA tumhArA
+vahIM sAtha meM tho.DI jagaha do
+
+tuma jahA.N kahogI, vahIM pe milU.NgA
+maiM yaqIM hU.N, tere sAtha hI rahU.NgA
+terA hoke, terA banake
+
+[Chorus]
+tuma ho to maiM hU.NgA
+rahanI zarUrata terI
+chAhe bolo yA nA bolo
+tuma to rahogI merI
+tuma to rahogI merI
+tuma to rahogI...
+tuma to rahogI merI
+tuma to rahogI merIYou might also likeEmbed"
+"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU'}, 'href': 'https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU', 'id': '1wRPtKGflJrBx9BmLsSwlU', 'name': 'Pritam', 'type': 'artist', 'uri': 'spotify:artist:1wRPtKGflJrBx9BmLsSwlU'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw'}, 'href': 'https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw', 'id': '4YRxDV8wJFPHPTeXepOstw', 'name': 'Arijit Singh', 'type': 'artist', 'uri': 'spotify:artist:4YRxDV8wJFPHPTeXepOstw'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h'}, 'href': 'https://api.spotify.com/v1/artists/4ojkMVHjuDZgDXSJy5qs2h', 'id': '4ojkMVHjuDZgDXSJy5qs2h', 'name': 'Madhubanti Bagchi', 'type': 'artist', 'uri': 'spotify:artist:4ojkMVHjuDZgDXSJy5qs2h'}]",245735,2L2YNB3YIletW4fUtwphDv,Shayad - Reprise,6IXfWhC7omotM4lt0ROmEr,11,Love Aaj Kal ,2020-02-14,"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU'}, 'href': 'https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU', 'id': '1wRPtKGflJrBx9BmLsSwlU', 'name': 'Pritam', 'type': 'artist', 'uri': 'spotify:artist:1wRPtKGflJrBx9BmLsSwlU'}]",Pritam,1wRPtKGflJrBx9BmLsSwlU,both,"shAyada kabhI nA kaha sakU.N maiM tumako
+kahe binA samajha lo tuma shAyada
+shAyada mere KayAla meM tuma eka dina
+milo mujhe kahIM pe guma shAyada
+
+jo tuma nA ho raheMge hama nahIM
+jo tuma nA ho raheMge hama nahIM
+nA chAhie kuCha tumase zyAdA, tumase kama nahIM
+
+jo tuma nA ho to hama bhI hama nahIM
+jo tuma nA ho to hama bhI hama nahIM
+nA chAhie kuCha tumase zyAdA, tumase kama nahIM
+
+A.NkhoM ko KAba denA
+khuda hI savAla karake khuda hI javAba denA terI tarafa se
+bina kAma kAma karanA
+jAnA kahIM ho chAhe, hara bAra hI guzaranA terI tarafa se
+
+ye koshisheM to hoMgI kama nahIM
+ye koshisheM to hoMgI kama nahIM
+nA chAhie kuCha tumase zyAdA, tumase kama nahIM
+
+jo tuma nA ho raheMge hama nahIM
+jo tuma nA ho to hama bhI hama nahIM
+nA chAhie kuCha tumase zyAdA, tumase kama nahIM
+jo tuma nA ho...You might also likeEmbed"
+"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU'}, 'href': 'https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU', 'id': '1wRPtKGflJrBx9BmLsSwlU', 'name': 'Pritam', 'type': 'artist', 'uri': 'spotify:artist:1wRPtKGflJrBx9BmLsSwlU'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw'}, 'href': 'https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw', 'id': '4YRxDV8wJFPHPTeXepOstw', 'name': 'Arijit Singh', 'type': 'artist', 'uri': 'spotify:artist:4YRxDV8wJFPHPTeXepOstw'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB'}, 'href': 'https://api.spotify.com/v1/artists/19LIHDDSHBD5NyYHI3gpzB', 'id': '19LIHDDSHBD5NyYHI3gpzB', 'name': 'Shilpa Rao', 'type': 'artist', 'uri': 'spotify:artist:19LIHDDSHBD5NyYHI3gpzB'}]",292771,1MNrCAqCFLX31C3jD8DXZR,Haan Tum Ho,6IXfWhC7omotM4lt0ROmEr,11,Love Aaj Kal ,2020-02-14,"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU'}, 'href': 'https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU', 'id': '1wRPtKGflJrBx9BmLsSwlU', 'name': 'Pritam', 'type': 'artist', 'uri': 'spotify:artist:1wRPtKGflJrBx9BmLsSwlU'}]",Pritam,1wRPtKGflJrBx9BmLsSwlU,both,"Sure, here are the lyrics Romanized:
+
+[Chorus]
+Early in the morning ho ya late at night
+Kari maine mehnat, maine kari hai grind
+Chhoda mera saath jab bura tha mera time
+Ban rahe mere homies now, they ain't in my line
+Main bolun, ""Ooh-aah, mere paas na tu aa
+Tu ja, mere paas na tu aa""
+Ooh-aah, mere paas na tu aa
+Tu ja, mere paas na tu aa
+
+[Verse 1]
+Dekhe maine chhaaye baadal sapno pe
+Toota mera bharosa mere hi apno pe
+Mere paas na hai time inke nakhron ke
+Chala main akela, main pada nahin inke chakkaron mein
+Bandi chhodi mujhe, bole, ""Tere paas na hai bike, na hai gaadi, na koi transport"" (Transport)
+Ab main baitha ten toes in a M-Sport
+Behnchod, ye bag mera Louis, not a chain sport (Chain sport)
+Middle fingers to these haters when I see 'em
+Yakeen nahin hota that I'm sitting in a BM
+Mujhe aate bad dreams AM to the PM
+Now the only bad sapna is that I have in my DMs (DMs)
+Mere aaj na hain zyada log saath kyunki mere struggle mein na zyada log saath
+Mujhe karte nahin the kabhi pyaar wo khaas, wohi log ban-na chahte mere yaar-dost aaj par—
+You might also like[Chorus]
+Early in the morning ho ya late at night
+Kari maine mehnat, maine kari hai grind
+Chhoda mera saath jab bura tha mera time
+Ban rahe mere homies now, they ain't in my line
+Main bolun, ""Ooh-aah, mere paas na tu aa
+Tu ja, mere paas na tu aa""
+Ooh-aah, mere paas na tu aa
+Tu ja, mere paas na tu aa
+
+[Verse 2]
+Roz subah ho ya roz raat (roz raat)
+Main hoon on the grind, mujhe yaad jo saath
+Mujhe bolte the, ""Bhool mat tu aukaat"" (aukaat)
+""Gaano se na kabhi tujhe mile rozgaar, haan""
+Please tell me some' that I don't know (Don't know)
+Jaise ye na dekhna chahte mujhe on the ropes, haan
+Want me to leave but I won't go (Won't go)
+Kyunki dekhna chahte mujhe log death row tak
+
+[Refrain]
+Industry ko main na pasand zyada kyunki karun main wahi jo chahta
+Bolte the, ""Ye style na samajh aata,"" aaj milte ye gaate alag gaatha
+Industry ko main na pasand zyada kyunki karun main wahi jo chahta
+Bolte the, ""Ye style na samajh aata,"" aaj milte ye gaate alag gaatha
+[Chorus]
+Early in the morning ho ya late at night
+Kari maine mehnat, maine kari hai grind
+Chhoda mera saath jab bura tha mera time
+Ban rahe mere homies now, they ain't in my line
+Main bolun, ""Ooh-aah, mere paas na tu aa
+Tu ja, mere paas na tu aa""
+Ooh-aah, mere paas na tu aa
+Tu ja, mere paas na tu aa
+Ooh-aah, mere paas na tu aa
+Tu ja, mere paas na tu aa
+Ooh-aah, mere paas na tu aa
+Tu ja, mere paas na tu aa
+
+[Outro]
+Ooh-aah, mere paas na tu aa
+Tu ja, mere paas na tu aa
+Ooh-aah, mere paas na tu aa
+Tu ja, mere—
+Ooh, Bharg cooked another oneEmbed"
+"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO'}, 'href': 'https://api.spotify.com/v1/artists/1mBydYMVBECdDmMfE2sEUO', 'id': '1mBydYMVBECdDmMfE2sEUO', 'name': 'Sachin-Jigar', 'type': 'artist', 'uri': 'spotify:artist:1mBydYMVBECdDmMfE2sEUO'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT'}, 'href': 'https://api.spotify.com/v1/artists/3cqeO3muWIW5uSmUDNCmyT', 'id': '3cqeO3muWIW5uSmUDNCmyT', 'name': 'Rekha Bhardwaj', 'type': 'artist', 'uri': 'spotify:artist:3cqeO3muWIW5uSmUDNCmyT'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw'}, 'href': 'https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw', 'id': '4YRxDV8wJFPHPTeXepOstw', 'name': 'Arijit Singh', 'type': 'artist', 'uri': 'spotify:artist:4YRxDV8wJFPHPTeXepOstw'}]",272772,2MsGTWvf7dcjKbI0WTq6Pz,Judaai,4ahg47diWPOQ6d6C8e6PHI,8,Badlapur ,2014-12-09,"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO'}, 'href': 'https://api.spotify.com/v1/artists/1mBydYMVBECdDmMfE2sEUO', 'id': '1mBydYMVBECdDmMfE2sEUO', 'name': 'Sachin-Jigar', 'type': 'artist', 'uri': 'spotify:artist:1mBydYMVBECdDmMfE2sEUO'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss'}, 'href': 'https://api.spotify.com/v1/artists/6q29t5RuXxlBuqIZsOMQss', 'id': '6q29t5RuXxlBuqIZsOMQss', 'name': 'Priya Saraiya', 'type': 'artist', 'uri': 'spotify:artist:6q29t5RuXxlBuqIZsOMQss'}]",Sachin-Jigar,1mBydYMVBECdDmMfE2sEUO,both,"[Verse 1]
+Shikai no kageri to musekaeru douki-tachi
+(Heart is about to break) Kore ga genjitsu ka?
+Kyouki no juujika waren bakari no koe-tachi
+(Boundary with dreams) Tamashii-goto furueru
+
+[Pre-Chorus]
+Daremoga nanika ni obie nozomu
+(Mujun zouo to yoku hisomu ni-men-sei) Chouetsu
+Ningen no kawa o nugisuteta nanika
+Mirai o miushinaeba
+
+[Chorus]
+Boku wa dare? Kimi wa dare? Kodoku ni yorisou mono
+Omoidasu soumatou warai au tashikana koe
+Boku wa doko? Kimi wa doko? Kioku wa aimai dare
+Ima wa tada mewotojite tsumi o daku
+
+[Verse 2]
+Sugaru mono no imi itan matawa seitou ka?
+(Shoumei futoumei) Habikoru fuan ni
+Shinjirubeki wa nani? Toikakeru kotoba chuu ni
+(Ukabi kieru) Yumenaraba samete to
+
+[Pre-Chorus]
+Wasurenai kimi ga nagasu namida
+(Kodoku ga osou wa kokoro to) Shinjitsu
+Save me please, save me please
+Seoi au to kimeta kono miraieigou ni
+You might also like[Chorus]
+Kimi wa dare? Boku wa dare? Sorotte ""yore mushida ne""
+Waraunara waraeba ii rikai nante sa renakute ii
+Itsu made mo towa made mo omoi wa kienaikara
+Ima wa mada kimi o omoiukaberu boku no shinri
+
+[Bridge]
+""Omo sugiru nimotsu hanbun motsukara""
+Shūmatsu no nioi bokutachi wa naite chikatta
+Itsuka harukana mirai de
+""Sou waratte, sou waratte"" it's never too late
+Kimi no kurushimi to itami wa boku ga motsukara
+
+[Chorus]
+Boku wa dare? Kimi wa dare? Son'na no dou demo ii
+Negau no wa itsunohika bokuranoyume mita sekai
+Koko wa doko? Kimi wa doko? Kioku wa senmeide mo
+Ima wa tada mewotojite tsumi o daku ""kimi wa waratte""Embed"
+"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO'}, 'href': 'https://api.spotify.com/v1/artists/1mBydYMVBECdDmMfE2sEUO', 'id': '1mBydYMVBECdDmMfE2sEUO', 'name': 'Sachin-Jigar', 'type': 'artist', 'uri': 'spotify:artist:1mBydYMVBECdDmMfE2sEUO'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx'}, 'href': 'https://api.spotify.com/v1/artists/2oSONSC9zQ4UonDKnLqksx', 'id': '2oSONSC9zQ4UonDKnLqksx', 'name': 'Atif Aslam', 'type': 'artist', 'uri': 'spotify:artist:2oSONSC9zQ4UonDKnLqksx'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj'}, 'href': 'https://api.spotify.com/v1/artists/0NErdIJtuKBjtxKmlqaWdj', 'id': '0NErdIJtuKBjtxKmlqaWdj', 'name': 'Divya Kumar', 'type': 'artist', 'uri': 'spotify:artist:0NErdIJtuKBjtxKmlqaWdj'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT'}, 'href': 'https://api.spotify.com/v1/artists/3cqeO3muWIW5uSmUDNCmyT', 'id': '3cqeO3muWIW5uSmUDNCmyT', 'name': 'Rekha Bhardwaj', 'type': 'artist', 'uri': 'spotify:artist:3cqeO3muWIW5uSmUDNCmyT'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw'}, 'href': 'https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw', 'id': '4YRxDV8wJFPHPTeXepOstw', 'name': 'Arijit Singh', 'type': 'artist', 'uri': 'spotify:artist:4YRxDV8wJFPHPTeXepOstw'}]",169090,01Lut8W3laY1TODkn7eCPq,Badlapur Mashup,4ahg47diWPOQ6d6C8e6PHI,8,Badlapur ,2014-12-09,"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO'}, 'href': 'https://api.spotify.com/v1/artists/1mBydYMVBECdDmMfE2sEUO', 'id': '1mBydYMVBECdDmMfE2sEUO', 'name': 'Sachin-Jigar', 'type': 'artist', 'uri': 'spotify:artist:1mBydYMVBECdDmMfE2sEUO'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss'}, 'href': 'https://api.spotify.com/v1/artists/6q29t5RuXxlBuqIZsOMQss', 'id': '6q29t5RuXxlBuqIZsOMQss', 'name': 'Priya Saraiya', 'type': 'artist', 'uri': 'spotify:artist:6q29t5RuXxlBuqIZsOMQss'}]",Sachin-Jigar,1mBydYMVBECdDmMfE2sEUO,both,"[Couplet 1]
+Ouais, ma vie, c'est le Truman Show, la came tombe du ciel sur la scène
+Sourire coincé à la selle, je parle pas, on me fait tout à l’œil
+J'viens en retard comme si j'tais à l'heure, j'pardonne pas comme si j'ai des valeurs
+Grammaire sur ma liste de malheur, ta grand-mère qui valide le 20 heures
+Mais cette vie est belle, je le sais, comme millions euros de recettes
+Comme des tourtereaux sur la branche, avant qu'le chômage ne fasse qu'elle ne cède
+J'sais qu'il faut du blé pour les t'nir ou attendre la prochaine manche
+Non, j'vais pas pleurer devant c'film, j'sais qu'c'est pêcher d’être sensible
+La peur nous pousse comme des infirmes, trop d'journalistes qui désinforment
+Salle de prière désemplie, tous occupés à monter des empires
+Avant que j'me désintègre, j'vais m'trouver, j'vais faire la paix
+Après, j'vais rouler un teh et fusionner avec le canapé
+Ouais, bien sûr que j'ai tout prévu, c'est l'chemin qui compte, pas la fin qui prévaut
+Gros, les potos avant les putes, j'vais sauver les hommes avant les veaux
+J'vais sauver les miens avant les vôtres, gros, sinon, c'est pas la peine
+Mais sauver les siens avant les autres, gros, c'est l'programme des Le Pen
+Ouais, populace manipulée, au profit de qui ? Ce n'est pas stipulé
+Orphelins violés, désarticulés, les loisirs de la haute sont particuliers
+Viens voir la vie qu'on peut pas diffuser, t'sais ? Celle qu'est acidulée
+Là où le shit et le SMIC, c'est le max', au-d'ssus, l'esclave serait moins stimulé
+Ouais, je sais comment ça se passe, un joint, comment ça se tasse
+Une tchoin, comment ça se masse, un cul, comment ça se casse
+Donc je sais pourquoi elle veut qu'je repasse, pourquoi elle veut qu'on l'refasse
+Pourquoi elle veut qu'on ressasse (quoi), même une minute dans le sas
+Ouais, le sexe et l'argent, ça fait tout, j'ai les deux et pourtant, ça fait rien
+Ne respire pas mon air, ça m'étouffe, j'veux être libre, le reste, j'm'en bats les reins
+Ouais, j'veux être ivre, demain ne compte pas, pourquoi la vie devrait être un combat ?
+Hein ? Gros, j'esquive l'œil et l'compas, ainsi qu'les soldats qu'la machine dompta
+Ouais, j'conjugue au passé simple, passe-moi l'feu, la lumière va s'éteindre
+J'tendrai jamais la patte à ces chiens, pour l'moment, on s'en sort assez bien
+Verre à moutarde rempli d'eau, j'prends la pilule rouge comme un antibio'
+Je vais m'asseoir en lotus au Tibet et me coiffer comme les reufs en chimio'
+Les élites sont des satanistes, de sombres sorciers maîtrisant la magie
+Les créateurs et gardiens d'la matrice, à chaque poste de pouvoir, quelqu'un d'la famille
+C'est bon pour l'bénéf' si c'est la panique, c'est bon pour l'bénéf' si c'est la famine
+C'est bon pour l'bénéf' de ruiner l'Afrique, c'est bon pour l'bénéf' d'asservir l'Asie
+Ouais, ce monde est cruel à souhait, les mentalités sont baisées as fuck
+J'vais nous venger, les baiser I swear, même si le mal par le mal, c'est pas top
+Ou bien j'oublie tout et j'ouvre mon laptop, j'fais navig' privée, je fais ""gangbang hardcore""
+Là, j'me branle à mort en attendant la mort, devant l'amour de ceux qui n'font qu'un corps
+You might also like[Pont 1]
+Ce monde est cruel, ce monde est cruel
+Ce monde est cruel, ce monde est cruel
+Ce monde est cruel
+
+[Couplet 2]
+Que braquer non-stop (braquer non-stop), que braquer non-stop (braquer non-stop)
+Que braquer non-stop (non-stop, non-stop), que braquer non-stop (non-stop, non-stop)
+Motherfuck, j'suis dans l'top, que niquer des daronnes
+Kool Shen, JoeyStarr, fuck jouer les stars
+Que braquer non-stop (braquer non-stop), que braquer non-stop (braquer non-stop)
+Que braquer non-stop (non-stop, non-stop), que braquer non-stop (non-stop, non-stop)
+Motherfuck, j'suis dans l'top (motherfuck, j'suis dans le top), que niquer des daronnes
+Kool Shen, JoeyStarr, fuck jouer les stars
+Fuck jouer les stars (hey hey hey hey), y'a pas qu'moi sur l'estrade (nan nan nan nan)
+Suikon fait les backs (Suik'on fait les backs), bientôt la mixtape (bientôt la mixtape)
+Motherfuck, motherfuck, motherfuck, motherfuck
+On remplit des stades (okay), fuck, j'en veux encore
+La chatte, je m'en moque (la chatte, je m'en moque), motherfuck, j'suis dans l'top (motherfuck, j'suis dans l'top)
+J'ai refait des stocks, okay (okay), on r'vient sur les squats (hin hin hin hin)
+Turn up, une entorse (aïe aïe aïe aïe), un grand pied dans le torse (aïe aïe aïe aïe)
+Tout ken, j'fais en sorte (tout ken, tout ken), fuck, j'arrive en force (fuck, j'arrive en force)
+Conso' dans les socks (conso' dans les socks), mon seul médoc' (mon seul ouh)
+Fuck l'avis du doc' (fuck l'avis du doc'), plus de flow qu'aux docks
+Motherfuck, j'suis instable mais j'te tape même pas sur Insta'
+Motherfuck, je m'installe (hey hey hey hey), motherfuck, j'suis dans l'top (motherfuck)
+Que braquer non-stop (braquer non-stop), que braquer non-stop (braquer non-stop)
+Que braquer non-stop (non-stop, non-stop), que braquer non-stop (non-stop, non-stop)
+Motherfuck, j'suis dans l'top (motherfuck, j'suis dans l'top), que niquer des daronnes (oye, oye, oye)
+Kool Shen, JoeyStarr (hey hey hey hey), fuck jouer les stars (hey hey hey hey)
+[Couplet 3]
+Bénéfice, gang-gang, bénéfice
+Première pensée : toujours primitive ; générer du bif', c'est pas difficile
+Jour de paie, danse comme Billie Jean, hey, hey, plaisir illicite
+Timide, j'deviens émotif, j'regarde le ciel, ses motifs, hey
+À chaque instant c'est possible, mais à chaque instant, l'emoji pleure
+Que d'la violence sur l'moniteur, ça touche les gosses comme les moniteurs
+L'argent, ça démolit l'cœur ; quand ça manque, ça démolit l'cul
+Suce pas pour plus de pécules, chie pas dans mes bottes, y'a plus de PQ, merde
+Primitif, putain c'que j'suis primitif
+Mort-vivant comme Lady Di, j'vais faire l'milliard, comme P. Diddy
+Y'a qu'les nuages qui limitent, j'fais gaffe, y'a des gosses qui m'imitent
+Enfoiré, t'es si fini, tu mérites la syphilis
+Parle pas d'maléfice lorsque t'as merdé, lorsque l'mal est fait
+Wesh le tavernier, j'vais prendre la Leffe jusqu'à m'flinguer la vessie
+Arrêtez les larmes, c'est pathétique, arrêtez d'vivre dans une tragédie
+Visez autre chose que les Assedics avec la conso' dans les Atemi
+J'doggin' synthétique pute en jogging synthétique, ouais
+Produit synthétique, faux cils synthétiques, tout de synthétique sauf mon profil atypique
+Qu'importe le cas, je suis pacifique, suis-je le seul érudit du carré VIP ?
+J'vois des rubis quand on s'affilie et le continent Mu dans l'Pacifique, wow
+Ton cavu tourne comme un handspinner, j'écris mon destin sans ghostwriter
+Ça bouchonne au drive quand la dope circule, je crache la fumée, ça fait des crop circles (ouh, ouh)
+C'est quoi, c'monde qu'on laisse à nos p'tites sœurs ? Une grosse bite sur un Post-It
+Et détournements d'fonds dans les gros titres ? Nan
+J'suis d'la nouvelle civilisation, tu vas finir à la rue, c'est la meilleure intimidation
+T'en oublierais ton élévation mais fuck cette merde, je vais bosser sec bien avant mes trente-sept piges
+Je sois proche des maîtres avec une Breitling, je n'répète que la prophétie
+Primitif, j'suis encore trop primitif
+Sur tes amigos, j'pisse comme un vrai parigot
+Vodka-Paquito pour pas niquer ces clowns échappés du chapiteau
+Glober des yeux comme Stabilo, ça gobe des queues comme Haribo
+J'maîtrise la chimie ainsi qu'l'alchimie, j'suis dans l'sashimi
+Suffit qu'je pense à ta minch et ça y est, vers moi ta minch achemine
+J'tacle à la gorge, pas à la cheville, j'retourne ni ma veste ni ma chemise
+J'peux pas lâcher tant qu'j'suis pas che-ri, je cours après l'temps, je marche vite (wow)
+J'veux m'envoler, là, je vibre bas, je n'en veux à personne, c'est moi qui m'retarde
+Soit je fais l'million et j'me tire de là, soit c'est la CIA qui me criblera
+J'écris ce rap comme un cri de rage, ça sent la guerre dès la prise de voix
+D't'façon, même quand j'veux donner d'l'amour, elle est prise de spasmes (spasmes, spasmes)
+[Couplet 4]
+J'aimerais tant faire la paix avec toi, avec moi
+Ouais mais nan, ma bête noire me laisse pas assez d'espace
+Je suis toi, tu es moi, je sors même de ta mère
+On sort de la même merde et pourtant, tu m'agresses
+J'vais t'faire fondre la graisse, je vais found ton adresse
+Te montrer mon adresse quand je chante la messe
+On dira dans la presse que c'est à cause de la hess
+Qu'on était des sauvages, des otages du naufrage
+Des ados sans repère, des adultes trop amers
+On m'adule, c'est la fête, j'les insulte, c'est la merde
+On m'a pris pour un clown, on m'a pris pour un fou
+Pour info' : j'fais des sous plus que toi, ma nympho
+Licence de maths-info m'sert à rien, je travaille pas
+J'reste tranquille, je racaille pas, j'reste sous l'drap, comme KKK
+Quand j'me lève, j'veux les uer-t, j'veux les ken dans la ruelle
+Fuck un duel, j'vais leur chier d'ssus comme une mouette
+J'vais les shlasser au Moët, exploser sur le bar, j'tire une barre
+Et souris, j'ai l'cœur noir et pourri, j'aime le soir
+Y'a moins d'monde, y'a ma beuh, y'a ma blonde, y'a ma queue
+Y'a ma blonde, c'est Vald qu'a la bombe, bom-bom-bomb
+Bah voyons, t'as pas d'chance : t'es pas beau, t'as pas d'argent
+T'es en chien, t'es navrant, donc t'agis comme fils de pute
+J'espère que tu pries Jésus quand l'maton te brise le cul
+Sur ta tombe, je pisse dessus, croque-mort demande qui es-tu
+J'ai le seum, j'apprends à l'assouvir, commence vite
+À courir, à ton s'cours, personne va accourir
+J'aimerais tant faire la paix avec toi, avec moi
+Ouais mais nan, ma bête noire me laisse pas assez d'espace
+Je suis toi, tu es moi, je sors même de ta mère
+On sort de la même merde et, pourtant, tu m'agresses
+J'vais t'faire fondre la graisse, je vais found ton adresse
+Te montrer mon adresse quand je chante la messe
+On dira dans la presse que c'est à cause de la hess
+Qu'on était des sauvages, des otages du naufrage
+
+[Couplet 5]
+Gaffez quand je suis possédé (hey), gaffez quand je suis possédé (hey)
+Gaffez quand je suis possédé (hey), gaffez quand je suis possédé
+Défoncé comme ODB (hey), synthèse dans l'OCB (hey)
+Le mélange a opéré (hey), j'connais tous les procédés
+Pas de rapport protégé (jamais), pour t'faire la fête, faut des g (wow)
+Ton mélange est trop léger, tu m'as pris pour un gros pédé
+Dans la rue ou au QG, le sourire est lié au budget
+Le Malin vient d'me posséder ; au Moyen-Âge j's'rais au bûcher
+J'fais même pas de rimes parfaites ; dans les chiottes je pisse par terre
+J'te connais pas nique ta mère ; des molécules vident ma tête
+J'ai r'trouvé l'spliff de la veille, j'ai r'trouvé l'string de la vieille
+Ouais j'm'en rappelle, elle m'cassait les couilles, pour que j'lui brise la schnek
+J'peux faire le tour de la Terre, juste là au bout de ma tige
+J'ai d'quoi faire mal aux ratiches, ché-ca dans l'double de la veste
+J'ai sifflé toute la 'teille, j'appelle mon frérot ""mi amor""
+Fais gaffe à qui t'ouvre la porte, on est venu foutre la merde
+Gaffez quand je suis possédé (hey), gaffez quand je suis possédé (hey)
+Gaffez quand je suis possédé (hey), gaffez quand je suis possédé
+Défoncé comme ODB (hey), synthèse dans l'OCB (hey)
+Le mélange a opéré (hey), j'connais tous les procédés
+
+[Couplet 6]
+J'suis l'produit d'mon environnement, comme Mac Tyer
+J'suis en colère si les juges environnantes n'portent pas d'tailleurs
+Assis en tailleur, j'pense aux aïeux, d'ailleurs, faut mailler
+J'me suis pas réincarné pour bouillave à Pattaya, Bo-Bomayé
+Tu t'es soumis pour grailler, pov' gougnafier
+Heureusement qu't'es pour la paix, t'es doux comme une couille rasée
+J'fais ma ronde comme le renard dans le poulailler
+Les tours immondes bloqueront les balles si, un jour, tu veux défourailler
+Que l'amour sur les potos, que la mouille sur les photos, le cœur est noir sous les projo'
+Je vois la vie comme un gothique, tous ces rappeurs anecdotiques
+Le viseur est dans mon optique, aucune maîtrise du low kick
+80 Zetrei, 80 Zetrei, 80 Zetrei
+80 Zetrei, 80 Zetrei, 80 Zetrei
+Flaques de pisse, flaques de larmes, flaques de pétrole, fais comme Vald
+Vald nie, Vald s'arme, Vald déflore, et ces pétasses
+Laissent des flaques sur la toile du siège baquet, saletés d'flics
+Laissent des flaques quand ils frappent à la porte
+Sullyvan palpe comme à la morgue, mon poing dans l'cul, comme Panacloc
+Tu vas vivre le coma d'abord, pas d'commun accord
+Ma, ma commune hardcore a connu la mort
+Ma voix dans l'modulateur, ma bite dans coquine à fleur de peau
+Mon blaze sur Akinator, tout l'monde est là genre :
+""À qui la faute ?"", c'est qu'y'en a qui le font, et toi qui le f'rais
+Retourne rager sur c'qu'a acquis le frère avec ton Paki de merde
+Loin devant, genre des kilomètres, j'papillonne
+
+[Pont 2]
+J'arrive propre comme une saloperie, vrai comme une cachotterie
+Dis pas ""je t'aime"" comme une calomnie
+J'm'attends pas au pire, j'm'attends à être riche, genre maçonnique
+Fais pas l'ouf, t'esquives pas les ""ich""
+J'suis dans l'four, lâchez-moi les miches
+J'attire la fouffe comme chanteur R'n'B'
+Si j'reste en bas, c'est une tragédie
+Hey, oh, hey, oh
+Si j't'ai fait du mal, j'suis déso'
+Hey, oh, hey, oh
+Ma bite rentre dans sa tête comme ""Réseaux""
+Ce monde est très très très cruel, très très très cruel
+
+[Couplet 7]
+La vie a fait, la vie a fait
+J'agis pour mon futur, pour mes beignets d'calamar
+Quelques points d'sutures cachés sous ma carapace
+Aucun suce-pute parmi mes camarades
+Arrêter les cours, c'est pas une bonne idée (vraiment pas)
+Tout l'monde te l'avait dit, mais t'as commis des crimes
+Bim, dans sa chatte tout l'holiday
+Plus violent qu'manifestants contre policiers
+J'sais tellement d'trucs qu'on dirait qu'je marche broliqué
+Tout c'profit fait, faudrait qu'je pense à profiter
+Faut qu'j'reprenne le shit, là, j'ai bien trop d'idées
+Dieu merci, j'suis né pour dominer, pas ken les chattes qui ressemblent à Grosminet
+Mer apaisée que dans l'coquillage
+Mère à baiser donc pas l'temps pour l'copinage
+J'ai trop bédave, là, j'ressemble à Gorillaz
+Message de Nikita du compte official
+J'passe le relais, j'dis à mon fils de pas pleurer
+Regarder l'Sheitan œuvrer, d'apprendre à manœuvrer
+Quand je râle, il m'dégaine la grimace de la levrette
+Plus caille-ra qu'un pirate de Gare de l'Est
+J'inhale que d'la beu-her, j'débarque en Guadeloupe, timal c'est moi l'gwer'
+Fuck Lignac, j'ai la recette, comme AK-4-7, j'suis génial même à l'Ouest
+J'me connais bien, j'suis pas un psychopathe
+C'est eux qui vont tuer des gens pour ceux qu'ils idolâtrent
+Prétentieux comme Nicolas, grosse haleine, pas d'Ricola
+J'écoute quand son clito' parle, c'est jamais d'la rigolade
+Hey, j'me connais bien, j'suis pas un psychopathe
+C'est eux qui vont tuer des gens pour ceux qu'ils idolâtrent
+Prétentieux comme Nicolas, grosse haleine, pas d'Ricola
+J'écoute quand son clito' parle, c'est jamais d'la rigolade
+C'est jamais d'la rigolade, c'est pas des lol sur Skyrock
+
+[Couplet 8]
+J’recherche un permis port d’arme
+Pour pouvoir continuer d’être V.A.L.D. hors cam'
+J’ai la fève et l’orgasme, c’est la fête et j’cause pas
+J’ôte ma délabrée d’basket et je Drogba tes ratiches
+Poto, c’est l’affiche d’être à mi-ch’min
+D’me mâcher la pine pour gratter ma pouche
+Pour rapper, ma bouche fait des bruits d’seins qui s’entrechoquent
+Et j’échoue jamais si la choupinette m’a trouvé chou
+Souvent, j’retrouve des shootes échoués sous mes shoes
+Jouer les troubadours n’est pas dans mes souhaits, je fous que des coups
+Oui, je dickslap, dickslap, j’fais gaffe à c’qui s’trame
+Juste derrière mon Eastpak, rejoins-moi ou l'Islam
+C’est vrai qu’éméché j’ai péché mais j'ai jamais prêché sur les quais du TGV, c’est ça d’moins sur mon CV
+V.A.L.D.T.C aka L’PCP en DDP, le pet précédé d’un wack MC décédé
+Décidément, j’ai la pêche comme ma pression préférée
+Pour flamber ta paie, nique la dépression, j’ai la
+Tête à l’envers, sa schneck à l'envers, le haut vers le bas
+Je veux faire d’l’euro tout en restant fier de moi
+Exactement, triche aux exams, j’ai jamais pris d’ecsta', j’ai peur que ça m’plaise, ça
+Bestial comme ta saloperie de caisse braquée
+C’est fou c’que l’homme peut faire pour s’acheter un G-Star, n’est-ce pas ?
+Sullyvan surine à vue, oui, j’urine aussi sur ton posse
+Nique la survie de ta musique (de ta musique)
+NQNT, t’es plus, t’es dead, j’t’ai vu lécher pour un écu, c’est gay
+J’ai plus d’respect pour la
+Oui, j’pénètre tout c’qui bouge, louche c’qu’on trouve
+Derrière des bouts d’tissus : des gens qui souffrent, des jambes qui s’ouvrent avec des grandes pilules
+J’remplis tout, j’fais d’mon mieux, mieux, c’est mieux que bien et l’bien, hé bien, le bien n’existe que peu
+J’pige le jeu, je trime, je veux être riche gueux
+Mon style fait la dif’, qu’il arrondisse mes fins d’mois, ce p'tit fils de (fils de)
+
+[Couplet 9]
+J'suis dans la street comme dans galeries
+Monstre dans ton cavu, non, c'est pas Halloween
+Fonce hors du battlefield, plonge pas dans relation platonique
+Non, non, ne saoûle pas le Diss, ronge-moi les calories
+Weed et synthèses pour mon catering
+Ça fait des mois qu'je n’ai pas de rimes
+Non, j’devrais pas le dire, ton Dieu va m'mettre des baffes vengeresses
+Mais, nique sa mère, il n’est pas là, même quand je reste
+Demande au Ciel la recette pour faire tant de pèze
+La recette pour faire jouir sans même un ""je t'aime""
+C'est malheureux, j'suis jamais l'même à part quand je baise
+J’suis malheureux, je sais qu’elle m’aime même quand je tej
+J'assure l’spectacle comme Walt Disney ou la Blanche Neige
+J’espère l'O.D. ou l'million avant d’être trentenaire
+Ton crew : c'est des p'tites putes et des grandes merdes
+J’veux plus vous voir, j’vais m'recueillir devant champ de zeb
+Salope, tu pars sans repères ; salope, tu parles sans le faire
+Salope, tu masques ton reflet ; salope, tu casses ton re-frè
+Salope, pour toi, c'est l'enfer ; salope, cette fois, c'est la der'
+Salope, pour toi, trop de traits ; salope, pour toi, pas de trêve
+Salope, c'est l'heure du hlib et j'suis pour l'amour
+J'ai neuf pussy, pas neuf fusils qui me font la cour
+""Quoi d'neuf Sully ?"" a.k.a. la mort subite
+La morsure digne d'un piranha, destin sublime comme Rihanna
+En une seule rime, je peux t'irradier
+Mon gros, j'urine sur le pied-zer du brigadier
+Moi, j'suis gentil, faut pas diffamer, sinon, ton trou d'balle, on peut dilater
+Mon cœur s'fait pas pirater, on n'arrête pas frère, on continue avec moins d'amis
+
+[Couplet 10]
+J'suis là dans la foule, jamais sans amour
+Comme j'ai plus d'un tour, toutes ces putains courent
+Tellement d'flow alors que j'ai juste bu un coup
+J'bé-flam trop, j'dépose que du violet sur un boule
+J'bé-flam trop, j'ai le démon, j'en prends trop, j'fais deux tées-mon
+En même temps, j'suis dans deux des mondes, la tête entre deux tétons
+Toujours un œil sur les comptes, toujours une main sur les couilles
+Les vrais res-frès, on les compte et les autres comptent mes couilles
+Plus de selfie, plus de temps, j'peux pas rouiller sur le banc
+Quand j'sais pas, j'dis ""sûrement"", donc ton Macron sûr ment
+T'es comme Van Damme sur le ring, tu fais l'grand écart sur demande
+J'aime ça, que tu sois soumis, j'aime ça, qu'tu sois sur le ventre
+Plus de sourires, plus de ventes, plus de groupies, plus de champ'
+Plus de goupilles, plus de tanks, plus de roupies, plus de sang
+J'en veux pas trop, justement, tu peux m'sucer juste le gland
+Instinctivement, j'brûle le chanvre, ça étouffe les hurlements
+Des experts en magie noire essaient d'arrêter mes balles
+J'trouve tout à O'Parinor, nique sa mère Châtelet-Les Halles
+Gros, j'ai péta ton briquet pour ter-cla un céréale
+Si ta vie est compliquée, c'est qu'une putain cérébrale
+Nique sa grand-mère le score, tant qu'j'fais plus, ça m'est égal
+Nique sa grand-mère le sport, tant qu'j'les baise et qu'j'les régale
+Nique ta grand-mère de force si tu jactes comme une pédale
+Jamais l'bon nombre de pétales, toujours l'bon nombre de pétards
+
+[Couplet 11]
+J'ai dit : ""J'vais faire du rap"", j'étais un baisé dans ma tête
+V.A.L.D comme un gramme de MD dans la fête
+Jamais j'me casse les couilles, j'mange même le poisson sans arête
+On a les mains sales ainsi que les doigts dans la schnek
+J'suis pas monocentré, j'aime le shit et la weed
+Belek à ton dessin, sorti d'Pictionary
+J'ai d'nouveaux habits et plein d'nouveaux amis
+Donc j'fais un nouveau pli, j'ai pas d'nouveau hobby
+J'connais d'jà l'avenir, j'l'ai vu dans l’œil du manager
+Interpol nous recherche, on n'est pas braqueur amateur
+Viens donc à ma table si tu flex comme un Gallagher
+Dis : ""Bonjour"" à ma eue-qu et ""adieu"" à la gare
+L'Histoire est écrite et se réécrit à chaque seconde
+Regarde ces fils de pute, ça s'voit tout d'suite qu'j'suis pas d'ce monde
+Non, j'baisse pas les yeux, j'baisse pas mon froc, j'baisse pas d'un ton
+Je monte dans les tops et sur ta mère le canasson
+Non, fais pas la pute, fais pas la gueule, sois pas mauvais
+Fais pas... d'où tu viens, va pas t'sauver
+J'sais pas si t'es malhonnête
+J'entends l'Diable me talonner
+J'encule le VHR ; avant l'show, j'suis ballonné
+J'me branlais dans ma chambre, là, j'ai l'million d'abonnés
+Même bourré au volant, Suiki m'empêche de cartonner
+Ient-cli arrive de tout-par, heureusement j'sais slalomer
+Regarde la kichta qu'j'envoie, sérieusement garde la monnaie
+Regarde la kichta qu'j'envoie, sérieusement garde la monnaie
+J'ai pas l'temps de tous les tuer, faut qu'j’apprenne à pardonner
+Passe-moi du feu que j'm'éteigne
+V.A.L.D, que des beignes
+Double platine, le prequel
+Double platine, le prequel
+No tube zone, no tube zone
+No tube zone, no tube zone
+
+[Couplet 12]
+Je n'suis pas un écrivain, je suis plus qu'un esprit simple
+Je multiplie les p'tits pains, je n'l'appelle pas, j'sais qu'il vient
+On m'appelle ""V.A.L.D."" ; c'rap de merde, j'l'ai allaité
+J'crois qu'j'vais jamais arrêter, j'coupe la plaquette à l'épée
+Plein de filtres, plein d'effets, t'as pas d'rime, pas de texte
+Pas de string, même pas de fesses, pas de peace, donc pas de guerre
+Si tu l'fais pas, moi, je l'fais ; si tu l'sais pas, moi, je l'sais
+Comme si j'étais sorti d'H.E.C., sur l'détecteur, la chaussette
+J'ai les combos, la recette, promis, j'touche pas ta sœurette
+Je t'aime encore en levrette, je t'aime encore en secret
+Putain, j'ai l'cœur sur la main, j'renifle les fleurs du malin
+J'sens encore l'odeur du machin, j'esquive lueur du matin
+Je sais très bien c'qui m'attend, elle m'dit : ''Pense à moi si t'as l'temps''
+J'la vois qu'une seule fois par an comme le prime sur le Sidaction
+J'ai la vue sur l'timent-bâ, je n'suis plus sentimental
+Tu m'as vu sortir en bas, les poumons quasiment noirs
+En route pour niquer des mères comme lundi matin, dimanche soir
+M'écoute pas si tu préfères ton rap de caissier qui vend pas
+NQNT péritel, Sullyvan rappe trop spirituel
+Je ne ter-fri plus everyday, ç'me rend l'esprit trop étriqué
+Niquez vos mères, j'vais m'délivrer ; tout cette oseille, j'l'ai mérité
+J'ai disque d'or, j'ai pedigree, t'as que le mort, t'es périmé
+J'peux m'arrêter mais j'continue, pour le turn-up, je contribue
+Abandonne-moi, j'reconfigure, j'te laisse la chatte en confiture
+J'peux m'arrêter mais j'continue, pour le turn-up, je contribue
+J'ai la vue sur l'timent-bâ, je n'suis plus sentimental
+Tu m'as vu sortir en bas, les poumons quasiment noirs
+En route pour niquer des mères comme lundi matin, dimanche soir
+M'écoute pas si tu préfères ton rap de caissier qui vend pas
+
+[Couplet 13]
+De quoi tu parles ? De quoi tu parles ? Le savoir est dans l'silence
+T'es à poil, t'es sans finance, t'es ma proie, t'es ma pitance
+Y'a moi qui jette les billets et puis il y a toi qui danse
+Y'a pas de coïncidence, ferme ta gueule c'est moi qui pense
+J'comprends ton besoin d'exister, mais quand tu l'ouvres c'est moche
+Comprends notre besoin d't'exciser ; ton français il fout les pétoches
+Reste tranquille mains dans les poches ; tu jactes ne dis pas qu'c'est l'teush
+T'es vraiment du-per, c'pas du bluff ; est-ce vraiment du sperme ou du blush ? Blush
+Pour toi pas d'rédemption
+J'vais t'enfler les ganglions, tout ça sans prétention
+Bâtard si t'es dans l'sillon, je peux dévier d'ma mission
+Toujours la même ambition depuis post-bac admission
+Quand j'rappe je sais qu'j'm'abrutis ; ma bite dans ta bouche balbutie
+Je l'fais pas pour les ""m'as-tu dit"", nan, mais pour le salaire d'Matuidi (charo)
+De quoi tu parles ? De quoi tu parles ? Le savoir est dans l'silence
+T'es à poil, t'es sans finance, t'es ma proie, t'es ma pitance
+Y'a moi qui jette les billets et puis il y a toi qui danse
+Ferme ta gueule c'est moi qui pense, y'a pas de coïncidence
+De quoi tu parles ? De quoi tu parles ? Le savoir est dans l'silence
+T'es à poil, t'es sans finance, t'es ma proie, t'es ma pitance
+Y'a moi qui jette les billets et puis il y a toi qui danse
+Y'a pas de coïncidence, ferme ta grande gueule
+
+[Pont 3]
+Tout c'que j'aime dans la vie, c'est baiser et fumer du shit
+Fumer du shit, fumer du shit, fumer du shit
+Tout c'que j'aime dans la vie, c'est baiser et fumer du shit
+Fumer du shit
+
+[Couplet 14]
+Tout c'que j'aime dans la vie, c'est baiser et fumer du shit
+V.A.L.D, c'est un mystère, il faudrait que tu l'élucides
+Sucer du chibre, ça peut rapporter de l'oseille, j'sirote Grey Goose
+Vous, vous buvez du pif, j'viens avec un mouchoir au cas où vous saignez du pif
+D't'façons, vous différenciez pas le Perrier du cidre
+J'fais qu'm'entraîner ici, j'fais qu'm'entraîner ici
+J'ouvre la f'nêtre, je n'fais que humer du vice
+Je jette ma clé USB dans les chiottes pour buter Lucy, l'amour est mort
+Ouais, ferme ta gueule, arrête de t'prendre pour une érudit, tu es stupide
+Leur vision est trop étroite, est-c'que t'as vu mes pupilles ? Eh
+J'pense à tout l'monde, j'ai l'cœur ge-lar, ouais
+J'mets pas de Margiela nan ; platine, j'vais marger là, ouais
+Je suis où personne n'a marché, là
+J'ai qu'à t'voir, je dis : ""Nah sheitan"", faut pas qu'j'boive, j'vais faire le sheitan
+Toujours dans l'vrai quand j'dis : ""Ah, j'sais pas""
+Nuage de teh quand j'dis : ""Lâchez-moi""
+J'ai envie d'zeb, je rentre chez toi
+
+[Pont 4]
+Ce monde est vraiment très cruel, ah c'est vraiment cruel
+Ce monde est cruel, vraiment très cruel
+
+[Couplet 15]
+Tu ne sais plus ce qui t'arrive, tu la joues lascive, mais la flamme je ravive
+Je suis ton cadeau, la vie, ton anniv', j'pourrais te faire rire comme une ado
+Je crois en l'avenir, le passé pas trop, le passé pas drôle
+Le pas, c'est pas ma cadence, salope, je galope, je provoque avalanche
+Tu croyais pouvoir me tester ? Ah bah nan, je suis dans cette pute comme Kanye dans Kardashian
+J'lui mets les menottes, j'suis attachant, je sors les quenottes, j'suis pas patient
+Je suis le médecin, j'suis pas patient, elle me bouffe le fruit de la passion
+Elle me touche, je m'enfuis d'un pas sûr en pantoufles, je suis dans l'patio
+Tu pourras pas suivre sans cardio, j'écris des images comme sur les murs de Lascaux
+Leur vision est trop étroite, dans la vie, j'ai trempé l'doigt
+Au Grand Journal en Trump et toi ? La tronche est pâle, la trompe est moite
+Trophée, trophée
+J'leurs mets des crochets, V comme rocher sur la canette
+J'ai des projets pour la planète, j'vais t'embrocher sur ma baguette
+J'taffe comme chinois pour m'rapprocher de la stargate
+J'donne le hoquet lorsque j'allaite, je suis opé, tu es charrette
+Quand tu commences, on t'dit : ""arrête""
+D'vant une barette, j'ai plus d'force, d'vant la malette, j'veux plus d'or
+Laisse-moi tranquille Merkus mord, cherche pas d'problèmes, c'est juste mort
+V.A.L.D. Jedusor, quand tu parles, tu t'fais du tort
+Dans ton corps, on fait du sport, tu fermes ta gueule et tu sors
+Dans les airs, que des spores, fers en l'air de l'escorte
+Dans les airs, verre en l'air, on s'efforce en pleine forme
+Trophée, trophée, j'en ai trop fait
+Certains sont v'nu pour une durée provisoire, pour s'faire baiser dans l'fumoir
+Leurs éthiques sont trop bizarres, t'es pas très sûr, j'suis official
+J'peux te shlasser au visage pour mettre sourire sur ton minoi
+Je travaille ceinture d'explosifs, pas ceinture abdominale
+Je cherche à être pas à avoir, ta mère et ta grand-mère à la fois
+Mes lyrics ne sont pas rasoirs par hasard
+Vicieux comme Salazar dans Resident Evil
+Mathafack, j'prends d'l'assurance comme calvitie d'résident sénile
+Trophée
+
+[Couplet 16]
+J'veux pas faire partie d'la jetset, j'coupe ma Sobies' au Get 27 à la limite
+Mais c'est cadavérique, cette ambiance de pète sec, j'suis comme, j'suis comme paralysé
+Le sperme s'consomme comme chewing-gum et de p'tites drogues pour faire rire l'Homme
+Transitent de mains en mains, plus j'côtoie l'Homme, plus je l'aime de moins en moins
+Et plus on parle, et puis plus ça glisse en partouze
+Qu'est c'que tu veux faire quand t'as v'là l'flouze ? On s'ennuie partout
+Gros, c'est pas l'tout qu't'aies les cartouches ou les cartes, faut qu't'écrases tout ou qu'tu les écartes
+J'vois ma vie comme un cartoon, mes ennemis m'attrapent jamais, j'mange des bonbons à la pelle
+Lorsqu'on veut m'aider, on m'tend la main d'Jamel, pédé, passe la zeb, j'suis pas la bête de foire de Captcha Mag'
+Et le monde est tellement grand, j'rassemble les éléments
+J'ai l'idée, j'ai les vœux, cette bitch est vénéneuse
+Je lean, et j'fais des euros, on fait vibrer tes vieux os
+Ma firme est généreuse
+Pas d'fausse modestie, j'manie l'crom et l'Bic comme Joe Pesci
+T'obéis aux mauvais types, on cautérise nos plaies, on joue la comédie
+On monétise nos vies, violètise nos vues
+Nos limites, vos limites, grosse équipe, Bose et pique
+Do, Ré, Mi, faut rer-ti, les questions ?
+Pute, j'ai besoin d'horizon, mais ton gros cul cache la vue, j'suis noyé dans l'houblon, le réel ne m'atteint plus
+J'suis dans l'truc et dans l'tur comme dans Balladur, pose ta tête sur mon armature
+Ça rassure, j'fais tout pour me rassasier, si tu doutes, tu feras l'reste à pieds
+Allez, bouge, laisse taffer les grands, y'a d'la mouille sur l'estafette, étrange
+Intense étranglement quand j'reviens dans la Matrice, quand j'sors mon micro, y'a toujours une amatrice
+Fils, roule pas tes splifs avec un amas d'terre, je plie ces amateurs, les yeux plissés vers quatre heures
+Je vois les âmes à terre, leur tête inclinée, Lezarman fait sa ronde
+Quand j'te prends par derrière, je vois cligner l'œil de Sauron
+Tout niquer, chez nous, c'est inné, que tu l'veuilles ou non
+
+[Couplet 17]
+T'es qu'un branleur, tu penses qu'à t'toucher la bite
+Tu sèches les cours pour aller t'acheter des cartes à jouer Magic
+T'es même pas bon dragueur, tu t'frottes sur des pneumatiques
+Toujours fatigué parce que tu t'tapes des queues la nuit
+Puis par principe, tu t'réveilles mais t'es tout l'temps avachi
+Souvent de sept à sept, tu bailles parce que ""la vie c'est pas facile""
+T'attends qu'la rime t'aère l'esprit, t'espères ve-squi l'salaire d'usine
+Mais t'es qu'une carcasse : des magazines de sapins dans ton cartable
+Insupportable, t'sais qu't'emmerdes les gens avec ton sarcasme ?
+Que j'te r'chope devant des discours de Soral et j't'envoie Pascal
+C'est tout l'temps la même chose : tu fais rien mais tu t'reposes
+T'abandonnes chacun d'tes jets-pro, t'attends patiemment la nécrose
+Arrête les bédos, les restos, kebab, les mots sur les dos d'pétasses
+Tu fais la déco, dégage, t'es bien dans l'métro, mec
+Jour après jour, t'es de plus en plus mou
+T'as l'impression d'être inutile et encore plus quand tu joues
+Du coup, pas d’échappatoire, t'es comme une larve à l’abattoir
+De la de-mer dans la mâchoire, déclare ta flamme à ta main droite
+Décale, j'te f'rai pas d'cadeau si j'te rechope à bédave
+Fais l'malin qui veut pé-ra, j'te nique ta race devant tes gars
+D'ailleurs, d'ailleurs tes gars sont rants-ma, sont encore plus atteints qu'toi, sans blague
+J'me d'mande qu'est ce qu'ils peuvent bien t'trouver, t'es bon qu'à faire les cent pas
+Mais quand vas-tu prendre ta vie en main ? Rendre ta mère ravie
+T'mettre à taffer au lieu d'tenter d'ressusciter Yitzhak Rabin
+
+[Couplet 18]
+Je joue pas les rappeurs, j'suis vraiment un rappeur, j'ai vraiment des diamants, j'ai vraiment des haters
+J'suis vraiment le amant préféré de ta sœur, j'ai vraiment le million
+Depuis, j'suis vraiment plus mignon, je tire sur le pilon, j'incite tous les p'tits cons à faire comme moi
+À me suivre comme Suikon ; Spielberg appuie sur les pédales, j'suis E.T. chinois sur le guidon
+Viens égarer ton hymen à la maison, je sais qu'j'ai tort de boire plus que de raison
+Red Bull effet n'donne des ailes, vas-y, moi aussi, j'vais louer la Tour Eiffel
+J'crie ""V. A. L."" partout comme si j''tais DZ, elle en fout partout comme si c'était chez elle
+Ça sent la mer et on dort sur des serviettes, j'fais la belle étoile, le décor est parfait
+Le savoir est une arme, apprends tes leçons, devant le canon, mouille ton caleçon
+Ce monde est cruel comme cet hameçon, d'laquelle t'es amoureux, pauvre garçon ? (pauvre garçon)
+Me kidnappez pas, j'fais grimper la rançon
+On peut doubler à chaque fin de saison, j'suis adoubé même après l'horizon
+Imprévisible, sans clignotant, ma trompe partout, j'suis papillonnant, faire de l'argent, c'est passionnant
+J'peux sortir d'Aulnay, je peux sillonner
+Tous mes copains, j'vais les pistonner, même s'ils sont nuls, j'vais les imposer
+D't'façons, tout est déjà imposable, même, des fois, l'trafic de pistolets
+Je graille tout l'monde, j’ai encore la dalle, dors sur la béquille, je dors sur la cale
+J'sais même pas pourquoi je bédave à balle, ça m'rend parano, j'me crois en cavale
+Garde ton venin, j'préfère quand t'as mal, pourquoi ça te fait plus de bien quand t’as mal ?
+Pourquoi tu fais genre c’est ta première anale ? Pourquoi tu fais genre tu connaissais pas Vald ?
+AR discrets entre frontière et Paname, l'AR fifteen a du recul mais ça va
+Tu m'vois tranquille et tout mais, en vrai, j'ai la rage, ""euros, euros, euros"" : c'est quoi cet adage ?
+Ton jet-pro d'merde, c'est du rap ou du tapage ? Tu fais d'la merde comme ta s'maine de démarrage
+Garde ton honneur, arrête de faire étalage, fais des donuts avec la fumée du kamas
+V-A-L-D, le décès pour dérapage, V-A-L-D, le décès pour décalage
+J'vis en FPS comme avec un Kalach' et en POV comme avec un Famas
+J'suis trop déprimé, je vide la pharma', c'est toujours les mêmes fils de putains qui ramassent
+Le savoir se perd car tout l'monde parle trop, j'ai ouvert moins de bouquins que de balle-trous1Embed"
+"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw'}, 'href': 'https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw', 'id': '4YRxDV8wJFPHPTeXepOstw', 'name': 'Arijit Singh', 'type': 'artist', 'uri': 'spotify:artist:4YRxDV8wJFPHPTeXepOstw'}]",274000,3trnNo4KeaUlFuUiV7iRCj,Tera Chehra,2yYfIOq25JQWvUQ9AR172D,9,Sanam Teri Kasam ,2016-01-06,"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/0sSxphmGskGCKlwB9xa6WU'}, 'href': 'https://api.spotify.com/v1/artists/0sSxphmGskGCKlwB9xa6WU', 'id': '0sSxphmGskGCKlwB9xa6WU', 'name': 'Himesh Reshammiya', 'type': 'artist', 'uri': 'spotify:artist:0sSxphmGskGCKlwB9xa6WU'}]",Himesh Reshammiya,0sSxphmGskGCKlwB9xa6WU,both,"Chehra Tera Chand Jeha
+Oh Baaki Sab Taare Ni
+Vaade Tere Reh Na Jaan
+Haye Ban Ban Laare Ni
+Oh Gora Gora Rang Chakki
+Phirdi Ae
+Ho Mere Piche Payi Kine
+Chirdi Ae
+Oh Gora Gora Rang Chakki
+Phirdi Ae
+Ho Mere Piche Payi Kine
+Chirdi Ae
+
+Kehan Mainu Pichha Aida
+Chad De Tu Saare Ni
+Chehra Tera Chand Jeha
+Oh Baki Sab Tare Ni
+Vaade Tere Reh Na Jaan
+Haye Ban Ban Laare Ni
+
+Heeriye Kade Door Na Hove
+Dil Mera
+Kade Choor Na Howe
+Heeriye Kade Door Na Hove
+Dil Mera, Dil Mera
+Heeriye Kade Door Na Hove
+Dil Mera
+Kade Chur Na Hove
+You might also likeBilli Teri Ankh Sannu
+Har Roj Maare Ni
+Chehara Tera Chand Jeha
+Oh Baaki Sab Taare Ni
+Vaade Tere Reh Na Jaan
+Haye Ban Ban Laare Ni
+
+Manaka Tere Naal Savera
+Manaka Tere Naal Hai Nera
+Manaka Teray Nal Savera
+Manaka
+Ho Manaka Tere Nal Sawera
+Manaka Tere Nal Hai Nera
+
+Jitte Gayi Tu Sohniye Ni
+Haye Assi Teh To Haare Ni
+Chehara Tera Chand Jeha
+Oh Baki Sab Tare Ni
+Vaade Tere Reh Na Jaan
+Haye Ban Ban Laare Ni
+Chehara Tera Chand Jeha
+Oh Baki Sab Tare Ni
+Vaade Tere Reh Na Jaan
+Haye Ban Ban Laare Ni
+
+Sharry Nexus!Embed"
+"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw'}, 'href': 'https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw', 'id': '4YRxDV8wJFPHPTeXepOstw', 'name': 'Arijit Singh', 'type': 'artist', 'uri': 'spotify:artist:4YRxDV8wJFPHPTeXepOstw'}]",256000,4HCh7uiSv1cwmtkoahFP8k,Main Teri Yaadon Mein,2yYfIOq25JQWvUQ9AR172D,9,Sanam Teri Kasam ,2016-01-06,"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/0sSxphmGskGCKlwB9xa6WU'}, 'href': 'https://api.spotify.com/v1/artists/0sSxphmGskGCKlwB9xa6WU', 'id': '0sSxphmGskGCKlwB9xa6WU', 'name': 'Himesh Reshammiya', 'type': 'artist', 'uri': 'spotify:artist:0sSxphmGskGCKlwB9xa6WU'}]",Himesh Reshammiya,0sSxphmGskGCKlwB9xa6WU,both,"[Verse 1]
+Wo dekh phir se unki tujhpe nazren hain
+Kab se teri awaaz ke liye taras rahe hain
+Per Kuch naraz hain, tujhse pakre hain
+Teri janamaaz dekh kar tujhpe tapre hain
+Islam aur Allah tera bakwaas hai
+Jawab iska Jis mulk mein tera naam hai
+Hawaai Adam ka mazhab Islam yeh
+Rakhi Saawant se bhi ziada badnaam hai
+
+Yeh kurta shalwaar tu bahar kyun ni pehenta?
+Mosiqi haram hai ispe tera kya Kehna?
+Bhae Kholde zanjeeren, kuch tou rehem kha
+Main dost hun tera .. ilaaj kara zehen ka
+Mu kyun band hai tera kuch tou bhaunk na!!
+Yeh loag bolrahe hain tu munaafiq Firawn sa!
+Lautja gunaahon mein lautja, kuch nahi karskta tu is gandi qaum ka
+
+Jin mulkon mein mashoor tu, wahan dekhega nangi hoor tu
+Jin mulkon mеin de shaoor tu, wahan dekhega maghribi dastoor tu
+Khaal mеin siyaahi, safaid baal wah..
+Tu khud bhi ghulam maghribi riwaaj ka
+Industry ka dushman tu dushman Dajjal ka
+Per Ulma ka fatwa tu kaafir samaaj ka
+
+Huh gandi ... Teri bhi tou ek bandi
+Tujhe bhi tou lagti hai bhook badan ki
+Badan ki bhook tou zarurat ek mard ki
+Phir tune yeh kesi rakhdi paabandi???
+(Adhaan Sound) Shaam Asar ki
+Kidhar jaraha hai kya main ne baat khatam ki?!
+Banadunga teri jannat main dozakh si
+Zaban yeh tere pakke dushman ki..
+You might also like[Hook]
+Main teri nas nas mein, main tere khuaabon mein
+Main tere raste mein, main teri yaadon mein,.
+Main teri nas nas mein, main tere khuabon mein
+Main tere kaagaaz pe, main teri yaadon mein
+
+[Verse 2]
+Dekh kaise badlihaaz se tere ghar waale!
+Bhoolgae lihaaz teri bhi umar ka yeh!
+Taar kya raha hai tu in sab ka sar phaar de!
+Ya rakh ke chehre pe iske thappad maarde!
+(Slap) Yousuf waali kismat..
+Thappad maarke kabhi milti ni izzat..
+Apnon se Nadir - ese tou chirr matt
+Paise phekde khatam mushkil wakt..
+
+Per izzat tujhe inki kyun chaahiye?
+Jinki nafrat tujhe saaf dikhai de
+Tabah jo tujhe karne ka sochen tanhai mein
+Jataake phekden madad saari khaai mein
+Huh koi bhi madad muft mein ni karta
+Koi bhi yeh dozakkh wozakh se ni darta
+Kya nikah kya Quran kya pardah?!
+Purani soch teri, zamana beparwah!!
+
+Kabhi tu tapta hai, Roke, kabhi tu hasta hai
+Tasweeron mein inhe tu pagal sa lagta hai
+Kabbi kambakht sa kabhi dilon mein basta hai
+Tujhe smjhna - Kashmir wala masla hai!!!!
+Asla hai dekho iske haathon mein asla hai!
+Isko na sunna  yeh PAKISTANI kambakht sa hai!!!
+Views mashoori ke liye yeh tarasta hai!!!
+""Phir khulla kyun yeh Modi ko dehshat gard bakta hai......??""
+Agar tujhe million views pe aage tikna hai
+Tou qaum ko bhoolja inpe kyun gaane likhta hai??
+Inhe koi ni parwah inhe naa yeh dikhta hai
+Ke aaade se ziada gaane daawat e zina hai
+Akela tu kuch ni karskta yeh wakti mashoori ke din do chaar zara gin jaake
+Aina dekh aur pooch apne aapse ke teri aukaat kia mere bina yeh??
+
+[Hook]
+Main teri nas nas mein, main tere khuaabon mein
+Main tere raste mein, main teri yaadon mein
+Main teri nas nas mein, main tere khuabon mein
+Main tere kaagaaz pe, main teri yaadon meinEmbed"
+"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU'}, 'href': 'https://api.spotify.com/v1/artists/00sCATpEvwH48ays7PlQFU', 'id': '00sCATpEvwH48ays7PlQFU', 'name': 'Jonita Gandhi', 'type': 'artist', 'uri': 'spotify:artist:00sCATpEvwH48ays7PlQFU'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw'}, 'href': 'https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw', 'id': '4YRxDV8wJFPHPTeXepOstw', 'name': 'Arijit Singh', 'type': 'artist', 'uri': 'spotify:artist:4YRxDV8wJFPHPTeXepOstw'}]",320828,5ELZucrxfmkBOPP9JhfDIf,Aahista,1RNEvKlb3YovuiE8Gw5VOO,11,Laila Majnu ,2018-10-30,"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4'}, 'href': 'https://api.spotify.com/v1/artists/3Qol2r2jehhR5yKbmk1Dg4', 'id': '3Qol2r2jehhR5yKbmk1Dg4', 'name': 'Niladri Kumar', 'type': 'artist', 'uri': 'spotify:artist:3Qol2r2jehhR5yKbmk1Dg4'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/1UdYhDdrXVNJMAKghjdU6v'}, 'href': 'https://api.spotify.com/v1/artists/1UdYhDdrXVNJMAKghjdU6v', 'id': '1UdYhDdrXVNJMAKghjdU6v', 'name': 'Joi Barua', 'type': 'artist', 'uri': 'spotify:artist:1UdYhDdrXVNJMAKghjdU6v'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/745oUlBO0YnhDcFIXS3SPL'}, 'href': 'https://api.spotify.com/v1/artists/745oUlBO0YnhDcFIXS3SPL', 'id': '745oUlBO0YnhDcFIXS3SPL', 'name': 'Alif', 'type': 'artist', 'uri': 'spotify:artist:745oUlBO0YnhDcFIXS3SPL'}]",Niladri Kumar,3Qol2r2jehhR5yKbmk1Dg4,both,"[鹿目まどか(CV:悠木碧)「またあした」羅馬拼音歌詞]
+
+[Intro]
+""Sore ja mata ne"" tte te wo futte
+Muri ni waratte samishiku natte
+
+[Verse 1]
+Hodoukyou jitensha kakaete noboru hito
+Konbini dareka no uwasabanashi
+Kousaten shingou tooku no kurakushon
+Shiranai dareka no warai au koe
+
+[Pre-Chorus]
+Kyou wa hitori de aruku kayoi nareta machi
+Demo itsumo yori mo nandaka
+Jibun ga chotto chiisaku omoeru yo
+
+[Chorus]
+""Sore ja mata ne"" tte te wo futte
+Egao tsukutte samishiku natte
+Honto wa mada hanashi tarinai kedo
+""Sore ja mata ne"" tte kotoba tte
+Mata aeru tte uso wo tsuite
+Itsumodoori no egao de iu yo
+""Mata ashita""
+You might also like[Verse 2]
+Hitori ni wa nareteru furi wo shiteru kedo
+Honto wa sonna ni tsuyokunaishi
+Itsumo to onaji keshiki itsumo to onaji machi
+Nani mo kawaranai hazu na noni
+Jibun dake ga chiisaku omoeru yo
+
+[Chorus]
+""Sore ja mata ne"" janakutte
+""Ato sukoshi"" tte ieba yokatta
+Ki ga tsuite hoshikute kitai shiteita kedo
+""Sore ja mata ne"" tte kotoba de
+Mata jibun ni uso wo tsuite
+Itsumodoori no egao de kakusu kono kimochi
+
+[Interlude]
+
+[Chorus]
+""Sore ja mata ne"" tte te wo futte
+Egao tsukutte samishiku natte
+Honto wa mada hanashi tarinai kedo
+""Sore ja mata ne"" tte koe sae
+Todokanai hodo chikakute tooi
+Itsumodoori ni ato ichido dake iwasete
+""Mata ashita.""Embed"
+"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz'}, 'href': 'https://api.spotify.com/v1/artists/3gBKY0y3dFFVRqicLnVZYz', 'id': '3gBKY0y3dFFVRqicLnVZYz', 'name': 'Alka Yagnik', 'type': 'artist', 'uri': 'spotify:artist:3gBKY0y3dFFVRqicLnVZYz'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw'}, 'href': 'https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw', 'id': '4YRxDV8wJFPHPTeXepOstw', 'name': 'Arijit Singh', 'type': 'artist', 'uri': 'spotify:artist:4YRxDV8wJFPHPTeXepOstw'}]",341054,3hkC9EHFZNQPXrtl8WPHnX,Agar Tum Saath Ho,2CUXo26JAWIbQx0EVMnjpA,9,Tamasha,2015-10-16,"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG'}, 'href': 'https://api.spotify.com/v1/artists/1mYsTxnqsietFxj1OgoGbG', 'id': '1mYsTxnqsietFxj1OgoGbG', 'name': 'A.R. Rahman', 'type': 'artist', 'uri': 'spotify:artist:1mYsTxnqsietFxj1OgoGbG'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP'}, 'href': 'https://api.spotify.com/v1/artists/3GdSQUH1BRtl9UrrtuwJlP', 'id': '3GdSQUH1BRtl9UrrtuwJlP', 'name': 'Irshad Kamil', 'type': 'artist', 'uri': 'spotify:artist:3GdSQUH1BRtl9UrrtuwJlP'}]",A.R. Rahman,1mYsTxnqsietFxj1OgoGbG,both,"Pal Bhar Thahar Jaao
+Dil Ye Sambhal Jaaye
+Kaise Tumhe Roka Karun
+Meri Taraf Aata Har
+Gham Phisal Jaaye
+Aankhon Mein Tum Ko Bharun
+Bin Bole Baatein Tumse Karun
+‘Gar Tum Saath Ho
+Agar Tum Saath Ho
+Behti Rehti
+Nahar Nadiya Si
+Teri Duniya Mein
+Meri Duniya Hai
+Teri Chaahaton Mein
+Main Dhal Jaati Hoon
+Teri Aadaton Mein
+‘Gar Tum Saath Ho
+Teri Nazron Mein
+Hai Tere Sapne
+Tere Sapno Mein
+Hai Naraazi
+Mujhe Lagta Hai
+Ke Baatein Dil Ki
+Hoti Lafzon Ki Dhokebaazi
+Tum Saath Ho Ya Na
+Ho Kya Fark Hai
+Bedard Thi Zindagi Bedard Hai
+Agar Tum Saath Ho
+Agar Tum Saath Ho
+Palkein Jhapakte
+Hi Din Ye Nikal Jaaye
+Baithi Baithi Bhaagi Phirun
+Meri Taraf Aata Har
+Gham Phisal Jaaye
+Aankhon Mein Tum Ko Bharun
+Bin Bole Baatein Tumse Karun
+‘Gar Tum Saath Ho
+Agar Tum Saath Ho
+Teri Nazron Mein
+Hai Tere Sapne
+Tere Sapno Mein
+Hai Naraazi
+Mujhe Lagta Hai
+Ke Baatein Dil Ki
+Hoti Lafzon Ki Dhokebaazi
+Tum Saath Ho Ya Na
+Ho Kya Fark Hai
+Bedard Thi Zindagi Bedard Hai
+Agar Tum Saath Ho
+Dil Ye Sambhal Jaaye
+Agar Tum Saath Ho
+Har Gham Phisal Jaaye
+Agar Tum Saath Ho
+Din Ye Nikal Jaaye
+Agar Tum Saath Ho
+Har Gham Phisal JaayeYou might also likeEmbed"
+"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw'}, 'href': 'https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw', 'id': '4YRxDV8wJFPHPTeXepOstw', 'name': 'Arijit Singh', 'type': 'artist', 'uri': 'spotify:artist:4YRxDV8wJFPHPTeXepOstw'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh'}, 'href': 'https://api.spotify.com/v1/artists/6iv4lysB1yHXoZJ2gfqTdh', 'id': '6iv4lysB1yHXoZJ2gfqTdh', 'name': 'Shashwat Singh', 'type': 'artist', 'uri': 'spotify:artist:6iv4lysB1yHXoZJ2gfqTdh'}]",298492,56QlBs4D15jQWukc0hLCDI,Wat Wat Wat,2CUXo26JAWIbQx0EVMnjpA,9,Tamasha,2015-10-16,"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG'}, 'href': 'https://api.spotify.com/v1/artists/1mYsTxnqsietFxj1OgoGbG', 'id': '1mYsTxnqsietFxj1OgoGbG', 'name': 'A.R. Rahman', 'type': 'artist', 'uri': 'spotify:artist:1mYsTxnqsietFxj1OgoGbG'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP'}, 'href': 'https://api.spotify.com/v1/artists/3GdSQUH1BRtl9UrrtuwJlP', 'id': '3GdSQUH1BRtl9UrrtuwJlP', 'name': 'Irshad Kamil', 'type': 'artist', 'uri': 'spotify:artist:3GdSQUH1BRtl9UrrtuwJlP'}]",A.R. Rahman,1mYsTxnqsietFxj1OgoGbG,both,"[いきものがかり「花は桜 君は美し」羅馬拼音歌詞]
+
+Hana wa sakura kimi wa utsukushi
+Haru no komorebi kimi no hohoemi
+Fuyu ga owari yuki ga tokete
+Kimi no kokoro ni haru ga maikomu
+
+Mado wo tataku tsuyoi ame wa mada tsuzuku to
+Rajio kara nagareru koe ga tsutaete imasu
+Denwa kara kikoeta koe wa naite imashita
+Wasureta hazu no natsukashii koe deshita
+
+Kimi wa mata mou ichido
+Ano koro ni modoritai no deshou ka
+Haru wo matsu tsubomi no you ni
+Boku wa ima mayotte imasu
+
+Hana wa sakura kimi wa utsukushi
+Haru no komorebi kimi no hohoemi
+Fuyu ga owari yuki ga tokete
+Kimi no kokoro ni haru ga maikomu
+
+Kawaranu machi no keshiki ga oshieru no wa
+Hitotsu dake koko ni tarinai mono deshita
+""Itsumo no basho"" to kimete ita eki no mae
+Yure ugoku kokoro ga boku wo segasemasu
+You might also likeKimi wa mata mou ichido
+Kimi no te wo nigiritai no deshou ka
+Haru wo idaku kasumi no you ni
+Boku wa ima yuraide imasu
+
+Hana wa kaori kimi wa uruwashi
+Minamo ni ukabu hikari ga odoru
+Kaze ga sawagi machi wa iromeku
+Boku no kokoro wa haru ni tomadou
+
+Haru wa mata mou ichido
+Kono hana wo sakasetai no deshou ka
+Boku wo matsu kimi no kasa ga
+Ano eki ni hiraite imasu
+
+
+Hana wa sakura kimi wa utsukushi
+Haru no komorebi kimi no hohoemi
+Toki ni moeru haru no toiki
+Futari no toki ga haru ni kasanaru
+
+Hana wa sakura kimi wa utsukushi
+Haru no komorebi kimi no hohoemi
+Fuyu ga owari yuki ga tokete
+Kimi no kokoro ni haru ga maikomuEmbed"
+"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU'}, 'href': 'https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU', 'id': '1wRPtKGflJrBx9BmLsSwlU', 'name': 'Pritam', 'type': 'artist', 'uri': 'spotify:artist:1wRPtKGflJrBx9BmLsSwlU'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw'}, 'href': 'https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw', 'id': '4YRxDV8wJFPHPTeXepOstw', 'name': 'Arijit Singh', 'type': 'artist', 'uri': 'spotify:artist:4YRxDV8wJFPHPTeXepOstw'}]",258036,5qtEWwRUX3GKgpWwDQf9SA,Woh Din,2Svje8vKEM4VCKxoRyAvA4,7,Chhichhore,2019-08-31,"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU'}, 'href': 'https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU', 'id': '1wRPtKGflJrBx9BmLsSwlU', 'name': 'Pritam', 'type': 'artist', 'uri': 'spotify:artist:1wRPtKGflJrBx9BmLsSwlU'}]",Pritam,1wRPtKGflJrBx9BmLsSwlU,both,"[Verse 1]
+Yaado Ke Purane Album Mein
+Chhupa Ke Rakhe Hai Humne Woh Din
+Hmmm, Gullak Mein Padi Chawani Si
+Bacha Ke Rakkhe Hai Humne Woh Din
+Na Kisi Manjil Ki Fikar Thi
+Zindagi Jeene Ki Umar Thi
+Dosti Aur Doston Se Udhaar Ke Din The
+
+[Chorus]
+Woh Din Bhi Kya Din The
+Wo Oh Wo
+Woh Din Bhi Kya Din The
+Wo Oh Wo
+Woh Din Bhi Kya Din The
+Wo Oh Wo
+Woh Din Bhi Kya Din The
+Wo Oh Wo
+
+[Verse 2]
+Bigde Huve Insaan The
+Shaitan Ki Santaan The
+Ho Lekin Brother Jo Bhi Kaho
+Wo Yaar Hi To Jaan The
+College Ki Kudi Se
+Karne Aankhe Chaar Ke Din The
+Aaye Zindagi Mein Pehle Pehle
+Pyaar Ke Din The Hey Ae
+You might also like[Chorus]
+Woh Din Bhi Kya Din The
+Wo Oh Wo
+Woh Din Bhi Kya Din The
+Wo Oh Wo
+Woh Din Bhi Kya Din The
+
+[Verse 3]
+Hmmm, Kharbujon Ko Kharbujon Ki
+Mili Si Sangat Ke Apne Wo Din
+Jeewan Pe Chadhi Jawaani Ki
+Nayi Si Rangat Ke Apne Wo Din
+Yaad Hai Filmon Ke Purane
+R D Burman Ke Wo Gaane
+Band Ke Keyboard Ke
+Aur Guitar Ke Din The
+
+[Chorus]
+Woh Din Bhi Kya Din The
+Wo Oh Wo
+Woh Din Bhi Kya Din The
+Wo Oh Wo
+Woh Din Bhi Kya Din The
+Wo Oh Wo
+Woh Din Bhi Kya Din The
+Wo Oh WoEmbed"
+"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU'}, 'href': 'https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU', 'id': '1wRPtKGflJrBx9BmLsSwlU', 'name': 'Pritam', 'type': 'artist', 'uri': 'spotify:artist:1wRPtKGflJrBx9BmLsSwlU'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw'}, 'href': 'https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw', 'id': '4YRxDV8wJFPHPTeXepOstw', 'name': 'Arijit Singh', 'type': 'artist', 'uri': 'spotify:artist:4YRxDV8wJFPHPTeXepOstw'}]",280281,5O932cZmzOZGOGZz9RHx20,Khairiyat,2Svje8vKEM4VCKxoRyAvA4,7,Chhichhore,2019-08-31,"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU'}, 'href': 'https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU', 'id': '1wRPtKGflJrBx9BmLsSwlU', 'name': 'Pritam', 'type': 'artist', 'uri': 'spotify:artist:1wRPtKGflJrBx9BmLsSwlU'}]",Pritam,1wRPtKGflJrBx9BmLsSwlU,both,"[Chorus]
+Khairiyat pucho, kabhi to kaifiyat pucho
+Tumhaare bin deewane ka kya haal hai
+Dil mera dekho, na meri haisiyat poocho
+Tere bin ek din jaise sau saal hai
+
+[Post-Chorus]
+Anjaam hai tay mera, hona tumhein hai mera
+Jitni bhi ho dooriyan filhaal hain
+Ye dooriyan filhaal hain
+
+[Chorus]
+Ho, khairiyat pucho, kabhi to kaifiyat pucho
+Tumhaare bin deewane ka kya haal hai
+Dil mera dekho, na meri haisiyat poocho
+Tere bin ek din jaise sau saal hai
+
+[Verse]
+Tumhaari tasveer ke sahaare, mausam kai guzare
+Mausami na samjho par ishq ko humare
+Nazron ke saamne main aata nahi tumhare
+Magar rehte ho har pal manzar mein tum humare
+Gar ishq se hain mila, phir dard se kya gila?
+Iss dard mein zindagi khushhaal hai
+Ye dooriyan filhaal hain
+You might also like[Chorus]
+Ho, khairiyat pucho, kabhi to kaifiyat pucho
+Tumhaare bin deewane ka kya haal hai
+Dil mera dekho, na meri haisiyat poocho
+Tere bin ek din jaise sau saal hai
+
+[Post-Chorus]
+Anjaam hai tay mera, hona tumhein hai mera
+Jitni bhi ho dooriyan filhaal hain
+Ye dooriyan filhaal hainEmbed"
+"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU'}, 'href': 'https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU', 'id': '1wRPtKGflJrBx9BmLsSwlU', 'name': 'Pritam', 'type': 'artist', 'uri': 'spotify:artist:1wRPtKGflJrBx9BmLsSwlU'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw'}, 'href': 'https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw', 'id': '4YRxDV8wJFPHPTeXepOstw', 'name': 'Arijit Singh', 'type': 'artist', 'uri': 'spotify:artist:4YRxDV8wJFPHPTeXepOstw'}]",270706,3oM90C4SZLYzVZJEZD5EQk,Khairiyat (Bonus Track),2Svje8vKEM4VCKxoRyAvA4,7,Chhichhore,2019-08-31,"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU'}, 'href': 'https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU', 'id': '1wRPtKGflJrBx9BmLsSwlU', 'name': 'Pritam', 'type': 'artist', 'uri': 'spotify:artist:1wRPtKGflJrBx9BmLsSwlU'}]",Pritam,1wRPtKGflJrBx9BmLsSwlU,both,"[HOOK]
+Kiski khaer kiski khaer
+Kon hai gaer kon hai gaer
+Kesa zeher kesa zeher
+Kisse baer kisse baer x2
+
+[VERSE 1]
+Kitna uthate ho kitna girate ho
+Ek mahine ka kitna kamate ho
+Jitna parosa h utna hi khate ho
+Padho likho kyu ye gaane banate ho
+Chillake kamre mei gaane kyu gaate ho
+Karte ho kam kitni batein banate ho
+Latein kaha se ye shabd ghumate ho
+Bholi shakal se yun kisko fasate ho
+Yaha jali teri chitah toh fir rakh hai bete
+Yaha khel khatam sogaat hai bete
+Kar ke dikha agar teri aukkat hai bete?
+Aur ye kala nahi mili khairaat mei bete
+Ghisi najane kitni raatein batein
+Tabhi yaha thodi si jagaah pe yaha aake bethe
+Ab raas kaha aayega jab koi aake kehde ki
+Aap mazze mei ho full nhi aap ni sehte
+Jeb mei daalo apni rai ye
+Kal koi nahi aaj bhai hai?
+5 saal se humne marai
+Ye gaana uski numaish hai
+Aage kua piche khai hai
+Aaj beat ki godd bharai hai
+Chalti zubaan chalne do isko
+Koi dikkat nahi hum nayi hai
+Tum blackbuck hum bhai hai
+Kal the sabhya aaj hum wild hai
+Gharelu hinsa hip hop me kari
+Fir biwi bhage apne mayke
+Ek hath mei roll kiya hua J
+Aur dusre wale mei mic hai
+Barabri ki koshish bhi nhi
+Tum gully boy 8 mile mei
+You might also like[HOOK]
+Kiski khaer kiski khaer
+Kon hai gaer kon hai gaer
+Kesa zeher kesa zeher
+Kisse baer kisse baer x2
+
+[VERSE 2]
+Dekho abhi bane ye shabd mere khilone
+Betha hua bhand, tha tabhi apni zone hai
+Call dronark ko, bola scene on hai
+Fir drop kiya gaanaa humne sabne pucha kon hai
+Thoda nahi kaaafi ye lamba safar
+Hota nahi mujko ab bilkul sabar
+Nahi chodu itni si bhi me kasar
+Bakaiti nhi humse na lena bhasad
+Tum
+Ziddi nasal meri zidd pe hoon ada
+Tabhi toh hoon aaj bhi yaha pe khada
+Pesa hai bonus par jeb se nahi
+Insaan hota hai apne kaam se bada
+Naam se bada fir ye paanv ye badha
+Insaan ki tarakki se insaan hi sada?
+Hua sanghar agar papi se pala jo pada
+Me failunnga corona virus ki tarah
+
+Snapback wali cap nahi pehni kali hoodie booom bap wali rap nahi
+Bakiyo ki tarah whack nhi, flow kabhi fast par rehta koi track ni
+Aag hai track pe mila nahi todd hai
+Baki thakk ke beth gaye, hum lambi race ke ghode
+Yakeen ni hota abhi bhi log sorahe
+14 saal ki umaar mei hip hop se tha vyah
+Jese balika vadhu ka episode haiEmbed"
+"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU'}, 'href': 'https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU', 'id': '1wRPtKGflJrBx9BmLsSwlU', 'name': 'Pritam', 'type': 'artist', 'uri': 'spotify:artist:1wRPtKGflJrBx9BmLsSwlU'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/0ySU451Z1RKPLEjrjeJCTB'}, 'href': 'https://api.spotify.com/v1/artists/0ySU451Z1RKPLEjrjeJCTB', 'id': '0ySU451Z1RKPLEjrjeJCTB', 'name': 'Hamsika', 'type': 'artist', 'uri': 'spotify:artist:0ySU451Z1RKPLEjrjeJCTB'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw'}, 'href': 'https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw', 'id': '4YRxDV8wJFPHPTeXepOstw', 'name': 'Arijit Singh', 'type': 'artist', 'uri': 'spotify:artist:4YRxDV8wJFPHPTeXepOstw'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/4WE5a7bSjZ1IDwwSIuW3YM'}, 'href': 'https://api.spotify.com/v1/artists/4WE5a7bSjZ1IDwwSIuW3YM', 'id': '4WE5a7bSjZ1IDwwSIuW3YM', 'name': 'Joi', 'type': 'artist', 'uri': 'spotify:artist:4WE5a7bSjZ1IDwwSIuW3YM'}]",287651,6BQWmYuo5aO5och7iUg6Oj,Raabta (Siyaah Raatein),2DqQ34i4uuuZWTScsGIgHr,12,Agent Vinod,2012-02-24,"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU'}, 'href': 'https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU', 'id': '1wRPtKGflJrBx9BmLsSwlU', 'name': 'Pritam', 'type': 'artist', 'uri': 'spotify:artist:1wRPtKGflJrBx9BmLsSwlU'}]",Pritam,1wRPtKGflJrBx9BmLsSwlU,both,"Faili thi siyaah raatein, aaya toh subah leke
+Bewajah si zindagi mein jeene ki wajah leke
+Khoya tha samundaron mein, tanha safeena mera
+Saahilon pe aaya hai, tu jaane kis tarah haan leke
+Faili thi siyaah raatein, aaya toh subah leke
+Bewajah si zindagi mein jeene ki wajah leke
+Khoya tha samundaron mein, tanha safeena mera
+Saahilon pe aaya hai, tu jaane kis tarah haan leke
+Kuch toh hai tujhse raabta
+Kuch toh hai tujhse raabta
+Kaise hum jaane hume kya pata
+Kuch toh hai tujhse raabta
+Ab kya hai kehna, humko hai rehna
+Jannatein bhula ke teri baahon mein mein panah leke
+Faili thi siyaah raatein, aaya toh subah leke
+Bewajah si zindagi mein jeene ki wajah leke
+
+Sa ni pa di na sa..
+
+Meharbaani jaate jaate mujh pe kar gaya
+Guzarta sa lamha ek daaman bhar gaya
+Tere nazara mila, roshan sitaara mila
+Takdeer ka jaise koi ishaara mila
+
+Roothi hui khwaishon mein thodi si sulah leke
+Aaya tu khamoshiyon mein, baaton ki chirah leke
+Khoya tha samundaron mein, tanha safeena mera
+Saahilon pe aaya hai, tu jaane kis tarah haan leke
+Faili thi siyaah raatein, aaya toh subah leke
+Bewajah si zindagi mein jeene ki wajah leke
+Khoya tha samundaron mein, tanha safeena mera
+Saahilon pe aaya hai, tu jaane kis tarah haan leke
+Kuch toh hai tujhse raabta
+Kuch toh hai tujhse raabta
+Kaise hum jaane hume kya pata
+Kuch toh hai tujhse raabta
+Ab kya hai kehna, humko hai rehna
+Jannatein bhula ke teri baahon mein mein panah leke
+Faili thi siyaah raatein, aaya toh subah leke
+Bewajah si zindagi mein jeene ki wajah leke
+You might also likeI feel it inside
+Don't know why
+I feel it insideEmbed"
+"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU'}, 'href': 'https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU', 'id': '1wRPtKGflJrBx9BmLsSwlU', 'name': 'Pritam', 'type': 'artist', 'uri': 'spotify:artist:1wRPtKGflJrBx9BmLsSwlU'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/0ySU451Z1RKPLEjrjeJCTB'}, 'href': 'https://api.spotify.com/v1/artists/0ySU451Z1RKPLEjrjeJCTB', 'id': '0ySU451Z1RKPLEjrjeJCTB', 'name': 'Hamsika', 'type': 'artist', 'uri': 'spotify:artist:0ySU451Z1RKPLEjrjeJCTB'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw'}, 'href': 'https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw', 'id': '4YRxDV8wJFPHPTeXepOstw', 'name': 'Arijit Singh', 'type': 'artist', 'uri': 'spotify:artist:4YRxDV8wJFPHPTeXepOstw'}]",207754,7viKJxrTrzfVsifsDpsBnj,Raabta (Night In A Motel),2DqQ34i4uuuZWTScsGIgHr,12,Agent Vinod,2012-02-24,"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU'}, 'href': 'https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU', 'id': '1wRPtKGflJrBx9BmLsSwlU', 'name': 'Pritam', 'type': 'artist', 'uri': 'spotify:artist:1wRPtKGflJrBx9BmLsSwlU'}]",Pritam,1wRPtKGflJrBx9BmLsSwlU,both,"phailI thI siyAha rAteM, AyA toha subaha leke
+khAmakhA sI zindagI meM jIne kI vajaha leke
+khoyA thA samuMdaroM meM, tanahA saphInA merA
+sAhiloM pe AyA hai, tU jAne kisa taraha hA.N leke
+kuCha toha hai tujhase rAbtA
+kuCha toha hai tujhase rAbtA
+kaise hama jAne hame kyA patA
+kuCha toha hai tujhase rAbtA
+aba kyA hai kahanA, humako hai rahanA
+jannateM bhulA ke terI bAhoM meM panAha leke
+phailI thI siyAha rAteM, AyA toha subaha leke
+khAmakhA sI zindagI meM jIne kI vajaha leke
+
+meharabAnI jAte jAte mujha pe kara gayA
+guzaratA sA lamhA eka dAmana bhara gayA
+tere nazArA milA, roshana sitArA milA
+takadIra kA jaise koI ishArA milA
+
+rUThI huI khvAishoM meM tho.DI sI sulAha leke
+AyA tU khAmoshiyoM meM, bAtoM kI jiraha leke
+khoyA thA samuMdaroM meM, tanahA saphInA merA
+sAhiloM pe AyA hai, tU jAne kisa taraha hA.N leke
+kuCha toha hai tujhase rAbtA
+kuCha toha hai tujhase rAbtA
+kaise hama jAne hame kyA patA
+kuCha toha hai tujhase rAbtA
+aba kyA hai kahanA, humako hai rahanA
+jannateM bhulA ke terI bAhoM meM panAha leke
+phailI thI siyAha rAteM, AyA toha subaha leke
+khAmakhA sI zindagI meM jIne kI vajaha lekeYou might also likeEmbed"
+"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU'}, 'href': 'https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU', 'id': '1wRPtKGflJrBx9BmLsSwlU', 'name': 'Pritam', 'type': 'artist', 'uri': 'spotify:artist:1wRPtKGflJrBx9BmLsSwlU'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw'}, 'href': 'https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw', 'id': '4YRxDV8wJFPHPTeXepOstw', 'name': 'Arijit Singh', 'type': 'artist', 'uri': 'spotify:artist:4YRxDV8wJFPHPTeXepOstw'}]",243578,6FjbAnaPRPwiP3sciEYctO,Raabta,2DqQ34i4uuuZWTScsGIgHr,12,Agent Vinod,2012-02-24,"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU'}, 'href': 'https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU', 'id': '1wRPtKGflJrBx9BmLsSwlU', 'name': 'Pritam', 'type': 'artist', 'uri': 'spotify:artist:1wRPtKGflJrBx9BmLsSwlU'}]",Pritam,1wRPtKGflJrBx9BmLsSwlU,both,"[Intro]
+Hazaron milon ki yeh doori jo tum se ho gayi
+Lamha-lamha sochta
+Jaaun main jahan bhi, din mere na guzarte jo dekha na tumhein
+Tu wahan, main yahan
+
+[Verse 1]
+It's been so virtual, I need some company
+Hai doori itni
+That I can't believe
+Har pal teri raah dekhta
+
+[Chorus]
+Raabtah mera tujh se yun door se hai juda
+Jaane hain kaisi majbooriyan?
+Kaise hain yeh faaslay? Mera dil sataaye
+
+[Verse 2]
+Haan main khush toh hoon, magar kaisi yeh bechaini rahe
+Koi samjhaaye na
+Ik tera mere dil pe raaj hai
+Aur tu nahin toh sab bekaar hai
+Kaise hain yeh mushkilaiyan?
+
+[Chorus]
+Raabta mera tujh se yun door se hai juda
+Jaane hain kaisi majbooriyan?
+Kaise hain yeh faaslay? Mera dil sataaye
+You might also like[Verse 3]
+Ik tera mere dil pe raaj hai
+Aur tu nahin toh sab bekaar hai
+Har pal teri raah dekhta
+Teri yaad aaye, mera dil jalaaye
+
+[Outro]
+Kaise majbooriyan, kaise hain yeh faaslay?Embed"
+"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU'}, 'href': 'https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU', 'id': '1wRPtKGflJrBx9BmLsSwlU', 'name': 'Pritam', 'type': 'artist', 'uri': 'spotify:artist:1wRPtKGflJrBx9BmLsSwlU'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy'}, 'href': 'https://api.spotify.com/v1/artists/0oOet2f43PA68X5RxKobEy', 'id': '0oOet2f43PA68X5RxKobEy', 'name': 'Shreya Ghoshal', 'type': 'artist', 'uri': 'spotify:artist:0oOet2f43PA68X5RxKobEy'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw'}, 'href': 'https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw', 'id': '4YRxDV8wJFPHPTeXepOstw', 'name': 'Arijit Singh', 'type': 'artist', 'uri': 'spotify:artist:4YRxDV8wJFPHPTeXepOstw'}]",289196,11PgL2XjsTBszhAPqttBJS,Raabta (Kehte Hain Khuda Ne),2DqQ34i4uuuZWTScsGIgHr,12,Agent Vinod,2012-02-24,"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU'}, 'href': 'https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU', 'id': '1wRPtKGflJrBx9BmLsSwlU', 'name': 'Pritam', 'type': 'artist', 'uri': 'spotify:artist:1wRPtKGflJrBx9BmLsSwlU'}]",Pritam,1wRPtKGflJrBx9BmLsSwlU,both,"[Verse 1: Shreya Ghoshal]
+kahate haiM, ""KudA ne isa jahA.N meM sabhI ke lie
+kisI nA kisI ko hai banAyA hara kisI ke lie""
+terA milanA hai usa raba kA ishArA
+mAno mujhako banAyA tere jaise hI kisI ke lie
+
+[Pre-Chorus: Shreya Ghoshal]
+kahate haiM, ""KudA ne isa jahA.N meM sabhI ke lie
+kisI nA kisI ko hai banAyA hara kisI ke lie""
+terA milanA hai usa raba kA ishArA
+mAno mujha ko banAyA tere jaise hI kisI ke lie
+
+[Chorus: Shreya Ghoshal]
+kuCha to hai tujhase rAbatA
+kuCha to hai tujhase rAbatA
+kaise hama jAneM? hameM kyA patA
+kuCha to hai tujhase rAbatA
+
+tU hamasafara hai, phira kyA fikara hai
+jIne kI vajaha yahI hai, maranA isI ke lie
+
+[Post-Chorus: Shreya Ghoshal]
+kahate haiM, ""KudA ne isa jahA.N meM sabhI ke lie
+kisI nA kisI ko hai banAyA hara kisI ke lie""
+
+[Instrumental Break]
+You might also like[Vocalization: Pritam]
+sA-ne-dha-pA
+padhanisAni, gAmAsA
+sAnisAregAmAre...
+
+[Verse 2: Pritam & Shreya Ghoshal]
+guzaratA sA lamahA eka dAmana bhara gayA
+terA nazArA milA, roshana sitArA milA
+taqadIra kA jaise koI ishArA milA
+taqadIra kI kashtiyoM ko kinArA milA
+
+sadiyoM se tarase haiM jaise ziMdagI ke lie
+terI sohabata meM duAe.N haiM usI ke lie
+terA milanA hai usa raba kA ishArA
+mAno mujhako banAyA tere jaise hI kisI ke lie
+
+[Pre-Chorus: Shreya Ghoshal]
+kahate haiM, ""KudA ne isa jahA.N meM sabhI ke lie
+kisI nA kisI ko hai banAyA hara kisI ke lie""
+terA milanA hai usa raba kA ishArA
+mAno mujha ko banAyA tere jaise hI kisI ke lie
+
+[Chorus: Shreya Ghoshal]
+kuCha to hai tujhase rAbatA
+kaise hama jAneM? hameM kyA patA
+kuCha to hai tujhase rAbatA
+tU hamasafara hai, phira kyA fikara hai
+jIne kI vajaha yahI hai, maranA isI ke lie
+
+[Post-Chorus: Shreya Ghoshal]
+kahate haiM, ""KudA ne isa jahA.N meM sabhI ke lie
+kisI nA kisI ko hai banAyA hara kisI ke lie""
+
+[Outro]
+Don't know why, I feel it inside
+Don't know why, I feel it insideEmbed"
+"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO'}, 'href': 'https://api.spotify.com/v1/artists/1mBydYMVBECdDmMfE2sEUO', 'id': '1mBydYMVBECdDmMfE2sEUO', 'name': 'Sachin-Jigar', 'type': 'artist', 'uri': 'spotify:artist:1mBydYMVBECdDmMfE2sEUO'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw'}, 'href': 'https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw', 'id': '4YRxDV8wJFPHPTeXepOstw', 'name': 'Arijit Singh', 'type': 'artist', 'uri': 'spotify:artist:4YRxDV8wJFPHPTeXepOstw'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx'}, 'href': 'https://api.spotify.com/v1/artists/2fMqTqiTxUDlmcOEPaQSsx', 'id': '2fMqTqiTxUDlmcOEPaQSsx', 'name': 'Amitabh Bhattacharya', 'type': 'artist', 'uri': 'spotify:artist:2fMqTqiTxUDlmcOEPaQSsx'}]",261702,5bQ6oDLqvw8tywmnSmwEyL,Apna Bana Le,12sC6UjMWz6EaxnzyfCNMe,6,Bhediya ,2022-11-22,"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO'}, 'href': 'https://api.spotify.com/v1/artists/1mBydYMVBECdDmMfE2sEUO', 'id': '1mBydYMVBECdDmMfE2sEUO', 'name': 'Sachin-Jigar', 'type': 'artist', 'uri': 'spotify:artist:1mBydYMVBECdDmMfE2sEUO'}]",Sachin-Jigar,1mBydYMVBECdDmMfE2sEUO,both,"[Chorus]
+Tu mera koi na hoke bhi kuch laage
+Tu mera koi na hoke bhi kuch laage
+
+[Verse 1]
+Kiya re jo bhi tune kaise kiya re
+Jiya ko mere bandh aise liya re
+
+[Pre-Chorus 1]
+Samajh ke bhi na samajh main saku
+
+[Chorus]
+Saveron ka bhi mere tu sooraj laage
+Tu mera koi na hoke bhi kuch lage
+Tu mera koi na hoke bhi kuch lage
+Tu mera koi na hoke bhi kuch lage
+
+[Post-Chorus]
+Apna bana le piya, apna bana le piya
+Apna bana le mujhe, apna bana le piya
+Apna bana le piya, apna bana le piya
+Dil ke nagar mein shehar tu basa le piya
+
+[Instrumental-break]
+
+[Verse 2]
+Chhune se tere, haan tere, haan tere
+Fikki ruton ko rang lage
+Chhune se tere, haan tere, haan tere
+Fikki ruton ko rang lage
+You might also likeTeri disha mein kyu chalne se mere
+Pairon ko pankh lage
+Raha na mere kaam ka jag sara
+Haan bas tere naam se hi guzara
+
+[Pre-Chorus 2]
+Ulajh ke, yun na sulajh na saku
+
+[Chorus]
+Zubaaniyan teri jhoothi bhi sach lage
+Tu mera koi na hoke bhi kuch lage
+Tu mera koi na hoke bhi kuch lage
+Tu mera koi na hoke bhi kuch lage
+
+[Post-Chorus]
+Apna bana le piya, apna bana le piya
+Apna bana le mujhe, apna bana le piya
+Apna bana le piya, apna bana le piya
+Dil ke nagar mein shehar tu basa le piya
+
+[Outro]
+Ho, sab kuch mera chahe naam apne likha le
+Badle mein itni to yaari nibha le
+Jag ki hirasat se mujhko chuda le
+Apna bana le bas apna bana le
+Apna bana le apna bana leEmbed"
+"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw'}, 'href': 'https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw', 'id': '4YRxDV8wJFPHPTeXepOstw', 'name': 'Arijit Singh', 'type': 'artist', 'uri': 'spotify:artist:4YRxDV8wJFPHPTeXepOstw'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/4iW4xSfMEIvrXM0Iu3aFDY'}, 'href': 'https://api.spotify.com/v1/artists/4iW4xSfMEIvrXM0Iu3aFDY', 'id': '4iW4xSfMEIvrXM0Iu3aFDY', 'name': 'Aditi Singh Sharma', 'type': 'artist', 'uri': 'spotify:artist:4iW4xSfMEIvrXM0Iu3aFDY'}]",264854,48pyUxg9RYuwie5M9R7qRn,Sooraj Dooba Hain,4ixAjixkWs8mCNdlTH1Cdf,7,Roy,2015-01-09,"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6'}, 'href': 'https://api.spotify.com/v1/artists/76fuWYgIf3TVIopTs3vaJ6', 'id': '76fuWYgIf3TVIopTs3vaJ6', 'name': 'Amaal Mallik', 'type': 'artist', 'uri': 'spotify:artist:76fuWYgIf3TVIopTs3vaJ6'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB'}, 'href': 'https://api.spotify.com/v1/artists/0E02VcvA5p1ndkLdqWD5JB', 'id': '0E02VcvA5p1ndkLdqWD5JB', 'name': 'Ankit Tiwari', 'type': 'artist', 'uri': 'spotify:artist:0E02VcvA5p1ndkLdqWD5JB'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/5isfxZ3RSdBlSLn3cSFhnI'}, 'href': 'https://api.spotify.com/v1/artists/5isfxZ3RSdBlSLn3cSFhnI', 'id': '5isfxZ3RSdBlSLn3cSFhnI', 'name': 'Meet Bros Anjjan', 'type': 'artist', 'uri': 'spotify:artist:5isfxZ3RSdBlSLn3cSFhnI'}]",Amaal Mallik,76fuWYgIf3TVIopTs3vaJ6,both,"matalabI ho jA zarA matalabI
+duniyA kI sunatA hai kyoM
+Kuda kI bhI suna le kabhI
+matalabI ho jA zarA matalabI
+duniyA kI sunatA hai kyoM
+Kuda kI bhI suna le kabhI
+
+kuCha bAta Galata bhI ho jAe
+kuCha dera ye dila bhI kho jAe
+bephikra dha.Dakane isa taraha se chale
+shora gUMje yahAM se vahA.N
+
+sUraja DUbA hai yAroM
+do ghU.NTa nashe ke mAro
+rAste bhulA do sAre gharabAra ke
+sUraja DUbA hai yAroM
+do ghU.NTa nashe ke mAro
+Gama tuma bhulA do sAre saMsAra ke
+
+Ask me for anything
+I can give you everything
+rAste bhulA do sAre gharabAra ke
+Ask me for anything
+I can give you everything
+Gama tuma bhulA do sAre saMsAra ke
+You might also likeo o...
+
+atA patA rahe nA kisI kA hameM
+yahI kahe ye pala zindagI kA hameM
+atA patA rahe nA kisI kA
+yahI kahe ye pala zindagI kA hame
+ke KudaGarza sI khvAhisha lie
+be-sAMsa bhI hama tuma jiyeM
+hai gulAbI gulAbI samAM
+
+sUraja DUbA hai yAroM
+do ghU.NTa nashe ke mAro
+rAste bhulA do sAre gharabAra ke
+sUraja DUbA hai yAroM
+do ghU.NTa nashe ke mAro
+Gama tuma bhulA do sAre saMsAra ke
+
+matalabI...
+ho jA zarA matalabI
+duniyA kI sunatA hai kyoM
+Kuda kI bhI suna le kabhI
+
+chale nahIM u.De AsamAna pe abhI
+patA nA ho hai jAnA kahA.N pe abhI
+chale nahIM u.De AsamAna pe
+patA nA ho hai jAnA kahA.N pe
+ki be-maMzileM ho saba rAste
+duniyA se ho zarA fAsale
+kuCha Kuda se bhI ho dUriyA
+sUraja DUbA hai yAroM
+do ghU.NTa nashe ke mAro
+rAste bhulA do sAre gharabAra ke
+sUraja DUbA hai yAroM
+do ghU.NTa nashe ke mAro
+Gama tuma bhulA do sAre saMsAra ke
+
+Ask me for anything
+I can give you everything
+o o...
+Ask me for anything
+I can give you everything
+o o...Embed"
+"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/4iW4xSfMEIvrXM0Iu3aFDY'}, 'href': 'https://api.spotify.com/v1/artists/4iW4xSfMEIvrXM0Iu3aFDY', 'id': '4iW4xSfMEIvrXM0Iu3aFDY', 'name': 'Aditi Singh Sharma', 'type': 'artist', 'uri': 'spotify:artist:4iW4xSfMEIvrXM0Iu3aFDY'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw'}, 'href': 'https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw', 'id': '4YRxDV8wJFPHPTeXepOstw', 'name': 'Arijit Singh', 'type': 'artist', 'uri': 'spotify:artist:4YRxDV8wJFPHPTeXepOstw'}]",264721,2rSCesM8QQvGjvkJg3xsOS,Sooraj Dooba Hain,4ixAjixkWs8mCNdlTH1Cdf,7,Roy,2015-01-09,"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6'}, 'href': 'https://api.spotify.com/v1/artists/76fuWYgIf3TVIopTs3vaJ6', 'id': '76fuWYgIf3TVIopTs3vaJ6', 'name': 'Amaal Mallik', 'type': 'artist', 'uri': 'spotify:artist:76fuWYgIf3TVIopTs3vaJ6'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB'}, 'href': 'https://api.spotify.com/v1/artists/0E02VcvA5p1ndkLdqWD5JB', 'id': '0E02VcvA5p1ndkLdqWD5JB', 'name': 'Ankit Tiwari', 'type': 'artist', 'uri': 'spotify:artist:0E02VcvA5p1ndkLdqWD5JB'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/5isfxZ3RSdBlSLn3cSFhnI'}, 'href': 'https://api.spotify.com/v1/artists/5isfxZ3RSdBlSLn3cSFhnI', 'id': '5isfxZ3RSdBlSLn3cSFhnI', 'name': 'Meet Bros Anjjan', 'type': 'artist', 'uri': 'spotify:artist:5isfxZ3RSdBlSLn3cSFhnI'}]",Amaal Mallik,76fuWYgIf3TVIopTs3vaJ6,both,"matalabI ho jA zarA matalabI
+duniyA kI sunatA hai kyoM
+Kuda kI bhI suna le kabhI
+matalabI ho jA zarA matalabI
+duniyA kI sunatA hai kyoM
+Kuda kI bhI suna le kabhI
+
+kuCha bAta Galata bhI ho jAe
+kuCha dera ye dila bhI kho jAe
+bephikra dha.Dakane isa taraha se chale
+shora gUMje yahAM se vahA.N
+
+sUraja DUbA hai yAroM
+do ghU.NTa nashe ke mAro
+rAste bhulA do sAre gharabAra ke
+sUraja DUbA hai yAroM
+do ghU.NTa nashe ke mAro
+Gama tuma bhulA do sAre saMsAra ke
+
+Ask me for anything
+I can give you everything
+rAste bhulA do sAre gharabAra ke
+Ask me for anything
+I can give you everything
+Gama tuma bhulA do sAre saMsAra ke
+You might also likeo o...
+
+atA patA rahe nA kisI kA hameM
+yahI kahe ye pala zindagI kA hameM
+atA patA rahe nA kisI kA
+yahI kahe ye pala zindagI kA hame
+ke KudaGarza sI khvAhisha lie
+be-sAMsa bhI hama tuma jiyeM
+hai gulAbI gulAbI samAM
+
+sUraja DUbA hai yAroM
+do ghU.NTa nashe ke mAro
+rAste bhulA do sAre gharabAra ke
+sUraja DUbA hai yAroM
+do ghU.NTa nashe ke mAro
+Gama tuma bhulA do sAre saMsAra ke
+
+matalabI...
+ho jA zarA matalabI
+duniyA kI sunatA hai kyoM
+Kuda kI bhI suna le kabhI
+
+chale nahIM u.De AsamAna pe abhI
+patA nA ho hai jAnA kahA.N pe abhI
+chale nahIM u.De AsamAna pe
+patA nA ho hai jAnA kahA.N pe
+ki be-maMzileM ho saba rAste
+duniyA se ho zarA fAsale
+kuCha Kuda se bhI ho dUriyA
+sUraja DUbA hai yAroM
+do ghU.NTa nashe ke mAro
+rAste bhulA do sAre gharabAra ke
+sUraja DUbA hai yAroM
+do ghU.NTa nashe ke mAro
+Gama tuma bhulA do sAre saMsAra ke
+
+Ask me for anything
+I can give you everything
+o o...
+Ask me for anything
+I can give you everything
+o o...Embed"
+"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw'}, 'href': 'https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw', 'id': '4YRxDV8wJFPHPTeXepOstw', 'name': 'Arijit Singh', 'type': 'artist', 'uri': 'spotify:artist:4YRxDV8wJFPHPTeXepOstw'}]",310000,1YMLgvsQdE27r30q0fsLeV,Tera Fitoor,3RtFFza4brQXoNSv19g1ps,7,Genius ,2018-08-24,"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/0sSxphmGskGCKlwB9xa6WU'}, 'href': 'https://api.spotify.com/v1/artists/0sSxphmGskGCKlwB9xa6WU', 'id': '0sSxphmGskGCKlwB9xa6WU', 'name': 'Himesh Reshammiya', 'type': 'artist', 'uri': 'spotify:artist:0sSxphmGskGCKlwB9xa6WU'}]",Himesh Reshammiya,0sSxphmGskGCKlwB9xa6WU,both,"Tera fitoor, jab se chadh gaya re
+Tera fitoor, jab se chadh gaya re
+Ishq jo zara sa tha woh badh gaya re
+Tera fitoor, jab se chadh gaya re
+
+Tu jo mere sang chalne lage
+Toh meri raahe dhadakne lage
+Dekhun jo na ek pal main tumhe
+Toh meri baahein tadapne lage
+
+Ishq jo zara sa tha woh badh gaya re
+Tera fitoor, jab se chadh gaya re
+Tera fitoor, jab se chadh gaya re
+
+Haathon se, lakeere yehi kehti hai
+Ke zindagi jo hai meri, tujhi mein ab rehti hai
+
+Labon pe likhi hai merе dil ki khwahish
+Lafzon mein kaise main bataaun
+Ek tujhko hi paane ki khatir
+Sab sе juda main ho jaaun
+
+Kal tak maine jo bhi khwaab the dekhe
+Tujh mein woh dikhne lage
+
+Ishq jo zara sa tha woh badh gaya re
+Tera fitoor, jab se chadh gaya re
+Tera fitoor, jab se chadh gaya re
+You might also likeSaanson ke kinaare bade tanha the
+Tu aake inhein chhu le bas
+Yehi to mere armaan the
+
+Saari duniya se mujhe kya lena hai
+Bas tujhko hi pehchaanu
+Mujhko na meri ab khabar ho koi
+Tujhse hi khud ko main jaanu
+
+Raatein nahi kat ti bechain se hoke
+Din bhi guzarne lage
+
+Ishq jo zara sa tha woh badh gaya re
+Tera fitoor, jab se chadh gaya re
+Tera fitoor, jab se chadh gaya reEmbed"
+"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O'}, 'href': 'https://api.spotify.com/v1/artists/4zCH9qm4R2DADamUHMCa6O', 'id': '4zCH9qm4R2DADamUHMCa6O', 'name': 'Anirudh Ravichander', 'type': 'artist', 'uri': 'spotify:artist:4zCH9qm4R2DADamUHMCa6O'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw'}, 'href': 'https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw', 'id': '4YRxDV8wJFPHPTeXepOstw', 'name': 'Arijit Singh', 'type': 'artist', 'uri': 'spotify:artist:4YRxDV8wJFPHPTeXepOstw'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB'}, 'href': 'https://api.spotify.com/v1/artists/19LIHDDSHBD5NyYHI3gpzB', 'id': '19LIHDDSHBD5NyYHI3gpzB', 'name': 'Shilpa Rao', 'type': 'artist', 'uri': 'spotify:artist:19LIHDDSHBD5NyYHI3gpzB'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk'}, 'href': 'https://api.spotify.com/v1/artists/0m3D4grap8VFSzbJMqgNVk', 'id': '0m3D4grap8VFSzbJMqgNVk', 'name': 'Kumaar', 'type': 'artist', 'uri': 'spotify:artist:0m3D4grap8VFSzbJMqgNVk'}]",200373,3xMHXmedL5Rvfxmiar9Ryv,Chaleya,3WLJmMZUeDOuERFAk1Mxs6,7,Jawan,2023-09-05,"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O'}, 'href': 'https://api.spotify.com/v1/artists/4zCH9qm4R2DADamUHMCa6O', 'id': '4zCH9qm4R2DADamUHMCa6O', 'name': 'Anirudh Ravichander', 'type': 'artist', 'uri': 'spotify:artist:4zCH9qm4R2DADamUHMCa6O'}]",Anirudh Ravichander,4zCH9qm4R2DADamUHMCa6O,both,"[Intro]
+Phir se ud chala
+Ud ke chhoda hai jahaan neechein
+Main tumhare ab hoon havaale
+Ab door-door log bagh, meelon door ye waadiyan
+
+[Verse]
+Phir dhuaa-dhuaa tan har badli chali aati hai chhoone
+Par koi badli kabhi kai karde tan geela ye bhi naa ho
+Kissi manzar par main rukka nahin
+Kabhi khud se bhi main mila nahin
+Ye gilla to hai, main khafa nahin
+Sheher ek se, gaon ek se, log ek se, naam ek
+Phir se ud chala main
+
+[Verse]
+Mitti jaise sapne ye kitna bhi palko se jhaado
+Phir aa jaate hain
+Itne saare sapne kya kahoon
+Kis tarah se maine tode hain, chhode hain, kyun
+Mere saath chale, mujhe le ke ude, ye kyun
+
+[Bridge]
+Kabhi daal-daal, kabhi paat-paat
+Mere saath-saath, phirein dar-dar ye
+Kabhi sehera, kabhi saavan
+Banu raavan, jiyun mar marke
+Kabhi daal-daal, kabhi paat-paat
+Kabhi din hai raat, kabhi din, din hai
+Kya sach hai, kya maya
+Hai daata, hai daata
+You might also like[Pre-Chorus]
+Idhar udhar, titar bitar
+Kya hai pata, hawa le hi jaye teri or
+Kheenche teri yaaden, teri yaaden, teri or
+
+[Instrumental Break]
+
+[Chorus]
+Rang birange vehmon mein, main udta phirun
+Rang birange vehmon mein, main udta phirun2Embed"
+"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O'}, 'href': 'https://api.spotify.com/v1/artists/4zCH9qm4R2DADamUHMCa6O', 'id': '4zCH9qm4R2DADamUHMCa6O', 'name': 'Anirudh Ravichander', 'type': 'artist', 'uri': 'spotify:artist:4zCH9qm4R2DADamUHMCa6O'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw'}, 'href': 'https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw', 'id': '4YRxDV8wJFPHPTeXepOstw', 'name': 'Arijit Singh', 'type': 'artist', 'uri': 'spotify:artist:4YRxDV8wJFPHPTeXepOstw'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU'}, 'href': 'https://api.spotify.com/v1/artists/00sCATpEvwH48ays7PlQFU', 'id': '00sCATpEvwH48ays7PlQFU', 'name': 'Jonita Gandhi', 'type': 'artist', 'uri': 'spotify:artist:00sCATpEvwH48ays7PlQFU'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1'}, 'href': 'https://api.spotify.com/v1/artists/0y59o4v8uw5crbN9M3JiL1', 'id': '0y59o4v8uw5crbN9M3JiL1', 'name': 'Badshah', 'type': 'artist', 'uri': 'spotify:artist:0y59o4v8uw5crbN9M3JiL1'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk'}, 'href': 'https://api.spotify.com/v1/artists/0m3D4grap8VFSzbJMqgNVk', 'id': '0m3D4grap8VFSzbJMqgNVk', 'name': 'Kumaar', 'type': 'artist', 'uri': 'spotify:artist:0m3D4grap8VFSzbJMqgNVk'}]",195381,3qxLYSU1s5pqk8rz6dJNVi,Faraatta,3WLJmMZUeDOuERFAk1Mxs6,7,Jawan,2023-09-05,"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O'}, 'href': 'https://api.spotify.com/v1/artists/4zCH9qm4R2DADamUHMCa6O', 'id': '4zCH9qm4R2DADamUHMCa6O', 'name': 'Anirudh Ravichander', 'type': 'artist', 'uri': 'spotify:artist:4zCH9qm4R2DADamUHMCa6O'}]",Anirudh Ravichander,4zCH9qm4R2DADamUHMCa6O,both,"[""Nothing New"" magyarul]
+
+[Első verze: Taylor Swift]
+Fiatal korodban azt mondják neked
+""Lányok, menyjetek el és szórakozzatok""
+Aztán levadásznak és megölik azokat, akik ténylegesen azt csinálják
+Kritizálják a repülésed
+Amikor az égen szárnyalsz
+Lelőnek, felsőhajtanak, és aztán
+Azt mondják, ""Úgy néz ki, mintha már túl is lenne rajta""
+Uram, mi lesz velem ha
+Egyszer elveszítem azt, hogy új vagyok?
+
+[Refrén: Taylor Swift]
+Túl sokat ittam ma este
+És tudom, hogy szomorú, de ezen gondolkodom
+És felébredek az éjszaka közepén
+Mintha érezném az idő múlását
+Hogyan tud az ember mindent tizennyolc évesen
+És semmit huszonkét évesen?
+És akkor is akarsz majd, ha már nem leszek új?
+
+[Második verze: Phoebe Bridgers & Taylor Swift]
+Meddig lesz aranyos, ez a sok sírás a szobámban?
+Amikor már nem foghatod a fiatalságomra
+És nem forgathatod szeretettel a szemed
+És az arcom egyre fárattabbá válik
+A sok elpirulástól és a sok színlelt mosolytól
+És csak addig várok a megfelelő pillanatra, míg el nem veszítem a figyelmed
+Vagy addig, míg valaki más jön a helyettem? (Ahh)
+Az emberek szeretik az őszinteséget (Ahh)
+You might also like[Refrén: Phoebe Bridgers & Taylor Swift]
+Túl sokat (Túl sokat) ittam ma este
+És tudom, hogy szomorú, de ezen gondolkodom
+És felébredek (Felébredek) az éjszaka közepén
+Mintha érezném az idő múlását
+Hogyan tud az ember mindent tizennyolc évesen
+És semmit huszonkét évesen?
+És akkor is akarsz majd, ha már nem leszek új?
+
+[Bridge: Taylor Swift & Phoebe Bridgers]
+Tudom, hogy egy nap találkozom vele
+Ez egy rossz álom
+Az a fajta ragyogás ami csak tizenhét évesen van
+Tudni fogja az utat, aztán azt fogja mondani, hogy tőlem kapta a térképet
+Azt mondom örülök neki, aztán álomba sírom magam
+Oh woah ohh, oh woah ohh, oh, oh
+
+[Chorus: Taylor Swift & Phoebe Bridgers]
+Túl sokat (Túl sokat) ittam ma este
+És tudom, hogy szomorú, de ezen gondolkodom
+És felébredek (Felébredek) az éjszaka közepén
+Mintha érezném az idő múlását
+Hogyan tud az ember mindent tizennyolc évesen
+És semmit huszonkét évesen?
+És akkor is akarsz majd, ha már nem leszek új?Embed"
+"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/6QtJ6BVdj43aDpgjnVp2tY'}, 'href': 'https://api.spotify.com/v1/artists/6QtJ6BVdj43aDpgjnVp2tY', 'id': '6QtJ6BVdj43aDpgjnVp2tY', 'name': 'Mohammed Irfan', 'type': 'artist', 'uri': 'spotify:artist:6QtJ6BVdj43aDpgjnVp2tY'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw'}, 'href': 'https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw', 'id': '4YRxDV8wJFPHPTeXepOstw', 'name': 'Arijit Singh', 'type': 'artist', 'uri': 'spotify:artist:4YRxDV8wJFPHPTeXepOstw'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/0HIpVOzrDwqiI5wP56soMK'}, 'href': 'https://api.spotify.com/v1/artists/0HIpVOzrDwqiI5wP56soMK', 'id': '0HIpVOzrDwqiI5wP56soMK', 'name': 'Saim Bhat', 'type': 'artist', 'uri': 'spotify:artist:0HIpVOzrDwqiI5wP56soMK'}]",329851,2b2HutIDmoeBnnKRWDLAtV,Phir Mohabbat,1vUKBCizrhzhTZ8tgqL8db,8,Murder 2,2011-05-30,"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/4auibajZua9Ld8sPMOmPYc'}, 'href': 'https://api.spotify.com/v1/artists/4auibajZua9Ld8sPMOmPYc', 'id': '4auibajZua9Ld8sPMOmPYc', 'name': 'Harshit Saxena', 'type': 'artist', 'uri': 'spotify:artist:4auibajZua9Ld8sPMOmPYc'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/4RnBspN4LbLQPAiKuSvOdV'}, 'href': 'https://api.spotify.com/v1/artists/4RnBspN4LbLQPAiKuSvOdV', 'id': '4RnBspN4LbLQPAiKuSvOdV', 'name': 'Sangeet & Siddharth', 'type': 'artist', 'uri': 'spotify:artist:4RnBspN4LbLQPAiKuSvOdV'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6'}, 'href': 'https://api.spotify.com/v1/artists/09UmIX92EUH9hAK4bxvHx6', 'id': '09UmIX92EUH9hAK4bxvHx6', 'name': 'Mithoon', 'type': 'artist', 'uri': 'spotify:artist:09UmIX92EUH9hAK4bxvHx6'}]",Harshit Saxena,4auibajZua9Ld8sPMOmPYc,both,"[Verse 1: Mohd Irfan]
+Jab jab tere paas mai aaya, ek sukoon mila
+Jise mai tha bhoolta aaya, vo wajood mila
+Jab aaye mausam gham ke, tujhe yaad kiya
+Ho, jab sehme tanhapan se, tujhe yaad kiya
+
+[Chorus: Arijit Singh]
+Hmm, dil, sambhal ja zara
+Phir mohabbat karne chala hai tu
+Dil, yahi ruk ja zara
+Phir mohabbat karne chala hai tu
+
+[Refrain: Mohd Irfan]
+Aisa kyu gar hua?
+Jaanu na, mai jaanu na
+
+[Chorus: Arijit Singh]
+Ho, dil, sambhal ja zara
+Phir mohabbat karne chala hai tu
+Dil, yahi ruk ja zara
+Phir mohabbat karne chala hai tu
+
+[Verse 2: Mohd Irfan]
+Jis raah pe, hai ghar tera
+Aksar vaha se haan mai hu guzra
+Shayad yahi, dil me raha
+Tu mujhko mil jaaye kya pata?
+You might also like[Refrain: Mohd Irfan]
+Kya hai ye silsila?
+Jaanu na, mai jaanu na
+
+[Chorus: Arijit Singh]
+Ho, dil, sambhal ja zara
+Phir mohabbat karne chala hai tu
+Dil, yahi ruk ja zara
+Phir mohabbat karne chala hai tu
+
+[Verse 3: Saim Bhat]
+Kuch bhi nahi, jab darmiyan
+Fir kyu hai dil tere hi khwab bunta?
+Chaha ki de, tujhko bhula
+Par ye bhi mumkin ho na saka!
+Kya hai ye maamla?
+Jaanu na, mai jaanu na
+
+[Chorus: Arijit Singh]
+Ho, dil, sambhal ja zara
+Phir mohabbat karne chala hai tu
+Dil, yahi ruk ja zara
+Phir mohabbat karne chala hai tuEmbed"
+"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v'}, 'href': 'https://api.spotify.com/v1/artists/3eDT9fwXKuHWFvgZaaYC5v', 'id': '3eDT9fwXKuHWFvgZaaYC5v', 'name': 'Sunidhi Chauhan', 'type': 'artist', 'uri': 'spotify:artist:3eDT9fwXKuHWFvgZaaYC5v'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw'}, 'href': 'https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw', 'id': '4YRxDV8wJFPHPTeXepOstw', 'name': 'Arijit Singh', 'type': 'artist', 'uri': 'spotify:artist:4YRxDV8wJFPHPTeXepOstw'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM'}, 'href': 'https://api.spotify.com/v1/artists/3ZxZ03fj3tXBZHZWzvaLSM', 'id': '3ZxZ03fj3tXBZHZWzvaLSM', 'name': 'Neeti Mohan', 'type': 'artist', 'uri': 'spotify:artist:3ZxZ03fj3tXBZHZWzvaLSM'}]",307627,5orNEFkFG4RP24goF02AuD,Kashmir Main Tu Kanyakumari,08hhqmG2yI7741tXn2Zs4g,8,Chennai Express,2013-07-03,"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb'}, 'href': 'https://api.spotify.com/v1/artists/6Mv8GjQa7LKUGCAqa9qqdb', 'id': '6Mv8GjQa7LKUGCAqa9qqdb', 'name': 'Vishal-Shekhar', 'type': 'artist', 'uri': 'spotify:artist:6Mv8GjQa7LKUGCAqa9qqdb'}]",Vishal-Shekhar,6Mv8GjQa7LKUGCAqa9qqdb,both,"[Verse 1]
+chipaka-chipaka ke chalatI haiM kabhI-kabhI do rAheM
+ju.De-ju.De kuCha aise ki lagA ho jaise gum
+Double, double hotI thIM jo kabhI-kabhI taqalIfeM
+hA.N, kisI ke saMga meM chalane se huI half se kama
+
+[Pre-Chorus]
+ho, terA-merA, merA-terA
+terA-merA, merA-terA qissA ataraMgI
+kabhI-kabhI chalatI hai
+kabhI-kabhI rukatI kahAnI beDhaMgI
+
+[Chorus]
+kashmIra maiM, tU kanyAkumArI
+North, South kI kaTa gaI dekho dUrI hI sArI
+kashmIra tU, maiM kanyAkumArI
+50-50 hara situation meM hissedArI, hey-hey
+
+[Verse 2]
+eka tarafa to jhaga.DA hai, sAtha phira bhI taga.DA hai
+do qadama chalate haiM to lagatA hai ATha haiM
+do taraha ke flavor, 100 taraha ke tevara
+dara-ba-dara phirate haiM jI, phira bhI apanI ThATha hai
+
+[Pre-Chorus]
+kabhI-kabhI chaleM sIdhe, kabhI mu.Da jAe.N
+kabhI-kabhI kahIM TUTeM, kahIM ju.Da jAe.N
+hama shAma-o-sahara ke, chAroM pahara ke mood meM Dhala jAe.N
+You might also like[Chorus]
+kashmIra maiM, tU kanyAkumArI
+uttara ne dakShiNa ko afalAtUna A.Nkha mArI
+kashmIra tU, maiM kanyAkumArI
+tela bechane jAe to phira ye duniyA sArI
+
+[Verse 3]
+maiM zarA sA puncture to tU havA ke jaisI hai
+sAtha hoM to pahie taqadIroM ke tight hoM
+Bulb bana jAU.N maiM aura tU switch bana jA
+bhA.Da meM jAe duniyA, apanI battI bright ho
+
+[Pre-Chorus]
+kabhI-kabhI chaleM sIdhe, kabhI mu.Da jAe.N
+kabhI-kabhI paidala, kabhI u.Da jAe.N
+hameM dekha zamAne vAloM kI chAhe nAka siku.Da jAe.N
+
+[Chorus]
+kashmIra maiM, tU kanyAkumArI
+halke-phulke packet meM dekho mushkila bhArI
+kashmIra tU, maiM kanyAkumArI
+hiMdI meM ""gustAKI"" hai, to English meM ""Sorry""
+
+[Verse 1]
+chipaka-chipaka ke chalatI haiM kabhI-kabhI do rAheM
+ju.De-ju.De kuCha aise ki lagA ho jaise gum
+Double, double hotI thIM jo kabhI-kabhI taqalIfeM
+kisI ke saMga meM chalane se huI half se kama
+[Pre-Chorus]
+ho, terA-merA, merA-terA
+terA-merA, merA-terA qissA ataraMgI
+kabhI-kabhI chalatI hai
+kabhI-kabhI rukatI kahAnI beDhaMgI
+
+[Chorus]
+kashmIra maiM, tU kanyAkumArI
+North, South kI kaTa gaI dekho dUrI hI sArI
+kashmIra tU, maiM kanyAkumArI
+50-50 hara situation meM hissedArIEmbed"
+"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k'}, 'href': 'https://api.spotify.com/v1/artists/6CXEwIaXYfVJ84biCxqc9k', 'id': '6CXEwIaXYfVJ84biCxqc9k', 'name': 'Vishal Dadlani', 'type': 'artist', 'uri': 'spotify:artist:6CXEwIaXYfVJ84biCxqc9k'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/35jsUTwBj5cW9GuNB7Xp61'}, 'href': 'https://api.spotify.com/v1/artists/35jsUTwBj5cW9GuNB7Xp61', 'id': '35jsUTwBj5cW9GuNB7Xp61', 'name': 'Hamsika Iyer', 'type': 'artist', 'uri': 'spotify:artist:35jsUTwBj5cW9GuNB7Xp61'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ'}, 'href': 'https://api.spotify.com/v1/artists/5UJ2sHO2ELrgW6aXeRLTQQ', 'id': '5UJ2sHO2ELrgW6aXeRLTQQ', 'name': 'Chinmayi', 'type': 'artist', 'uri': 'spotify:artist:5UJ2sHO2ELrgW6aXeRLTQQ'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/4xlqU0G9EloUPHL1qlmWY6'}, 'href': 'https://api.spotify.com/v1/artists/4xlqU0G9EloUPHL1qlmWY6', 'id': '4xlqU0G9EloUPHL1qlmWY6', 'name': 'Gopi Sundar', 'type': 'artist', 'uri': 'spotify:artist:4xlqU0G9EloUPHL1qlmWY6'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx'}, 'href': 'https://api.spotify.com/v1/artists/2fMqTqiTxUDlmcOEPaQSsx', 'id': '2fMqTqiTxUDlmcOEPaQSsx', 'name': 'Amitabh Bhattacharya', 'type': 'artist', 'uri': 'spotify:artist:2fMqTqiTxUDlmcOEPaQSsx'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/03yzClwzHK7M7wiQMQixry'}, 'href': 'https://api.spotify.com/v1/artists/03yzClwzHK7M7wiQMQixry', 'id': '03yzClwzHK7M7wiQMQixry', 'name': 'Anusha Mani', 'type': 'artist', 'uri': 'spotify:artist:03yzClwzHK7M7wiQMQixry'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v'}, 'href': 'https://api.spotify.com/v1/artists/3eDT9fwXKuHWFvgZaaYC5v', 'id': '3eDT9fwXKuHWFvgZaaYC5v', 'name': 'Sunidhi Chauhan', 'type': 'artist', 'uri': 'spotify:artist:3eDT9fwXKuHWFvgZaaYC5v'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw'}, 'href': 'https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw', 'id': '4YRxDV8wJFPHPTeXepOstw', 'name': 'Arijit Singh', 'type': 'artist', 'uri': 'spotify:artist:4YRxDV8wJFPHPTeXepOstw'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM'}, 'href': 'https://api.spotify.com/v1/artists/3ZxZ03fj3tXBZHZWzvaLSM', 'id': '3ZxZ03fj3tXBZHZWzvaLSM', 'name': 'Neeti Mohan', 'type': 'artist', 'uri': 'spotify:artist:3ZxZ03fj3tXBZHZWzvaLSM'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/6xl0mjD1B4paRyfPDUOynf'}, 'href': 'https://api.spotify.com/v1/artists/6xl0mjD1B4paRyfPDUOynf', 'id': '6xl0mjD1B4paRyfPDUOynf', 'name': 'Brodha V', 'type': 'artist', 'uri': 'spotify:artist:6xl0mjD1B4paRyfPDUOynf'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/7sXLRHrPFtUyS8rfluzj8b'}, 'href': 'https://api.spotify.com/v1/artists/7sXLRHrPFtUyS8rfluzj8b', 'id': '7sXLRHrPFtUyS8rfluzj8b', 'name': 'Smokey', 'type': 'artist', 'uri': 'spotify:artist:7sXLRHrPFtUyS8rfluzj8b'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/2KoCq1Fj7EfFpSm69UqCQK'}, 'href': 'https://api.spotify.com/v1/artists/2KoCq1Fj7EfFpSm69UqCQK', 'id': '2KoCq1Fj7EfFpSm69UqCQK', 'name': 'Enkore', 'type': 'artist', 'uri': 'spotify:artist:2KoCq1Fj7EfFpSm69UqCQK'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/2kUxI9BlfC8j2cx2hdkPIj'}, 'href': 'https://api.spotify.com/v1/artists/2kUxI9BlfC8j2cx2hdkPIj', 'id': '2kUxI9BlfC8j2cx2hdkPIj', 'name': 'Natalie Ram', 'type': 'artist', 'uri': 'spotify:artist:2kUxI9BlfC8j2cx2hdkPIj'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8'}, 'href': 'https://api.spotify.com/v1/artists/2ae6PxICSOZHvjqiCcgon8', 'id': '2ae6PxICSOZHvjqiCcgon8', 'name': 'S. P. Balasubrahmanyam', 'type': 'artist', 'uri': 'spotify:artist:2ae6PxICSOZHvjqiCcgon8'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU'}, 'href': 'https://api.spotify.com/v1/artists/00sCATpEvwH48ays7PlQFU', 'id': '00sCATpEvwH48ays7PlQFU', 'name': 'Jonita Gandhi', 'type': 'artist', 'uri': 'spotify:artist:00sCATpEvwH48ays7PlQFU'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/4Zzi5X3zg2yzMjkwwxaYe4'}, 'href': 'https://api.spotify.com/v1/artists/4Zzi5X3zg2yzMjkwwxaYe4', 'id': '4Zzi5X3zg2yzMjkwwxaYe4', 'name': 'Phoenyx', 'type': 'artist', 'uri': 'spotify:artist:4Zzi5X3zg2yzMjkwwxaYe4'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/3PM03jM3FqYLQqqHQMRNhU'}, 'href': 'https://api.spotify.com/v1/artists/3PM03jM3FqYLQqqHQMRNhU', 'id': '3PM03jM3FqYLQqqHQMRNhU', 'name': 'Zoheb Khan', 'type': 'artist', 'uri': 'spotify:artist:3PM03jM3FqYLQqqHQMRNhU'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/6vdtEGdFKh4hO5EcZgG7qh'}, 'href': 'https://api.spotify.com/v1/artists/6vdtEGdFKh4hO5EcZgG7qh', 'id': '6vdtEGdFKh4hO5EcZgG7qh', 'name': 'Kiran Kamath', 'type': 'artist', 'uri': 'spotify:artist:6vdtEGdFKh4hO5EcZgG7qh'}]",217051,4bN0xT7vNQZ4JbipOXPpn1,Chennai Express Mashup,08hhqmG2yI7741tXn2Zs4g,8,Chennai Express,2013-07-03,"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb'}, 'href': 'https://api.spotify.com/v1/artists/6Mv8GjQa7LKUGCAqa9qqdb', 'id': '6Mv8GjQa7LKUGCAqa9qqdb', 'name': 'Vishal-Shekhar', 'type': 'artist', 'uri': 'spotify:artist:6Mv8GjQa7LKUGCAqa9qqdb'}]",Vishal-Shekhar,6Mv8GjQa7LKUGCAqa9qqdb,both,
+"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO'}, 'href': 'https://api.spotify.com/v1/artists/1mBydYMVBECdDmMfE2sEUO', 'id': '1mBydYMVBECdDmMfE2sEUO', 'name': 'Sachin-Jigar', 'type': 'artist', 'uri': 'spotify:artist:1mBydYMVBECdDmMfE2sEUO'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw'}, 'href': 'https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw', 'id': '4YRxDV8wJFPHPTeXepOstw', 'name': 'Arijit Singh', 'type': 'artist', 'uri': 'spotify:artist:4YRxDV8wJFPHPTeXepOstw'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx'}, 'href': 'https://api.spotify.com/v1/artists/2fMqTqiTxUDlmcOEPaQSsx', 'id': '2fMqTqiTxUDlmcOEPaQSsx', 'name': 'Amitabh Bhattacharya', 'type': 'artist', 'uri': 'spotify:artist:2fMqTqiTxUDlmcOEPaQSsx'}]",261702,1hA697u7e1jX2XM8sWA6Uy,Apna Bana Le,1pw0xzpe4O0OMohBwau50L,5,Bhediya ,2022-12-06,"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO'}, 'href': 'https://api.spotify.com/v1/artists/1mBydYMVBECdDmMfE2sEUO', 'id': '1mBydYMVBECdDmMfE2sEUO', 'name': 'Sachin-Jigar', 'type': 'artist', 'uri': 'spotify:artist:1mBydYMVBECdDmMfE2sEUO'}]",Sachin-Jigar,1mBydYMVBECdDmMfE2sEUO,both,"[Chorus]
+Tu mera koi na hoke bhi kuch laage
+Tu mera koi na hoke bhi kuch laage
+
+[Verse 1]
+Kiya re jo bhi tune kaise kiya re
+Jiya ko mere bandh aise liya re
+
+[Pre-Chorus 1]
+Samajh ke bhi na samajh main saku
+
+[Chorus]
+Saveron ka bhi mere tu sooraj laage
+Tu mera koi na hoke bhi kuch lage
+Tu mera koi na hoke bhi kuch lage
+Tu mera koi na hoke bhi kuch lage
+
+[Post-Chorus]
+Apna bana le piya, apna bana le piya
+Apna bana le mujhe, apna bana le piya
+Apna bana le piya, apna bana le piya
+Dil ke nagar mein shehar tu basa le piya
+
+[Instrumental-break]
+
+[Verse 2]
+Chhune se tere, haan tere, haan tere
+Fikki ruton ko rang lage
+Chhune se tere, haan tere, haan tere
+Fikki ruton ko rang lage
+You might also likeTeri disha mein kyu chalne se mere
+Pairon ko pankh lage
+Raha na mere kaam ka jag sara
+Haan bas tere naam se hi guzara
+
+[Pre-Chorus 2]
+Ulajh ke, yun na sulajh na saku
+
+[Chorus]
+Zubaaniyan teri jhoothi bhi sach lage
+Tu mera koi na hoke bhi kuch lage
+Tu mera koi na hoke bhi kuch lage
+Tu mera koi na hoke bhi kuch lage
+
+[Post-Chorus]
+Apna bana le piya, apna bana le piya
+Apna bana le mujhe, apna bana le piya
+Apna bana le piya, apna bana le piya
+Dil ke nagar mein shehar tu basa le piya
+
+[Outro]
+Ho, sab kuch mera chahe naam apne likha le
+Badle mein itni to yaari nibha le
+Jag ki hirasat se mujhko chuda le
+Apna bana le bas apna bana le
+Apna bana le apna bana leEmbed"
+"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v'}, 'href': 'https://api.spotify.com/v1/artists/3eDT9fwXKuHWFvgZaaYC5v', 'id': '3eDT9fwXKuHWFvgZaaYC5v', 'name': 'Sunidhi Chauhan', 'type': 'artist', 'uri': 'spotify:artist:3eDT9fwXKuHWFvgZaaYC5v'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw'}, 'href': 'https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw', 'id': '4YRxDV8wJFPHPTeXepOstw', 'name': 'Arijit Singh', 'type': 'artist', 'uri': 'spotify:artist:4YRxDV8wJFPHPTeXepOstw'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU'}, 'href': 'https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU', 'id': '1wRPtKGflJrBx9BmLsSwlU', 'name': 'Pritam', 'type': 'artist', 'uri': 'spotify:artist:1wRPtKGflJrBx9BmLsSwlU'}]",296333,2WsOokgXIABWs6kEClLq9n,Yaariyaan - Female Vocals,1y5h6GBXEgFjBDHThikj1w,11,Cocktail ,2012-06-15,"[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU'}, 'href': 'https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU', 'id': '1wRPtKGflJrBx9BmLsSwlU', 'name': 'Pritam', 'type': 'artist', 'uri': 'spotify:artist:1wRPtKGflJrBx9BmLsSwlU'}]",Pritam,1wRPtKGflJrBx9BmLsSwlU,both,
