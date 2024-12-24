@@ -1,10 +1,11 @@
 d3.csv("data/All_Details_with_Lyrics.csv").then(function(songData) {
     // Normalize data
-    const normalizedData = songData.map(row => ({
+    const normalizedData = songData.map((row,index) => ({
         Producer: row["Producer"]?.trim(),
         Album_Name: row["Album_Name"]?.trim(),
         Track_Name: row["Track_Name"]?.trim(),
-        Lyrics: row["Lyrics"]?.trim() // Add Lyrics field
+        Lyrics: row["Lyrics"]?.trim(),
+        rank: index + 1
     }));
 
     const width = window.innerWidth;
@@ -73,7 +74,8 @@ d3.csv("data/All_Details_with_Lyrics.csv").then(function(songData) {
                             Producer: song.Producer,
                             Album_Name: song.Album_Name,
                             Track_Name: song.Track_Name,
-                            Lyrics: song.Lyrics
+                            Lyrics: song.Lyrics,
+                            rank: song.rank
                         }
                     });
                 });
@@ -169,7 +171,7 @@ d3.csv("data/All_Details_with_Lyrics.csv").then(function(songData) {
             .attr("y", -18);
 
         node.filter(d => d.depth === 3).append("text")
-            .text((d, i) => i + 1) // Use the dataset order as the rank
+            .text((d, i) => d.data.data.rank) // Use the dataset order as the rank
             .attr("dy", "0.3em")
             .style("font-size", "10px")
             .style("text-anchor", "middle")
@@ -215,9 +217,13 @@ d3.csv("data/All_Details_with_Lyrics.csv").then(function(songData) {
         }
     }
 
-    d3.select("#updateButton").on("click", function() {
-        const topX = +d3.select("#topSongs").property("value");
-        createForceDirectedTree("Producer", topX);
+    // d3.select("#updateButton").on("click", function() {
+    //     const topX = +d3.select("#topSongs").property("value");
+    //     createForceDirectedTree("Producer", topX);
+    // });
+    d3.select("#topSongs").on("input", function() {
+        const topX = +d3.select(this).property("value"); // Get the new value
+        createForceDirectedTree("Producer", topX); // Update the tree dynamically
     });
 
     createForceDirectedTree("Producer", 27);  // Default to top 27 songs
