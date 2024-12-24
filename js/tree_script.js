@@ -5,7 +5,8 @@ d3.csv("data/All_Details_with_Lyrics.csv").then(function(songData) {
         Album_Name: row["Album_Name"]?.trim(),
         Track_Name: row["Track_Name"]?.trim(),
         Lyrics: row["Lyrics"]?.trim(),
-        rank: index + 1
+        rank: index + 1,
+        spotID: row["id"]?.trim()
     }));
 
     const width = window.innerWidth;
@@ -75,7 +76,8 @@ d3.csv("data/All_Details_with_Lyrics.csv").then(function(songData) {
                             Album_Name: song.Album_Name,
                             Track_Name: song.Track_Name,
                             Lyrics: song.Lyrics,
-                            rank: song.rank
+                            rank: song.rank,
+                            spotID: song.spotID
                         }
                     });
                 });
@@ -159,6 +161,10 @@ d3.csv("data/All_Details_with_Lyrics.csv").then(function(songData) {
                     lyricsContent.textContent = lyrics || "Lyrics not available.";
 
                     lyricsContent.innerHTML = lyrics.replace(/\n/g, '<br>'); // Replace \n with <br>
+
+                    const spotifyPlayer = document.getElementById('spotifyPlayer');
+                    console.log(d.data.data);
+                    spotifyPlayer.src = `https://open.spotify.com/embed/track/${d.data.data.spotID}?utm_source=generator`;
 
                     // Show the sidebar
                     lyricsTab.style.display = 'block';
